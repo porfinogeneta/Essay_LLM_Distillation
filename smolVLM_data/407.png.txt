@@ -1,0 +1,19 @@
+<TITLE_LAST>: "Number of killed soldiers in U.S. wars since World War I as of October 2020"
+[407.png].
+
+1. <Describe a graph:>
+"The table lists the number of fatalities in various U.S. military conflicts from World War I to recent operations."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"The deadliest conflict for the U.S. was World War II, with 405,399 fatalities, followed by World War I with 116,516 deaths. The Korean War resulted in 36,574 fatalities, while the Vietnam Conflict saw 58,220 deaths."
+
+Paragraph 2:
+"More recent conflicts have had significantly fewer fatalities. The Persian Gulf War resulted in 2,586 deaths, and Operation Enduring Freedom had 2,349 fatalities. Operation Iraqi Freedom and Operation New Dawn had 4,418 and 74 fatalities respectively."
+
+Paragraph 3:
+"Operations Inherent Resolve and Freedom's Sentinel, ongoing as of the data's collection, have reported 99 and 93 fatalities respectively."
+
+3. <Write a summary of presented data:>
+"Overall, it is evident that the number of fatalities in U.S. military conflicts has significantly decreased in recent years compared to the major wars of the early 20th century."

@@ -1,0 +1,16 @@
+1. <Describe a graph>:
+"The bar chart illustrates the average ticket prices for National Football League (NFL) games in the United States from 2006 to 2019, measured in U.S. dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a consistent upward trend in ticket prices over the 13-year period. Starting at $62.38 in 2006, the average ticket price steadily increased each year, reaching $102.35 in 2019. This represents a significant rise of approximately 64% over the period."
+
+Paragraph 2:
+"The most notable increases occurred between 2015 and 2019, where the average ticket price jumped from $85.83 to $102.35. This period saw the sharpest rise, indicating a possible surge in demand or changes in pricing strategies by NFL teams."
+
+Paragraph 3:
+"Despite the overall upward trend, the rate of increase varied from year to year. For instance, the rise from 2006 to 2007 was relatively modest at $4.73, whereas the increase from 2018 to 2019 was more substantial at $2.09."
+
+3. <Write a summary of presented data>:
+"In summary, the average ticket price for NFL games has shown a marked increase from 2006 to 2019, reflecting growing consumer willingness to pay for live sports entertainment. The most significant price hikes were observed in the latter part of the period, highlighting a potential shift in market dynamics or economic factors influencing ticket pricing."

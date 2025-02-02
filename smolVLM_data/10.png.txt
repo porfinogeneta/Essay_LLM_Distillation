@@ -1,0 +1,13 @@
+1. Graph description:
+"The bar chart illustrates the distribution of PUBG players worldwide as of June 2017, categorized by country. The data is presented as a percentage share of players from each country."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The United States leads the chart with the highest share of PUBG players at 24%, followed by China with 19%. Germany and Russia each account for 6% of the player base, while South Korea and Japan have relatively lower shares at 5.5% and 4.3% respectively. The United Kingdom contributes 4% to the total player distribution."
+
+Paragraph 2:
+"The remaining countries, grouped under 'Other,' collectively represent the largest share of PUBG players at 31.2%. This indicates a widespread global interest in the game beyond the major countries listed."
+
+3. Overview of the data:
+"Overall, the data reveals a diverse international player base for PUBG, with the United States and China contributing the largest shares. The substantial percentage of players from 'Other' countries highlights the game's global popularity. The distribution underscores the widespread appeal of PUBG across different regions and cultures."
