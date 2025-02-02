@@ -2,14 +2,14 @@ import os
 import pandas as pd
 import cv2
 from datasets import Dataset, Features, Image, Value
-from Logger.logger import setup_logger
+# from Logger.logger import setup_logger
 from system_message import system_message
 
-logger = setup_logger()
+# logger = setup_logger()
 
 
 
-def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
+def collect_data(base_path="/root"):
     data = {
         'image_path': [],
         'title': [],
@@ -23,12 +23,12 @@ def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
             'essays': os.path.join(base_path, "essays_pew"),
             'imgs': os.path.join(base_path, "imgs_pew"),
             'titles': os.path.join(base_path, "titles_pew")
-        },
-        'statista': {
-            'essays': os.path.join(base_path, "essays_statista"),
-            'imgs': os.path.join(base_path, "imgs_statista"),
-            'titles': os.path.join(base_path, "titles_statista")
         }
+        # 'statista': {
+        #     'essays': os.path.join(base_path, "essays_statista"),
+        #     'imgs': os.path.join(base_path, "imgs_statista"),
+        #     'titles': os.path.join(base_path, "titles_statista")
+        # }
     }
 
     for source, path_dict in paths.items():

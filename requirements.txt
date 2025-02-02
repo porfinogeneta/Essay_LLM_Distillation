@@ -1,1 +1,29 @@
-matplotlib
+# Core dependencies
+numpy>=2.2.2
+pandas>=2.2.3
+pillow>=11.1.0
+opencv-python>=4.11.0
+
+# Hugging Face & Dataset handling
+datasets>=3.2.0
+huggingface-hub>=0.28.1
+fsspec>=2024.9.0
+pyarrow>=19.0.0
+
+# File handling and processing
+filelock>=3.17.0
+multiprocess>=0.70.16
+dill>=0.3.8
+xxhash>=3.5.0
+
+# Utilities
+tqdm>=4.67.1
+pyyaml>=6.0.2
+packaging>=24.2
+typing-extensions>=4.12.2
+
+# Optional dependencies (uncomment if needed)
+matplotlib>=3.10.0
+openai>=1.60.2
+ipykernel>=6.29.5
+jupyter_client>=8.6.3
