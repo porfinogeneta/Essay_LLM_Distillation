@@ -80,6 +80,52 @@ def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
     return Dataset.from_dict(dataset_dict, features=features)
 
 
+def cleanup_unused_images(base_path="/Volumes/T7/smolvlm_dataset"):
+    """
+    Remove images that are not referenced in the dataset.
+    This function should be called after collect_data().
+    """
+    # First collect the dataset to know which files are actually used
+    dataset = collect_data(base_path)
+    used_filenames = set(dataset['filename'])
+    
+    paths = {
+        'statista': os.path.join(base_path, "imgs_statista")
+    }
+    
+    deleted_files = []
+    
+    # Check each directory
+    for source, img_dir in paths.items():
+        if not os.path.exists(img_dir):
+            print(f"Warning: Directory {img_dir} does not exist")
+            continue
+            
+        # Get all PNG files in the directory
+        all_images = [os.path.join(img_dir, f) for f in os.listdir(img_dir) 
+                     if f.endswith('.png')]
+        
+        # Find and delete unused images
+        for img_path in all_images:
+            try:
+                # Extract filename without extension and convert to int
+                filename_int = int(os.path.splitext(os.path.basename(img_path))[0])
+                if filename_int not in used_filenames:
+                    os.remove(img_path)
+                    deleted_files.append(img_path)
+            except OSError as e:
+                print(f"Error deleting {img_path}: {e}")
+    
+    # Print summary
+    print(f"Deleted {len(deleted_files)} unused images")
+    if deleted_files:
+        print("Deleted files:")
+        for f in deleted_files:
+            print(f"  - {f}")
+            
+    return deleted_files
+
+
 def format_data(sample):
     return [
         {
@@ -114,3 +160,6 @@ def format_data(sample):
             ],
         },
     ]
+
+if __name__ == "__main__":
+    cleanup_unused_images()
