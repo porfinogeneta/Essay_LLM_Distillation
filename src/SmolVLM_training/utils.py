@@ -3,12 +3,12 @@ import pandas as pd
 import cv2
 from datasets import Dataset, Features, Image, Value
 from huggingface_hub import login
-from Logger.logger import setup_logger
+# from .Logger.logger import setup_logger
 from system_message import system_message
 
 
 
-logger = setup_logger()
+# logger = setup_logger()
 
 
 
@@ -158,8 +158,8 @@ def cleanup_unused_images(base_path="/Volumes/T7/smolvlm_dataset"):
 def push_data_to_huggingface():
     dataset = collect_data()
 
-    logger.debug(f"Dataset size: {len(dataset)}")
-    logger.debug("First sample:", dataset[0])
+    # logger.debug(f"Dataset size: {len(dataset)}")
+    # logger.debug("First sample:", dataset[0])
 
     login() 
 
