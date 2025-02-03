@@ -71,9 +71,6 @@ coverage.xml
 .pytest_cache/
 cover/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # Logs
 *.log
