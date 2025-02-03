@@ -2,6 +2,7 @@
 from typing import Generator, Dict, Any, Optional
 import os
 from tqdm import tqdm
+from itertools import islice
 
 # project imports
 from DataGenerator.generation import GenerateData
@@ -40,7 +41,7 @@ def iter_paired_files(img_dir: str, titles_dir: str) -> Generator[Dict[str, str]
 def save_essays(
         essays_generator: Generator[Dict[str, Any], None, None],
         output_dir: str,
-        start_file: int,
+        start_idx: int,
         max_elements: int = 1000
         ):
     """
@@ -50,21 +51,21 @@ def save_essays(
     os.makedirs(output_dir, exist_ok=True)
 
     
-    for i, result in tqdm(enumerate(essays_generator), total=max_elements):
+    for i, result in tqdm(enumerate(islice(essays_generator, start_idx, None)), total=max_elements):
         if i >= max_elements:
             break
-        if i > start_file and result['status'] == 'success':
-            print(i)
+        if result['status'] == 'success':
             filename = os.path.join(output_dir, f"{os.path.basename(result['plot_name'])}.txt")
-            with open(filename, 'w') as f:
-                f.write(result['essay'])
+            logger.debug(filename)
+            # with open(filename, 'w') as f:
+            #     f.write(result['essay'])
 
 if __name__ == "__main__":
     generator = GenerateData()
     
     # statista dataset
-    img_dir = '/Volumes/T7/smolvlm_dataset/imgs_statista'
-    titles_dir = '/Volumes/T7/smolvlm_dataset/titles_statista'
+    img_dir = '/Volumes/T7/data_plots/Chart-to-text/statista_dataset/dataset/imgs'
+    titles_dir = '/Volumes/T7/data_plots/Chart-to-text/statista_dataset/dataset/titles'
     # pew dataset
     # img_dir = '/Volumes/T7/smolvlm_dataset/imgs_pew'
     # titles_dir = '/Volumes/T7/smolvlm_dataset/titles_pew'
@@ -82,6 +83,6 @@ if __name__ == "__main__":
     
     save_essays(essays_generator,
                 "/Volumes/T7/smolvlm_dataset/essays_statista",
-                start_file=1991,
+                start_idx=1991,
                 max_elements=5000
                 )
