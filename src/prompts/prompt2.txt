@@ -1,22 +1,3 @@
-Analyze the given chart, graph, or diagram step by step and write a structured IELTS Task 1 essay. Follow this approach:
-
-    Introduction (Paraphrase the Question)
-        Identify the type of visual data (bar chart, line graph, pie chart, table, etc.).
-        Clearly state what the visual data represents, including the time frame and units of measurement if applicable.
-
-    Overview (Summarize the Key Trends)
-        Identify the most noticeable trends.
-        Compare the highest and lowest values.
-        Mention any significant increases, decreases, or patterns.
-
-    Detailed Analysis (Body Paragraphs)
-        Break down the data into two logical paragraphs.
-        Compare and contrast figures, using accurate numerical data.
-        Highlight any notable changes or differences.
-
-    Use Academic Language and Varied Vocabulary
-        Use appropriate comparisons (e.g., "twice as much," "a gradual decline," "a sharp increase").
-        Use synonyms to avoid repetition.
-        Structure sentences clearly with linking words (e.g., "in contrast," "similarly," "on the other hand").
-
-Now, analyze the given data and generate a complete IELTS Task 1 response following these steps.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acf79b7ae859a3cbb596fd6336f407bbfcd3c241f67e02b240d509fe7066f40a
+size 1198

@@ -1,16 +1,3 @@
-1. Graph description:
-"The bar chart illustrates the net worth of the 20 richest people in the United States as of March 2020, measured in billion U.S. dollars."
-
-2. Body paragraphs:
-
-Paragraph 1:
-"The chart reveals that Jeff Bezos, the founder of Amazon, leads the list with an estimated net worth of 113 billion U.S. dollars. Bill Gates, co-founder of Microsoft, follows with 98 billion dollars, while Warren Buffet, CEO of Berkshire Hathaway, ranks third with 67.5 billion dollars. Larry Ellison, founder of Oracle, and Mark Zuckerberg, co-founder of Facebook, also feature prominently with net worths of 59 billion and 54.7 billion dollars respectively."
-
-Paragraph 2:
-"Other notable individuals include Jim Walton, Alice Walton, and S. Robson 'Rob' Walton, all heirs to the Walmart fortune, each with net worths ranging from 54.1 to 54.6 billion dollars. Tech moguls such as Steve Ballmer (Microsoft), Larry Page (Google), and Sergey Brin (Google) also appear in the top 20, with net worths between 49.1 and 52.7 billion dollars. Michael Bloomberg, founder of Bloomberg LP, has a net worth of 48 billion dollars."
-
-Paragraph 3:
-"The list further includes Charles Koch and Julia Koch, each with 38.2 billion dollars from Koch Industries, and MacKenzie Bezos, ex-wife of Jeff Bezos, with 36 billion dollars. Phil Knight, co-founder of Nike, has a net worth of 29.5 billion dollars. Sheldon Adelson, John Mars, Jacqueline Mars, and Elon Musk round out the list, with net worths ranging from 24.6 to 26.8 billion dollars."
-
-3. Overview of the data:
-"Overall, the chart highlights the significant wealth accumulated by individuals in the tech industry, with Amazon, Microsoft, Facebook, and Google founders dominating the top positions. The data also underscores the substantial wealth held by heirs of major corporations like Walmart and Koch Industries. The net worths of these individuals reflect the immense economic power and influence they wield in the United States."
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0939575307e06fc5d61c1e44c30b01b85ea55f203932e74d5237937b015638e
+size 1974

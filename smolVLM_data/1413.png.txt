@@ -1,13 +1,3 @@
-1. **Graph description**:
-"The bar chart illustrates the average annual player salary in the U.S. National Basketball Association (NBA) for the 2019/20 season, categorized by team. The salaries are measured in million U.S. dollars."
-
-2. **Body paragraphs**:
-
-Paragraph 1:
-"The chart reveals significant disparities in player salaries across different NBA teams. The Portland Trail Blazers offer the highest average salary at $10.04 million, closely followed by the Golden State Warriors at $9.92 million. In contrast, the Memphis Grizzlies provide the lowest average salary at $7.09 million, with the New York Knicks and Atlanta Hawks also offering relatively lower salaries at $7.08 million and $7.48 million respectively."
-
-Paragraph 2:
-"Teams like the Oklahoma City Thunder and Miami Heat also feature prominently, with average salaries of $9.43 million and $9.3 million respectively. The Cleveland Cavaliers and Los Angeles Clippers offer salaries around the $9 million mark, indicating a competitive salary structure among top-tier teams. The data suggests a trend where teams with higher market values and better performance records tend to offer higher salaries."
-
-3. **Overview of the data**:
-"Overall, the NBA teams exhibit a wide range of average player salaries, reflecting varying financial capabilities and team strategies. The Portland Trail Blazers and Golden State Warriors lead in terms of salary offerings, while teams like the Memphis Grizzlies and New York Knicks are at the lower end of the spectrum. This disparity highlights the financial dynamics within the league, influenced by factors such as team revenue, market size, and player performance."
+version https://git-lfs.github.com/spec/v1
+oid sha256:56db868ab71de6e191e881648b1ff53c9e1684836509c0bd67d6905ea0d01fc0
+size 1671

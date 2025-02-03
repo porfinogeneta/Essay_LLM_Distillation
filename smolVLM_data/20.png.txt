@@ -1,13 +1,3 @@
-1. Graph description:
-The graph illustrates the number of new coronavirus (COVID-19) deaths in Europe from February 2020 to December 2020, with data reported by date.
-
-2. Key points and trends:
-
-Paragraph 1:
-"In February 2020, the number of new deaths was relatively low, starting at zero and gradually increasing. By mid-March, there was a sharp rise, peaking at approximately 5,000 deaths in early April. This was followed by a decline, reaching a low point in June."
-
-Paragraph 2:
-"However, from July onwards, the number of deaths began to rise again, showing a fluctuating pattern with several peaks and troughs. By late October, the numbers surged once more, reaching another peak of around 5,000 deaths in November and December."
-
-3. Overview of the data:
-"Overall, the data reveals two significant waves of COVID-19 deaths in Europe during 2020. The first wave peaked in April, followed by a decline, and the second wave began in July, intensifying towards the year's end. This pattern highlights the ongoing and fluctuating nature of the pandemic in Europe."
+version https://git-lfs.github.com/spec/v1
+oid sha256:72c9c49a8a05d6ba2136e57a669cb290841a7f25ffe53a9b873d197ddb3807ad
+size 1066

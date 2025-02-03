@@ -1,13 +1,3 @@
-1. <Describe a graph:>
-The pie chart illustrates the distribution of coronavirus cases in Italy as of December 29, 2020, categorized by age group.
-
-2. <Find the key points and trends:>
-
-Paragraph 1:
-"The age group with the highest percentage of coronavirus cases is 50-59 years, accounting for 18% of the total cases. This is closely followed by the 40-49 years age group, which comprises 15.9% of the cases. The 30-39 years and 20-29 years age groups each account for 12.3% and 12% of the cases, respectively."
-
-Paragraph 2:
-"The 60-69 years age group represents 11.2% of the cases, while the 70-79 years age group accounts for 8.4%. The 80-89 years age group comprises 7.3% of the cases, and those aged 90 years or older make up 2.8%. The youngest age groups, 0-9 years and 10-19 years, account for 3.8% and 8.3% of the cases, respectively."
-
-3. <Write a summary of presented data:>
-"Overall, the majority of coronavirus cases in Italy are concentrated in the middle-aged and older adult age groups, with the 50-59 years age group having the highest percentage of cases. The younger age groups, particularly those under 20, have significantly lower percentages of cases."
+version https://git-lfs.github.com/spec/v1
+oid sha256:151d9dc5332ae5b665f77696d6d892eb5c7d562d2d09a8dec1f1a12365f0284b
+size 1173
