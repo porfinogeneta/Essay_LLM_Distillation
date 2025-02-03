@@ -2,8 +2,11 @@ import os
 import pandas as pd
 import cv2
 from datasets import Dataset, Features, Image, Value
+from huggingface_hub import login
 from Logger.logger import setup_logger
 from system_message import system_message
+
+
 
 logger = setup_logger()
 
@@ -45,7 +48,7 @@ def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
             if os.path.exists(img_path):
                 data['image_path'].append(img_path)
             else:
-                continue  # Skip if image doesn't exist
+                continue
             
             # Read corresponding title
             title_path = os.path.join(path_dict['titles'], f"{filename}.txt")
@@ -58,6 +61,7 @@ def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
             data['essay'].append(essay)
             data['source'].append(source)
             data['filename'].append(filename)
+
     
     # Create HuggingFace dataset
     features = Features({
@@ -70,7 +74,7 @@ def collect_data(base_path="/Volumes/T7/smolvlm_dataset"):
 
     # Convert image paths to actual images in the dataset
     dataset_dict = {
-        'image': data['image_path'],  # Dataset will handle image loading
+        'image': data['image_path'],
         'title': data['title'],
         'essay': data['essay'],
         'source': data['source'],
@@ -90,13 +94,25 @@ def cleanup_unused_images(base_path="/Volumes/T7/smolvlm_dataset"):
     used_filenames = set(dataset['filename'])
     
     paths = {
-        'statista': os.path.join(base_path, "imgs_statista")
+       'pew': {
+            'imgs': os.path.join(base_path, "imgs_pew"),
+            'titles': os.path.join(base_path, "titles_pew")
+        },
+        'statista': {
+            'imgs': os.path.join(base_path, "imgs_statista"),
+            'titles': os.path.join(base_path, "titles_statista")
+        }
     }
     
-    deleted_files = []
+    deleted_imgs = []
+    deleted_titles = []
     
     # Check each directory
-    for source, img_dir in paths.items():
+    for source in paths:
+
+        img_dir = paths[source]["imgs"]
+        titles_dir = paths[source]["titles"]
+
         if not os.path.exists(img_dir):
             print(f"Warning: Directory {img_dir} does not exist")
             continue
@@ -105,26 +121,52 @@ def cleanup_unused_images(base_path="/Volumes/T7/smolvlm_dataset"):
         all_images = [os.path.join(img_dir, f) for f in os.listdir(img_dir) 
                      if f.endswith('.png')]
         
+        # Get all txt in titles directory
+        all_texts = [os.path.join(titles_dir, f) for f in os.listdir(titles_dir) if f.endswith('.txt')]
+        
         # Find and delete unused images
         for img_path in all_images:
             try:
-                # Extract filename without extension and convert to int
-                filename_int = int(os.path.splitext(os.path.basename(img_path))[0])
+                filename_int = os.path.splitext(os.path.basename(img_path))[0]
                 if filename_int not in used_filenames:
                     os.remove(img_path)
-                    deleted_files.append(img_path)
+                    deleted_imgs.append(img_path)
             except OSError as e:
                 print(f"Error deleting {img_path}: {e}")
+
+        # delete unused titles
+        for title_path in all_texts:
+            try:
+                filename_int = os.path.splitext(os.path.basename(title_path))[0]
+                if filename_int not in used_filenames:
+                    os.remove(title_path)
+                    deleted_titles.append(title_path)
+            except OSError as e:
+                print(f"Error deleting {title_path}: {e}")
     
     # Print summary
-    print(f"Deleted {len(deleted_files)} unused images")
-    if deleted_files:
-        print("Deleted files:")
-        for f in deleted_files:
-            print(f"  - {f}")
+    print(f"Deleted {len(deleted_imgs)} unused images")
+    print(f"Deleted {len(deleted_titles)} unused titles")
+    # if deleted_files:
+    #     print("Deleted files:")
+    #     for f in deleted_files:
+    #         print(f"  - {f}")
             
-    return deleted_files
+    # return deleted_files
 
+
+def push_data_to_huggingface():
+    dataset = collect_data()
+
+    logger.debug(f"Dataset size: {len(dataset)}")
+    logger.debug("First sample:", dataset[0])
+
+    login() 
+
+    dataset.push_to_hub(
+        repo_id="szymmon/SmolVLM_Essay_Structured",
+        private=False   
+    )
 
 def format_data(sample):
     return [
@@ -162,4 +204,5 @@ def format_data(sample):
     ]
 
 if __name__ == "__main__":
-    cleanup_unused_images()
+    # cleanup_unused_images()
+    push_data_to_huggingface()
