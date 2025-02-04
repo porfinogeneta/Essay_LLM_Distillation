@@ -1,11 +1,10 @@
 import os
 import pandas as pd
-import cv2
 from datasets import Dataset, Features, Image, Value
 from huggingface_hub import login
 # from .Logger.logger import setup_logger
-from system_message import system_message
-
+from .system_message import system_message
+from datasets import load_dataset
 
 
 # logger = setup_logger()
@@ -167,6 +166,16 @@ def push_data_to_huggingface():
         repo_id="szymmon/SmolVLM_Essay_Structured",
         private=False   
     )
+
+def load_data_huggingface():
+    dataset = load_dataset("szymmon/SmolVLM_Essay_Structured")
+
+    shuffled_dataset = dataset['train'].shuffle(seed=42)
+
+    # Simple 70-15-15 split
+    total_size = len(shuffled_dataset)
+    train_dataset, test_dataset, eval_dataset = shuffled_dataset.select(range(int(0.7*total_size))), shuffled_dataset.select(range(int(0.7*total_size), int(0.85*total_size))), shuffled_dataset.select(range(int(0.85*total_size), total_size))
+    return train_dataset, test_dataset, eval_dataset
 
 def format_data(sample):
     return [

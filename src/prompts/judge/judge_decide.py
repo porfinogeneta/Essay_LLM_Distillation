@@ -7,8 +7,8 @@ prompt = """
     {golden_essay}
 
     <FIRST>
-    {first_essay}
+    {standard_essay}
 
     <SECOND>
-    {second_essay}
+    {fine_tuned_essay}
 """
