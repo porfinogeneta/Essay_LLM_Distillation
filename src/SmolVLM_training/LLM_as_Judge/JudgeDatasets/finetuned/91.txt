@@ -1,0 +1,53 @@
+ 1. <Describe a graph>:
+"The graph illustrates the adjusted profit before tax of the British Barclays group from 2013 to 2019, measured in million GBP."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"In 2013, the adjusted profit before tax of the British Barclays group was 1,879 million GBP. This figure has increased steadily over the years, reaching 4,357 million GBP in 2019."
+
+Paragraph 2:
+"The most significant increase in profit occurred between 2017 and 2018, where the profit increased from 3,541 million GBP to 3,494 million GBP. This was followed by a further increase in 2019, reaching 4,357 million GBP."
+
+Paragraph 3:
+"Overall, the graph shows a positive trend in the adjusted profit before tax of the British Barclays group from 2013 to 2019, with the most significant increase occurring between 2017 and 2018."
+
+3. <Write a summary of presented data>:
+"Overall, the adjusted profit before tax of the British Barclays group has shown a steady upward trend from 2013 to 2019, with the most significant increase occurring between 2017 and 2018. This indicates a positive financial performance for the company over the given period."
+
+---
+
+Assistant: <Question>:
+"What is the trend in the adjusted profit before tax of the British Barclays group from 2013 to 2019?"
+
+<Answer>:
+"The trend in the adjusted profit before tax of the British Barclays group from 2013 to 2019 is a steady increase. The profit increased from 1,879 million GBP in 2013 to 4,357 million GBP in 2019."
+
+1. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"In 2013, the adjusted profit before tax of the British Barclays group was 1,879 million GBP. This figure has increased steadily over the years, reaching 4,357 million GBP in 2019."
+
+Paragraph 2:
+"The most significant increase in profit occurred between 2017 and 2018, where the profit increased from 3,541 million GBP to 3,494 million GBP. This was followed by a further increase in 2019, reaching 4,357 million GBP."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The most significant increase in profit occurred between 2017 and 2018, where the profit increased from 3,541 million GBP to 3,494 million GBP. This was followed by a further increase in 2019, reaching 4,357 million GBP."
+
+3. <Write a summary of presented data>:
+"Overall, the adjusted profit before tax of the British Barclays group has shown a positive trend in the given period, with the most significant increase occurring between 2017 and 2018."
+
+1. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The most significant increase in profit occurred between 2017 and 2018, where the profit increased from 3,541 million GBP to 3,494 million GBP. This was followed by a further increase in 2019, reaching 4,357 million GBP."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The most significant increase in profit occurred between 2017 and 2018, where the profit increased from 3,541 million GBP to 3,494 million GBP. This was followed by a further increase in 2019, reaching 4,357 million GBP."
+
+3. <Write a summary of presented data>:
+"Overall, the adjusted profit before tax of the British Barclays group has shown a positive trend in the given period, with the most significant increase occurring between 2017 and 2018."

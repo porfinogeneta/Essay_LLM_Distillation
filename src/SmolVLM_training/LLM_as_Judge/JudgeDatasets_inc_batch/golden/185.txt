@@ -1,0 +1,196 @@
+Prohibiting More Oppose than Favor 
+1. <Describe a graph:>
+"The pie chart illustrates the public opinion on prohibiting restaurant trans fats, showing the percentages of people who favor, oppose, or are unsure about the prohibition."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A slight majority of the respondents, 52%, oppose prohibiting trans fats in restaurants. In contrast, 44% of the respondents favor such a prohibition. A small fraction, 4%, of the respondents are unsure or do not know their stance on the issue."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicates that opposition to prohibiting trans fats in restaurants is more prevalent than support, with a notable portion of the population remaining undecided."
+
+Example 4.
+
+<TITLE_4>: "Comparison of Energy Production"
+[IMAGE_4]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The two pie charts illustrate the proportion of five sources of energy production (coal, gas, nuclear, petrol, and other sources) in two different years, 1995 and 2005."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, coal and gas each accounted for nearly 30% of energy production, with coal at 29.80% and gas at 29.63%. Petrol contributed 29.27%, while nuclear energy and other sources were less significant, at 6.40% and 4.90% respectively."
+
+Paragraph 2:
+"By 2005, the energy production landscape had shifted slightly. Coal and gas remained the dominant sources, with coal increasing to 30.93% and gas to 30.31%. Petrol saw a notable decrease to 19.55%. Nuclear energy and other sources both increased, with nuclear rising to 10.10% and other sources to 9.10%."
+
+3. <Write a summary of presented data:>
+"Overall, coal and gas consistently dominated energy production in both years, while petrol experienced a significant decline. Nuclear energy and other sources saw moderate increases, indicating a gradual diversification in energy sources."
+
+Example 5.
+
+<TITLE_5>: "Employment sectors of graduates from Brighton University in 2019."
+[IMAGE_5]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie chart illustrates the career choices of Brighton University's 2019 graduates, giving the percentages who worked in each of various sectors after finishing university."
+
+2. <Find the key points and trends:>
+
+Paragraph 1: 
+"Just under half the students went into industry, with service industries attracting more Brighton graduates than any other sector by far — almost a third (33.0%). About half that number (16.3%) took jobs in manufacturing."
+
+Paragraph 2: 
+"Politics and public service were the next most popular choice, accounting for nearly a fifth of graduates. Just over 12% went into politics and a further 5.6% chose the civil service. The other significant career choices were education (about 15%) and two others: transportation and warehousing, with 7.8%; and science and technology with 7.3%."
+
+Paragraph 3:
+"The least popular choices included work in the charitable sector and careers in sport, both of which were chosen by well under 1% of graduates. Finally, 2.8% entered work in other, unspecified, sectors."
+
+3. <Write a summary of presented data:>
+"Overwhelmingly, industry and government were the most popular employment sectors, far surpassing all other types of employment."
+
+Example 6.
+
+<TITLE_6>: "Percentage of British Students able to speak languages other than English in two given years."
+[IMAGE_6]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie charts display the percentages of British students from one English university who were able to speak languages other than English in 2000 and 2010."
+
+2. <Find the key points and trends:>
+
+Paragraph 1: 
+"Those who spoke only Spanish accounted for the greatest proportions of students in both 2000 and 2010, at 30 and 35 percent respectively. With an increase to 20 and 15 percent, those who spoke another language and those who spoke two other languages became the second and third largest groups in 2010. The proportion of those who spoke no additional languages, in comparison, dropped by half to only 10 percent."
+
+Paragraph 2: 
+"Of those who were able to speak other languages, French-only speakers were the only group whose proportion experienced a decline from 15 to 10 percent, while the proportion of German-only speakers stayed at 10 percent."
+
+3. <Write a summary of presented data:>
+"Overall, the proportion of students who were able to speak additional languages went up in 2010, with Spanish being the most commonly spoken one in both years."
+
+Example 7.
+
+<TITLE_7>: "Prohibiting More Oppose than Favor"
+[IMAGE_7].
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie chart illustrates the public opinion on prohibiting restaurant trans fats, showing the percentages of people who favor, oppose, or are unsure about the prohibition."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A slight majority of the respondents, 52%, oppose prohibiting trans fats in restaurants. In contrast, 44% of the respondents favor such a prohibition. A small fraction, 4%, of the respondents are unsure or do not know their stance on the issue."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicates that opposition to prohibiting trans fats in restaurants is more prevalent than support, with a notable portion of the population remaining undecided."
+
+Example 8.
+
+<TITLE_8>: "Comparison of Energy Production"
+[IMAGE_8]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The two pie charts illustrate the proportion of five sources of energy production (coal, gas, nuclear, petrol, and other sources) in two different years, 1995 and 2005."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, coal and gas each accounted for nearly 30% of energy production, with coal at 29.80% and gas at 29.63%. Petrol contributed 29.27%, while nuclear energy and other sources were less significant, at 6.40% and 4.90% respectively."
+
+Paragraph 2:
+"By 2005, the energy production landscape had shifted slightly. Coal and gas remained the dominant sources, with coal increasing to 30.93% and gas to 30.31%. Petrol saw a notable decrease to 19.55%. Nuclear energy and other sources both increased, with nuclear rising to 10.10% and other sources to 9.10%."
+
+3. <Write a summary of presented data:>
+"Overall, coal and gas consistently dominated energy production in both years, while petrol experienced a significant decline. Nuclear energy and other sources saw moderate increases, indicating a gradual diversification in energy sources."
+
+Example 9.
+
+<TITLE_9>: "Employment sectors of graduates from Brighton University in 2019."
+[IMAGE_9]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie chart illustrates the career choices of Brighton University's 2019 graduates, giving the percentages who worked in each of various sectors after finishing university."
+
+2. <Find the key points and trends:>
+
+Paragraph 1: 
+"Just under half the students went into industry, with service industries attracting more Brighton graduates than any other sector by far — almost a third (33.0%). About half that number (16.3%) took jobs in manufacturing."
+
+Paragraph 2: 
+"Politics and public service were the next most popular choice, accounting for nearly a fifth of graduates. Just over 12% went into politics and a further 5.6% chose the civil service. The other significant career choices were education (about 15%) and two others: transportation and warehousing, with 7.8%; and science and technology with 7.3%."
+
+Paragraph 3:
+"The least popular choices included work in the charitable sector and careers in sport, both of which were chosen by well under 1% of graduates. Finally, 2.8% entered work in other, unspecified, sectors."
+
+3. <Write a summary of presented data:>
+"Overwhelmingly, industry and government were the most popular employment sectors, far surpassing all other types of employment."
+
+Example 10.
+
+<TITLE_10>: "Percentage of British Students able to speak languages other than English in two given years."
+[IMAGE_10]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie charts display the percentages of British students from one English university who were able to speak languages other than English in 2000 and 2010."
+
+2. <Find the key points and trends:>
+
+Paragraph 1: 
+"Those who spoke only Spanish accounted for the greatest proportions of students in both 2000 and 2010, at 30 and 35 percent respectively. With an increase to 20 and 15 percent, those who spoke another language and those who spoke two other languages became the second and third largest groups in 2010. The proportion of those who spoke no additional languages, in comparison, dropped by half to only 10 percent."
+
+Paragraph 2: 
+"Of those who were able to speak other languages, French-only speakers were the only group whose proportion experienced a decline from 15 to 10 percent, while the proportion of German-only speakers stayed at 10 percent."
+
+3. <Write a summary of presented data:>
+"Overall, the proportion of students who were able to speak additional languages went up in 2010, with Spanish being the most commonly spoken one in both years."
+
+Example 11.
+
+<TITLE_11>: "Prohibiting More Oppose than Favor"
+[IMAGE_11].
+
+Follow given structured input:
+1. <Describe a graph:>
+"The pie chart illustrates the public opinion on prohibiting restaurant trans fats, showing the percentages of people who favor, oppose, or are unsure about the prohibition."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A slight majority of the respondents, 52%, oppose prohibiting trans fats in restaurants. In contrast, 44% of the respondents favor such a prohibition. A small fraction, 4%, of the respondents are unsure or do not know their stance on the issue."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicates that opposition to prohibiting trans fats in restaurants is more prevalent than support, with a notable portion of the population remaining undecided."
+
+Example 12.
+
+<TITLE_12>: "Comparison of Energy Production"
+[IMAGE_12]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The two pie charts illustrate the proportion of five sources of energy production (coal, gas, nuclear, petrol, and other sources) in two different years, 1995 and 2005."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, coal and gas each accounted for nearly 30% of energy production, with coal at 29.80% and gas at 29.63%. Petrol contributed 29.27%, while nuclear energy and other sources were less significant, at 6.40% and 4.90% respectively."
+
+Paragraph 2:
+"By 2005, the energy production landscape had shifted slightly. Coal and gas remained the dominant sources, with coal increasing to 30.93% and gas to 30.31%. Petrol saw a notable decrease to 19.55%. Nuclear energy and other sources both increased, with nuclear rising to 10.10% and other sources to 9.10%."
+
+3. <Write a summary of presented data:>
+"Overall, coal and gas consistently dominated energy production in both years, while petrol experienced a significant decline. Nuclear energy and other sources saw moderate increases, indicating a gradual diversification in energy sources."
+
+Example 13.
+
+<TITLE_13>: "Employment sectors of
+<FIRST>

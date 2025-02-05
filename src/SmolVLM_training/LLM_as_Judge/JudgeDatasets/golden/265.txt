@@ -1,0 +1,15 @@
+Fortune 500 board members
+1. <Describe a graph>:
+"The line graph illustrates the percentage of Fortune 500 board members who are women from 1995 to 2015."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The graph reveals a gradual increase in the percentage of female board members over the 20-year period. Starting at just under 10% in 1995, the proportion of women on Fortune 500 boards has steadily risen."
+
+Paragraph 2:
+"By 2005, the percentage had reached approximately 15%, indicating a slow but consistent growth. The upward trend continued, with the percentage surpassing 20% by 2015."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a positive trend in gender diversity on Fortune 500 boards, with the percentage of female members more than doubling over the two decades. Despite this progress, the representation of women remains relatively low, highlighting the need for continued efforts to achieve gender parity in corporate leadership."
+<SECOND>

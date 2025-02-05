@@ -1,0 +1,3 @@
+ 1. Describe the data in the bar chart.
+2. What is the title of the bar chart?
+3. What is the range of data in the bar chart?

@@ -1,0 +1,16 @@
+Corruption perception index score of Brazil from 2012 to 2019
+
+1. <Describe a graph:>
+"The graph illustrates the corruption perception index score of Brazil from 2012 to 2019."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2012, Brazil's corruption perception index score was 43, which slightly decreased to 42 in 2013. The score then rose to 43 in 2014 but experienced a significant decline in the subsequent years, reaching a low of 35 in 2018 and remaining constant in 2019."
+
+Paragraph 2:
+"The period from 2014 to 2017 saw a marked deterioration in Brazil's corruption perception index score. Starting at 43 in 2014, the score plummeted to 38 in 2015, indicating a worsening perception of corruption. Although there was a brief improvement to 40 in 2016, the score again dropped to 37 in 2017."
+
+3. <Write a summary of presented data:>
+"Overall, Brazil's corruption perception index score exhibited a downward trend from 2012 to 2019, reflecting an increasing perception of corruption within the country. The score peaked at 43 in 2012 and 2014 but declined steadily, reaching a low of 35 in 2018 and 2019."
+<THIRD>

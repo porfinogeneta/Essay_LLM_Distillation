@@ -1,0 +1,16 @@
+ 1. <Describe a graph:>
+"The graph illustrates the global OEM automotive parts sales of Faurecia from 2001 to 2019, measured in million U.S. dollars."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2001, Faurecia's global OEM automotive parts sales were at 8,500 million U.S. dollars. Over the years, the sales have steadily increased, reaching a peak of 26,000 million U.S. dollars in 2014. However, the sales declined slightly in the subsequent years, with 24,000 million U.S. dollars in 2015 and 23,000 million U.S. dollars in 2016."
+
+Paragraph 2:
+"The sales then rebounded in 2017, reaching 24,000 million U.S. dollars. However, the sales decreased again in 2018, with 22,000 million U.S. dollars. In 2019, the sales recovered to 21,000 million U.S. dollars, indicating a slight increase from the previous year."
+
+3. <Write a summary of presented data:>
+"Overall, the global OEM automotive parts sales of Faurecia have shown a fluctuating trend over the years. The sales peaked in 2014, followed by a decline in 2015 and 2016. However, the sales rebounded in 2017 and 2018, indicating a positive trend. In 2019, the sales slightly decreased, but remained above the levels of the previous years."
+
+<Write a question based on the given data:>
+"What can be inferred about the global OEM automotive parts sales of Faurecia from 2001 to 2019?"

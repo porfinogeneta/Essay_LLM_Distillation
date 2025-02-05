@@ -1,0 +1,16 @@
+Number of wholesale shipments of motorhomes in the United States from 2007 to 2019 ( in thousands )
+
+1. Graph description:
+"The bar chart illustrates the number of wholesale shipments of motorhomes in the United States from 2007 to 2019, measured in thousands."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The data reveals a fluctuating trend in the number of motorhome shipments over the years. Starting at 55.4 thousand in 2007, there was a significant decline to 13.2 thousand by 2009. However, a gradual recovery is observed from 2010 onwards, with shipments increasing to 24.8 thousand by 2011 and continuing to rise steadily."
+
+Paragraph 2:
+"By 2015, the number of shipments had reached 47.31 thousand, marking a substantial recovery from the low point in 2009. The upward trend persisted, peaking at 62.64 thousand in 2017. Despite a slight decline in subsequent years, the number remained relatively high, with 46.63 thousand shipments recorded in 2019."
+
+3. Overview of the data:
+"Overall, the data indicates a significant recovery in the motorhome industry after the 2008 financial crisis, with shipments reaching their highest levels in 2017. Although there was a minor decline in the following years, the industry maintained a strong performance, reflecting sustained consumer interest in motorhomes."
+<FIRST>

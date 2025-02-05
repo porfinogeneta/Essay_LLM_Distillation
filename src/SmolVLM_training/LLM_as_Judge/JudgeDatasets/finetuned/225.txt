@@ -1,0 +1,17 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the revenue of the mechanical engineering industry in India from 2006 to 2015, measured in billion U.S. dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In 2006, the revenue of the mechanical engineering industry in India was 21.27 billion U.S. dollars. This figure increased gradually over the years, reaching 28.37 billion U.S. dollars in 2007. The revenue further rose to 30.73 billion U.S. dollars in 2008, followed by a slight decline in 2009 to 29.55 billion U.S. dollars. The revenue then increased significantly in 2010, reaching 43.73 billion U.S. dollars, and continued to rise in subsequent years, peaking at 46.09 billion U.S. dollars in 2011."
+
+Paragraph 2:
+"The revenue of the mechanical engineering industry in India declined slightly in 2012, reaching 41.37 billion U.S. dollars. However, it rebounded in 2013, reaching 34.27 billion U.S. dollars, and continued to rise in subsequent years, peaking at 40.18 billion U.S. dollars in 2015."
+
+3. <Write a summary of presented data>:
+"Overall, the revenue of the mechanical engineering industry in India has shown a positive trend from 2006 to 2015, with a notable increase in revenue from 2006 to 2010, followed by a slight decline in 2011 and 2012. The revenue then rebounded in 2013 and continued to rise in 2014 and 2015, reaching the highest value in 2015 at 40.18 billion U.S. dollars."
+
+### Answer:
+
+The bar chart illustrates the revenue of the mechanical engineering industry in India from 2006 to 2015, measured in billion U.S. dollars. The revenue of the industry has shown a positive trend from 2006 to 2015, with a notable increase in revenue from 2006 to 2010, followed by a slight decline in 2011 and 2012. The revenue then rebounded in 2013 and continued to rise in subsequent years, peaking at 40.18 billion U.S. dollars in 2015.

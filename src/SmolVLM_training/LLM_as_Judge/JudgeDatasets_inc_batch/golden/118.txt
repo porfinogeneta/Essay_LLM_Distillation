@@ -1,0 +1,16 @@
+Number of foreign tourist arrivals in the hotel industry in Corsica in 2013 , by geographical origin
+
+1. Graph description:
+"The bar chart illustrates the number of foreign tourist arrivals in the hotel industry in Corsica in 2013, categorized by geographical origin. The data is presented in numerical values, representing the number of arrivals from various countries and regions."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The chart reveals that Italy had the highest number of tourist arrivals in Corsica in 2013, with a total of 60,437 visitors. Germany followed closely, contributing 49,572 arrivals. Switzerland and Belgium also showed significant numbers, with 36,409 and 33,805 tourists respectively. The United Kingdom, although lower than the aforementioned countries, still had a notable presence with 20,796 arrivals."
+
+Paragraph 2:
+"Other countries had considerably fewer tourists visiting Corsica. The Netherlands and Sweden recorded 12,296 and 10,302 arrivals respectively. Canada and the United States had even fewer tourists, with 8,183 and 6,481 arrivals. Russia, Spain, and Denmark had minimal representation, with 4,830, 4,343, and 2,431 tourists respectively. Australia, Central and South America, and Africa had even fewer visitors, with 1,731, 1,381, and 1,018 arrivals. Japan and China had the least number of tourists, with only 748 and 140 arrivals."
+
+3. Overview of the data:
+"Overall, the data indicates a strong preference for Corsica among tourists from European countries, particularly Italy and Germany. The number of arrivals from non-European countries was significantly lower, highlighting a potential area for growth in attracting a more diverse international tourist base."
+<FIRST>

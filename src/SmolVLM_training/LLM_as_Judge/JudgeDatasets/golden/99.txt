@@ -1,0 +1,16 @@
+Cote d'Ivoire : Infant mortality rate from 2009 to 2019 ( in deaths per 1,000 live births )
+
+1. <Describe a graph>:
+"The bar chart illustrates the infant mortality rate in Cote d'Ivoire from 2009 to 2019, measured in deaths per 1,000 live births."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart reveals a consistent decline in infant mortality rates over the decade. Starting at 76.7 deaths per 1,000 live births in 2009, the rate decreased steadily each year, reaching 58.6 deaths per 1,000 live births by 2019."
+
+Paragraph 2:
+"This downward trend signifies an improvement in healthcare and living conditions. The most notable reduction occurred between 2009 and 2010, where the rate dropped from 76.7 to 74.7. Although the decline continued annually, the rate of decrease slowed down in the latter years, with the smallest drop observed between 2018 and 2019."
+
+3. <Write a summary of presented data>:
+"Overall, Cote d'Ivoire has made significant progress in reducing infant mortality over the past decade. The data indicates a positive trend towards better health outcomes for infants, reflecting ongoing efforts to enhance healthcare services and overall living conditions in the country."
+<SECOND>

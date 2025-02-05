@@ -1,0 +1,16 @@
+ 1. <Describe a graph>:
+"The graph illustrates the global prevalence of chronic respiratory diseases in 2007, with estimates provided in millions of persons."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The prevalence of chronic obstructive pulmonary disease (COPD) is the highest among the chronic respiratory diseases, with an estimated 210 million individuals affected in 2007. This figure is significantly higher than the prevalence of asthma, which is estimated at 300 million individuals."
+
+Paragraph 2:
+"In contrast, the prevalence of sleep apnea syndrome is relatively lower, with an estimated 100 million individuals affected in 2007. This figure is significantly lower than the prevalence of chronic obstructive pulmonary disease (COPD)."
+
+Paragraph 3:
+"The prevalence of other respiratory diseases is also relatively lower, with an estimated 50 million individuals affected in 2007. This figure is significantly lower than the prevalence of chronic obstructive pulmonary disease (COPD)."
+
+3. <Write a summary of presented data>:
+"Overall, the prevalence of chronic respiratory diseases is highest among chronic obstructive pulmonary disease (COPD), followed by asthma. Sleep apnea syndrome and other respiratory diseases have the lowest prevalence, with estimates ranging from 100 to 50 million individuals affected in 2007."

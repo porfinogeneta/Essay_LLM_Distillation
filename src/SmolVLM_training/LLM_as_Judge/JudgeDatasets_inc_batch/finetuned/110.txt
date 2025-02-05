@@ -1,0 +1,34 @@
+ 1. **Graph Description:**
+
+"The bar chart illustrates the share of online shoppers among teen internet users in the United States as of August 2016, categorized by whether they purchased in-store or online."
+
+2. **Key Points and Analysis:**
+
+**1. Purchase in-store:**
+
+- **Percentage of Teen Internet Users:** 88% of teen internet users purchased in-store.
+- **Comparison to Online Shopping:** This percentage is significantly higher than the 68% who purchased online.
+
+**2. Purchase Online:**
+
+- **Percentage of Teen Internet Users:** 68% of teen internet users purchased online.
+- **Comparison to In-store Shopping:** This percentage is lower than the 88% who purchased in-store.
+
+**3. Overall Trends:**
+
+- **Purchase in-store Dominance:** The data indicates that in-store shopping is more prevalent among teen internet users, with 88% purchasing in-store compared to 68% purchasing online.
+- **Online Shopping Growth:** Despite the higher percentage of in-store purchases, online shopping is still gaining traction, with 68% of teen internet users purchasing online.
+
+**4. Relevant Statistics and Trends:**
+
+- **Comparison to 2015:** The data shows a slight increase in online shopping from 2015, with 68% of teen internet users purchasing online in 2016 compared to 62% in 2015.
+- **Impact of COVID-19:** The data suggests that the pandemic has influenced shopping habits, with a higher percentage of teens purchasing in-store due to the closure of physical stores.
+
+**5. Additional Information:**
+
+- **Source:** The data is sourced from a statistic published in August 2016.
+- **Graph Type:** The bar chart is a visual representation of data, illustrating the share of online shoppers among teen internet users.
+
+**6. **Conclusion:**
+
+The data reveals that while in-store shopping remains dominant among teen internet users, online shopping is gaining ground, with a higher percentage of teens purchasing online in 2016 compared to 2015. This trend suggests a shift towards online shopping, possibly influenced by the pandemic.

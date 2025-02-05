@@ -1,0 +1,62 @@
+ 1. **Graph Description:**
+
+The graph illustrates the share of haunted house visitors in the United States between 2014 and 2016, categorized by age group. The data is presented as a bar chart, with each bar representing a different age group.
+
+1. **Age Group 18-24:**
+   - **Percentage:** 25%
+
+2. **Age Group 25-34:**
+   - **Percentage:** 19.6%
+
+3. **Age Group 35-44:**
+   - **Percentage:** 16.9%
+
+4. **Age Group 45-54:**
+   - **Percentage:** 11.8%
+
+5. **Age Group 55-64:**
+   - **Percentage:** 6.4%
+
+6. **Age Group 65+:**
+   - **Percentage:** 2.3%
+
+**Key Aspects and Trends:**
+
+- **Age Group 18-24:** This age group is the most likely to visit haunted houses, with 25% of respondents falling into this category.
+- **Age Group 25-34:** This age group also shows a significant interest in haunted houses, with 19.6% of respondents in this age range visiting haunted houses.
+- **Age Group 35-44:** The interest in haunted houses decreases slightly with this age group, with 16.9% of respondents in this age range visiting haunted houses.
+- **Age Group 45-54:** The interest further declines, with 11.8% of respondents in this age range visiting haunted houses.
+- **Age Group 55-64:** The interest in haunted houses is the lowest among these age groups, with 6.4% of respondents in this age range visiting haunted houses.
+- **Age Group 65+:** The interest in haunted houses is the lowest among these age groups, with only 2.3% of respondents in this age range visiting haunted houses.
+
+**Analysis and Conclusion:**
+
+Overall, the data indicates that younger age groups (18-24 and 25-34) are more likely to visit haunted houses compared to older age groups. The interest in haunted houses decreases with increasing age, suggesting that younger individuals may be more inclined to explore the paranormal and supernatural. This trend could be influenced by factors such as curiosity, fear, or a desire for adventure, which are more prevalent among younger generations.
+
+**Additional Information:**
+
+- **Source:** The data is sourced from a 2014-2016 survey conducted by the National Haunted House Association.
+- **Graph Format:** The bar chart is presented with a categorical scale on the x-axis labeled "Age in years," and a linear scale of range 0 to 30 on the y-axis, labeled "Share of respondents."
+- **Visual Elements:** The bars are colored in blue, with a gradient from light to dark blue. The title of the graph is "Share of haunted house visitors in the United States between 2014 and 2016 , by age group."
+
+**Question and Answer:**
+
+**Question:**
+
+**Answer:**
+
+**Question:**
+
+**Answer:**
+
+**Question:**
+
+**Answer:**
+
+**Question:**
+
+**Answer:**
+
+**Question:**
+
+**Answer:**

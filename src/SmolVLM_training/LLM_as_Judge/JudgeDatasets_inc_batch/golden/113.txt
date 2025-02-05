@@ -1,0 +1,15 @@
+A majority of Facebook users have 10 or more categories listed on their ad preferences page
+1. <Describe a graph:>
+The pie chart illustrates the distribution of categories listed on the ad preferences page of U.S. adult Facebook users, based on a survey conducted from September 4 to October 1, 2018.
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A significant majority of Facebook users have a substantial number of categories listed on their ad preferences page. Specifically, 33% of users have 21 or more categories, while another 27% have between 10 and 20 categories. This indicates that over half of the users have a considerable amount of data categorized for advertising purposes."
+
+Paragraph 2:
+"On the other hand, 27% of users have fewer than 10 categories listed, and 11% are not assigned to any category at all. Additionally, a small fraction, 2%, did not provide an answer regarding their ad preferences categories."
+
+3. <Write a summary of presented data:>
+"Overall, the data suggests that a majority of Facebook users have a significant number of categories listed on their ad preferences page, reflecting the extensive data collection and categorization practices by the platform. However, a notable portion of users have fewer categories or are not categorized at all, indicating some variation in data collection and user engagement with ad preferences settings."
+<SECOND>

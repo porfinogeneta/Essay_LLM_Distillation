@@ -1,0 +1,16 @@
+ 1. <Describe a graph:>
+"The bar chart illustrates the quarterly retail sales of women's lingerie, sleepwear, and underwear in Canada from 2014 to 2019, measured in million Canadian dollars."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"The sales of women's lingerie, sleepwear, and underwear in Canada have generally increased from 2014 to 2019, with a notable spike in 2018. The highest sales were recorded in the fourth quarter of 2018, reaching over 650 million Canadian dollars."
+
+Paragraph 2:
+"The sales in the first quarter of 2019 were slightly lower than the previous year, but still above the 400 million Canadian dollar mark. The sales in the second quarter of 2019 were also slightly lower, indicating a slight decline compared to the previous quarter. However, the sales in the third quarter of 2019 were higher than the previous year, reaching over 550 million Canadian dollars."
+
+Paragraph 3:
+"The sales in the fourth quarter of 2019 were the highest recorded in the given period, surpassing the previous year's sales by approximately 100 million Canadian dollars. This indicates a significant increase in sales during this quarter, potentially driven by holiday shopping season."
+
+3. <Write a summary of presented information:>
+"Overall, the data suggests a positive trend in the sales of women's lingerie, sleepwear, and underwear in Canada from 2014 to 2019. The highest sales were recorded in the fourth quarter of 2018, indicating a strong holiday shopping season. However, there was a slight decline in the sales in the first quarter of 2019, but the sales in the second quarter were higher, indicating a recovery. The sales in the third quarter of 2019 were lower than the previous year, but the sales in the fourth quarter of 2019 were the highest recorded, surpassing the previous year's sales by approximately 100 million Canadian dollars."

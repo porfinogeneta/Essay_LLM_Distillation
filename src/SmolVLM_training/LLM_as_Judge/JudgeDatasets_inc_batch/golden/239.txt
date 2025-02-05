@@ -1,0 +1,16 @@
+Major producers of cow milk worldwide in 2019 , by country ( in million metric tons )
+
+1. **Graph description**:
+"The bar chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The expenditure is measured in pounds sterling."
+
+2. **Body paragraphs**:
+
+Paragraph 1:
+"In terms of cars, the UK exhibited a higher expenditure, reaching approximately £450,000, compared to France's £400,000. Similarly, the UK surpassed France in spending on books, with around £400,000 versus £300,000. The expenditure on cameras in the UK, just over £350,000, was more than double that of France, which was only £150,000."
+
+Paragraph 2:
+"On the other hand, France outspent the UK on computers and perfume. The French expenditure on computers was slightly above £350,000, marginally higher than the UK's exact £350,000. For perfume, France spent about £200,000, whereas the UK spent under £150,000."
+
+3. **Overview of the data**:
+"Overall, the UK spent more on consumer goods than France in 2010. Both countries allocated the most funds to cars, while the least was spent on perfume in the UK and cameras in France. The most significant disparity in spending between the two nations was observed in cameras, with the UK spending substantially more."
+<SECOND>

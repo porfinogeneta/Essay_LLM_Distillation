@@ -1,0 +1,15 @@
+Journalists, ISPs, Data Protection
+1. <Describe a graph:>
+"The pie chart illustrates the level of confidence investigative journalists have in Internet Service Providers (ISPs) to protect their data, based on a survey conducted by the Pew Research Center in December 2014."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"The overwhelming majority of investigative journalists, 71%, have little to no confidence in ISPs to safeguard their data. This sentiment is split between those who have 'not much or no confidence at all' (71%) and those who have 'some confidence' (27%)."
+
+Paragraph 2:
+"In stark contrast, only a minuscule fraction of journalists, 2%, express a high level of confidence in ISPs. This indicates a significant trust deficit between journalists and ISPs regarding data protection."
+
+3. <Write a summary of presented data:>
+"Overall, the data reveals a profound lack of trust among investigative journalists in ISPs' ability to protect their data, with a mere 2% having a lot of confidence, while 71% have little or no confidence at all."
+<SECOND>

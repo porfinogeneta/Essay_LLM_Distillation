@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the number of Mercedes cars sold in Turkey from 2012 to 2019, with a focus on the units sold in 2012 and 2019."
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+"In 2012, the number of Mercedes cars sold in Turkey was 12,730 units. This figure increased to 20,023 units in 2013, and further rose to 23,100 units in 2014. The sales continued to rise, reaching 30,333 units in 2015. By 2016, the sales had peaked at 32,666 units, indicating a significant increase in demand for Mercedes cars in Turkey."
+
+Paragraph 2:
+"The sales of Mercedes cars in Turkey declined from 2016 onwards. In 2016, the sales were at 32,666 units, but by 2017, the sales dropped to 25,588 units. The sales further decreased in 2018, reaching 14,445 units, and further declined in 2019, with only 9,862 units sold."
+
+3. <Write a summary of presented information>:
+"Overall, the data reveals a significant increase in the sales of Mercedes cars in Turkey from 2012 to 2016, followed by a sharp decline in 2017 and 2018. The sales further decreased in 2019, indicating a potential shift in consumer preferences or market conditions."

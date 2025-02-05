@@ -1,0 +1,22 @@
+ The line chart illustrates the trend of removals of unauthorized immigrants in the United States from fiscal year 2000 to 2018. The data is presented in two formats: removals of unauthorized immigrants and removals of unauthorized immigrants by fiscal year.
+
+**Removals of unauthorized immigrants:**
+
+- **Total:** The total number of removals of unauthorized immigrants has increased from 188,467 in fiscal year 2000 to 337,287 in fiscal year 2018.
+- **Increase:** The number of removals has risen steadily from 2000 to 2018, with the most significant increase between fiscal years 2008 and 2010.
+- **Decrease:** There was a slight decrease in removals between fiscal years 2010 and 2012, followed by a gradual increase from 2012 to 2018.
+
+**Removals of unauthorized immigrants by fiscal year:**
+
+- **Fiscal Year 2000:** The number of removals in fiscal year 2000 was 188,467.
+- **Fiscal Year 2018:** The number of removals in fiscal year 2018 was 337,287.
+
+**Key Aspects and Trends:**
+
+- **Increase in Removal Rate:** The removal rate of unauthorized immigrants has increased significantly over the years. From fiscal year 2000 to 2018, the removal rate has risen from 188,467 to 337,287, which is a 77% increase.
+- **Fiscal Year 2018:** The highest number of removals was recorded in fiscal year 2018, with 337,287 removals. This is a significant increase from the previous year, indicating a continued rise in the removal rate.
+- **Decrease in Removal Rate:** There was a slight decrease in the removal rate between fiscal years 2010 and 2012, followed by a gradual increase from 2012 to 2018.
+
+**Conclusion:**
+
+Overall, the data shows a consistent upward trend in the removal of unauthorized immigrants in the United States from fiscal year 2000 to 2018. The most significant increase occurred between fiscal years 2008 and 2010, followed by a gradual increase from 2012 to 2018. The removal rate has risen significantly, with the highest number of removals recorded in fiscal year 2018. This indicates a continued effort by the U.S. government to enforce immigration laws and remove unauthorized immigrants from the country.

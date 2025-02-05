@@ -1,0 +1,56 @@
+ 1. **Table 1: Leading players of the national football team of Senegal at FIFA World Cup as of June 2018, by market value ( in million euros )**
+
+| Player | Market value (in million euros) |
+|---|---|
+| Sadio Mané | 70 |
+| Kalidou Koulibaly | 60 |
+| Keita Baldé | 30 |
+| Idrissa Gueye | 20 |
+| Salif Sané | 10 |
+| Badou Ndiaye | 15 |
+| Ismaïla Sarr | 14 |
+| Cheikhou Kouyaté | 12 |
+| M'Baye Niang | 10 |
+| Mame Diouf | 7 |
+| Youssouf Sabaly | 7 |
+| Kara | 7 |
+| Moussa Konaté | 6 |
+| Alfred N'Diaye | 5 |
+| Diafra Sakho | 5 |
+| Alfred Gomis | 3 |
+| Cheikh N'Doye | 2.5 |
+| Moussa Sow | 1.5 |
+| Lamine Gassama | 1.25 |
+| Abdoulaye Diallo | 1 |
+| Moussa Wagüé | 1 |
+| Saliou Ciss | 0.8 |
+| Khadim N'Diaye | 0.25 |
+
+2. **Graph 1: Market value of leading players of the national football team of Senegal at FIFA World Cup as of June 2018**
+
+The graph shows the market value of the leading players of the national football team of Senegal at FIFA World Cup as of June 2018. The data is presented in a bar chart format, with each player's name and market value displayed on the x-axis. The y-axis represents the market value in million euros.
+
+**Key findings:**
+
+- **Sadio Mané:** The market value of Sadio Mané is the highest at 70 million euros.
+- **Kalidou Koulibaly:** Kalidou Koulibaly follows with a market value of 60 million euros.
+- **Keita Baldé:** Keita Baldé has a market value of 30 million euros.
+- **Idrissa Gueye:** Idrissa Gueye has a market value of 20 million euros.
+- **Salif Sané:** Salif Sané has a market value of 10 million euros.
+- **Badou Ndiaye:** Badou Ndiaye has a market value of 15 million euros.
+- **Ismaïla Sarr:** Ismaïla Sarr has a market value of 14 million euros.
+- **Cheikhou Kouyaté:** Cheikhou Kouyaté has a market value of 12 million euros.
+- **M'Baye Niang:** M'Baye Niang has a market value of 10 million euros.
+- **Mame Diouf:** Mame Diouf has a market value of 7 million euros.
+- **Youssouf Sabaly:** Youssouf Sabaly has a market value of 7 million euros.
+- **Kara:** Kara has a market value of 7 million euros.
+- **Moussa Konaté:** Moussa Konaté has a market value of 6 million euros.
+- **Alfred N'Diaye:** Alfred N'Diaye has a market value of 5 million euros.
+- **Diafra Sakho:** Diafra Sakho has a market value of 5 million euros.
+- **Alfred Gomis:** Alfred Gomis has a market value of 3 million euros.
+- **Cheikh N'Doye:** Cheikh N'Doye has a market value of 2.5 million euros.
+- **Moussa Sow:** Moussa Sow has a market value of 1.5 million euros.
+- **Lamine Gassama:** Lamine Gassama has a market value of 1.25 million euros.
+- **Abdoulaye Diallo:** Abdoulaye Diallo has a market value of 1 million euros.
+- **Moussa Wagüé:** Moussa Wagüé has a market value of 1 million euros.
+- **Saliou Ciss:** Saliou Ciss has a market value of 0.8

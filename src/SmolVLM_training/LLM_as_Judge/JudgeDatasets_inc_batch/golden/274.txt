@@ -1,0 +1,15 @@
+growth, incarceration in U.S. has waned Number of people incarcerated (in millions)
+1. Graph description:
+The graph illustrates the changes in population of India and China from 2000 to 2050, with data points marked for every decade.
+
+2. Body paragraphs:
+
+Paragraph 1:
+In 2000, China's population was approximately 1.25 billion, which increased steadily to around 1.35 billion by 2010. The population is projected to peak at 1.45 billion around 2025 before it begins to decline, reaching an estimated 1.4 billion by 2050.
+
+Paragraph 2:
+Conversely, India's population started at one billion in 2000 and has been rising rapidly, reaching just under 1.25 billion by 2010. The trend indicates a continuous upward trajectory, with India expected to surpass China in population around 2030 and reach a peak of 1.6 billion by 2050.
+
+3. Overview of the data:
+Overall, while China's population is anticipated to decline after 2030, India's population is expected to continue growing, highlighting a significant demographic shift between the two nations over the next few decades.
+<SECOND>

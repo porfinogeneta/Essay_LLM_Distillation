@@ -1,0 +1,60 @@
+Who Are Cultural Catholics? Among all USS adults Ex: Other Catholic Catholic Catholic connection 20% Cultural Catholic Of cultural Catholics, % who say is essential to being Catholic % of cultural Catholics who
+1. <Describe a graph>:
+"The chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The expenditure is measured in pounds sterling."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In terms of cars, the UK spent approximately £450,000, which is higher than France's expenditure of £400,000. Similarly, the UK also spent more on books, with around £400,000 compared to France's £300,000. The expenditure on cameras in the UK was just over £350,000, more than double France's £150,000."
+
+Paragraph 2:
+"On the other hand, France spent more on computers and perfume. The French expenditure on computers was slightly above £350,000, marginally higher than the UK's £350,000. France also spent more on perfume, with £200,000 compared to the UK's expenditure of under £150,000."
+
+3. <Write a summary of presented data>:
+"Overall, the UK spent more on consumer goods than France in 2010. Both countries spent the most on cars, while the least was spent on perfume in the UK and cameras in France. The most significant difference in expenditure between the two countries was on cameras, with the UK spending substantially more."
+
+Example 2.
+
+<TITLE_2>: "The chart shows the average household spending pattern for households in three income categories as a proportion of their income."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph>:
+"The bar charts show data about computer ownership, with a further classification by level of education, from 2002 to 2010."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1: 
+"An analysis of the data by level of education shows that higher levels of education correspond to higher levels of computer ownership in both of those years."
+
+Paragraph 2: 
+"In 2002, only around 15% of those who did not finish high school had a computer but this figure had trebled by 2010. There were also considerable increases, of approximately 30 percentage points, for those with a high school diploma or an unfinished college education (reaching 65% and 85% respectively in 2010). However, graduates and postgraduates proved to have the greatest level of ownership in 2010, at 90% and 95% respectively, 20 percentage points higher than in 2002."
+
+Paragraph 3:
+"The last decade has seen a substantial growth in computer ownership in general, and across all educational levels."
+
+3. <Write a summary of presented data>:
+"A steady but significant rise can be seen in the percentage of the population that owned a computer over the period. Just over half the population owned computers in 2002, whereas by 2010 three out of four people had a home computer."
+
+Answer.
+
+<TITLE_LAST>: "Who Are Cultural Catholics? Among all USS adults Ex: Other Catholic Catholic Catholic connection 20% Cultural Catholic Of cultural Catholics, % who say is essential to being Catholic % of cultural Catholics who"
+[673.png].
+
+1. <Describe a graph>:
+"The chart illustrates the distribution of cultural Catholics among all U.S. adults and their beliefs and practices."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"Among all U.S. adults, 20% identify as Catholic, while 9% are ex-Catholics, and another 9% have other Catholic connections. A significant 55% have no Catholic connection at all."
+
+Paragraph 2:
+"Of cultural Catholics, 60% believe having a relationship with Jesus is essential to being Catholic, followed by 59% who think helping the poor and needy is crucial. Additionally, 57% emphasize the belief in Jesus' actual resurrection."
+
+Paragraph 3:
+"Regarding practices, 41% of cultural Catholics consider receiving the sacrament of the anointing of the sick important, while 33% gave something up or did something extra for Lent. Furthermore, 32% attend Mass at least once a year, and 26% receive Communion when they attend Mass."
+
+3. <Write a summary of presented data>:
+"Overall, the data highlights the diverse beliefs and practices among cultural Catholics, with a significant emphasis on personal faith and charitable actions. The majority of cultural Catholics value a relationship with Jesus and helping the needy, while a notable portion engage in traditional Catholic practices such as attending Mass and receiving Communion."
+<SECOND>

@@ -1,0 +1,19 @@
+Number of Mercedes cars sold in Turkey from 2012 to 2019
+
+1. <Describe a graph>:
+"The bar chart illustrates the number of Mercedes cars sold in Turkey from 2012 to 2019. The units are measured in thousands."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a fluctuating trend in the sales of Mercedes cars over the given period. Starting at 12,730 units in 2012, there was a noticeable increase in sales, peaking at 32,666 units in 2016. This represents the highest sales figure within the observed timeframe."
+
+Paragraph 2:
+"Following the peak in 2016, a decline in sales is evident. By 2019, the number of units sold had decreased to 9,862, which is the lowest figure recorded in the chart. This decline signifies a substantial drop from the peak sales achieved just three years prior."
+
+Paragraph 3:
+"Despite the overall upward trend from 2012 to 2016, the subsequent years show a downward trajectory. The data suggests that while there was a period of growth, market conditions or other factors led to a significant reduction in sales towards the end of the decade."
+
+3. <Write a summary of presented data>:
+"In summary, the number of Mercedes cars sold in Turkey experienced a notable rise from 2012 to 2016, followed by a sharp decline through to 2019. The peak in 2016 contrasts sharply with the low sales figures recorded in 2019, indicating a volatile market for Mercedes cars in Turkey during this period."
+<SECOND>

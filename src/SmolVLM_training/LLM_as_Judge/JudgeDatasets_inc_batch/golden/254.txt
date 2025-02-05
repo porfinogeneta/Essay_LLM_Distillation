@@ -1,0 +1,18 @@
+Number of asylum applicants in Canada spiked to more than 50,000 in 2017 Asylum applications filed each year in Canada 60, LOOO 50 000
+1. <Describe a graph>:
+"The bar chart illustrates the number of asylum applicants in Canada from 1996 to 2017, with a notable spike in 2017 reaching over 50,000 applicants."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals significant fluctuations in the number of asylum applicants over the years. In 1996, the number of applicants was relatively low, around 20,000. This number increased dramatically in 2001, peaking at approximately 44,640 applicants."
+
+Paragraph 2:
+"Following the peak in 2001, there was a noticeable decline in the subsequent years, with numbers dropping to around 30,000 by 2006. The trend continued to decline, reaching its lowest point in 2011 with fewer than 20,000 applicants. However, a resurgence began in the following years, culminating in a significant spike in 2017."
+
+Paragraph 3:
+"The spike in 2017 is particularly striking, with the number of asylum applicants surging to over 50,000, the highest in the recorded period. This represents a substantial increase from the previous years, indicating a notable shift in asylum trends."
+
+3. <Write a summary of presented data>:
+"Overall, the number of asylum applicants in Canada has experienced considerable fluctuations from 1996 to 2017. The data shows a peak in 2001, followed by a decline and a subsequent resurgence, culminating in a dramatic spike in 2017. This trend highlights the dynamic nature of asylum applications in Canada over the two decades."
+<FIRST>

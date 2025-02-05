@@ -1,0 +1,21 @@
+ 1. <Describe a graph>:
+"The graph illustrates the average number of viewers of Apex Legends on Twitch worldwide from February 2019 to November 2020, measured in thousands."
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+"The data shows a significant decline in the average number of viewers of Apex Legends on Twitch from February 2019 to November 2020. In February 2019, the average viewer count was approximately 200,000, which decreased to around 100,000 by November 2020."
+
+Paragraph 2:
+"The most notable decrease in viewer count occurred between February 2019 and April 2019, where the average viewer count dropped from 200,000 to 100,000. This decline continued throughout the year, with the average viewer count reaching a low of approximately 50,000 by November 2020."
+
+Paragraph 3:
+"However, there was a slight increase in the average viewer count in the months of May and June 2020, reaching around 60,000. This increase was followed by a further rise in the average viewer count to around 70,000 by July 2020. The average viewer count remained relatively stable in the months of August and September 2020, hovering around 70,000."
+
+Paragraph 4:
+"The average viewer count then began to increase again in October 2020, reaching around 80,000. This increase continued into November 2020, with the average viewer count peaking at approximately 100,000 by November 10th, 2020."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a significant decline in the average number of viewers of Apex Legends on Twitch worldwide from February 2019 to November 2020. The decline was most pronounced in the first half of the year, with the average viewer count dropping from 200,000 to 50,000 by November 2020. However, there was a slight increase in the latter half of the year, with the average viewer count reaching around 100,000 by November 10th, 2020."
+
+<The image is a bar chart titled "Average viewers of Apex Legends on Twitch worldwide from February 2019 to November 2020 ( in 1,000s )">

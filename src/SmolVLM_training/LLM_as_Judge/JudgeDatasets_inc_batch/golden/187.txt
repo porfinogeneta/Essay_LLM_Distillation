@@ -1,0 +1,15 @@
+About one-in-five police officers say 
+1. <Describe a graph:>
+"The pie chart illustrates the emotional responses of police officers to their job, detailing the percentages who frequently feel angry and frustrated, frustrated but not angry, angry but not frustrated, or neither angry nor frustrated."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A significant proportion of police officers, 21%, frequently experience both anger and frustration due to their job. Another 30% feel frequently frustrated but not angry, indicating that frustration is a more common emotional response than anger."
+
+Paragraph 2:
+"In contrast, only 1% of officers frequently feel angry but not frustrated, suggesting that anger is rarely experienced in isolation. The largest group, 47%, do not frequently feel either emotion, highlighting that a substantial portion of officers manage to avoid these negative emotions regularly."
+
+3. <Write a summary of presented data:>
+"Overall, while nearly half of the police officers do not frequently feel angry or frustrated, a notable 51% experience frustration, either alone or combined with anger, highlighting the emotional challenges faced in their profession."
+<FIRST>

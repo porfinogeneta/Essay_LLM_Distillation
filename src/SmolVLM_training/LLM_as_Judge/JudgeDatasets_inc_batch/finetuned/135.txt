@@ -1,0 +1,11 @@
+ 1. The pie chart illustrates the public's perception of the news media's coverage of the health care law, specifically regarding the balance of how the law might impact people and its overall coverage.
+
+2. The data is presented in percentages, with the largest segment representing the balance of the two aspects:
+   - 56% of respondents believe that the news media has mostly focused on politics and controversies, with 33% stating that the coverage has been about how the law might impact people.
+   - 33% of respondents believe that the news media has mostly focused on politics and controversies, with 6% stating that the coverage has been about how the law might impact people.
+
+3. The data reveals a clear division in the public's perception of the media's coverage, with a significant majority (56%) believing that the media has focused on politics and controversies, while a smaller minority (6%) believes that the coverage has been about how the law might impact people.
+
+4. The remaining 33% of respondents believe that the media has focused on the balance of the two aspects, with 5% stating that the coverage has been about how the law might impact people.
+
+5. The data highlights a trend where the majority of respondents feel that the media has primarily focused on politics and controversies, while a smaller minority believes that the coverage has been about the law's impact on people.

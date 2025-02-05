@@ -1,0 +1,15 @@
+Majorities of Americans see scientists as intelligent, focused on solving real-world problems % of U.S. adults who say each of the following describes research scientists well
+1. <Describe a graph>:
+"The bar chart illustrates the perceptions of U.S. adults regarding various attributes of research scientists, based on a survey conducted in January 2019."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The majority of Americans perceive research scientists as intelligent, with 89% of respondents endorsing this trait. Additionally, 75% believe that scientists are focused on solving real-world problems, and 72% consider them skilled at working in teams. Honesty is another highly rated attribute, with 71% of respondents agreeing that scientists possess this quality."
+
+Paragraph 2:
+"However, not all perceptions are positive. Only 54% of respondents view scientists as good communicators, and a significant minority believe that scientists feel superior to others (43%) or are socially awkward (43%). Furthermore, 32% think that scientists do not pay attention to the moral values of society, while 29% consider them cold, and 26% see them as close-minded."
+
+3. <Write a summary of presented data>:
+"Overall, the survey reveals a predominantly positive view of research scientists, with high ratings for intelligence, problem-solving focus, teamwork skills, and honesty. Nevertheless, there are notable concerns regarding their communication abilities and perceived social awkwardness, as well as a minority view that they are disconnected from societal moral values and exhibit superiority or close-mindedness."
+<FIRST>

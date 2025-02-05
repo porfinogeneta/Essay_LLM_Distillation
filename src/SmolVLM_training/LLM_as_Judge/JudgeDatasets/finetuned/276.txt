@@ -1,0 +1,35 @@
+ 1. **Graph 1: Number of Bitcoin ATMs in Belgium and the Netherlands as of June 2020, by city**
+
+The graph shows the number of Bitcoin ATMs in Belgium and the Netherlands as of June 2020, by city. The data is presented in a bar chart format.
+
+2. **Table 1: Number of Bitcoin ATMs in Belgium and the Netherlands as of June 2020, by city**
+
+The table presents the number of Bitcoin ATMs in Belgium and the Netherlands as of June 2020, by city. The data is organized in a tabular format, with each city listed on the left and the corresponding number of ATMs on the right.
+
+3. **Analysis and Description of Data**
+
+**Graph 1:**
+
+- **Key Aspects and Trends:**
+  - **Amsterdam (NL):** The city with the highest number of Bitcoin ATMs, with 22 ATMs, is located in the Netherlands.
+  - **Rotterdam (NL):** The second highest number of ATMs, with 7 ATMs, is also located in the Netherlands.
+  - **Brussels (BE):** The third highest number of ATMs, with 5 ATMs, is located in Belgium.
+
+**Table 1:**
+
+- **Key Aspects and Trends:**
+  - **Brussels (BE):** The city with the lowest number of ATMs, with 4 ATMs, is located in Belgium.
+  - **Antwerp (BE):** The second lowest number of ATMs, with 4 ATMs, is also located in Belgium.
+  - **Maastricht (NL):** The third lowest number of ATMs, with 4 ATMs, is located in the Netherlands.
+
+4. **Comparison of Data:**
+
+The data reveals that Amsterdam and Rotterdam have the highest number of Bitcoin ATMs in the Netherlands, while Brussels and Antwerp have the lowest number in Belgium. The cities of Maastricht and Ghent in the Netherlands have the same number of ATMs, which is 4.
+
+**Graph 1:**
+
+The bar chart illustrates the distribution of Bitcoin ATMs across cities in Belgium and the Netherlands, highlighting the concentration in Amsterdam and Rotterdam. The data indicates that Amsterdam has the highest number of ATMs, followed by Rotterdam, Brussels, and Antwerp.
+
+**Table 1:**
+
+The table provides a detailed breakdown of the number of ATMs in each city, with Amsterdam having the highest number and Brussels having the lowest. This data supports the visual representation, showing that Amsterdam and Rotterdam have the most ATMs, while Brussels and Antwerp have the least.

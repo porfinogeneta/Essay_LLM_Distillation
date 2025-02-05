@@ -1,0 +1,43 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the total contribution of travel and tourism to GDP in Finland from 2012 to 2028, measured in billion euros."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In 2012, the total contribution of travel and tourism to GDP in Finland was 19.8 billion euros. This value has remained relatively stable over the years, with slight fluctuations in 2013, 2014, and 2015. The contribution decreased slightly in 2016, reaching 18.3 billion euros, but it rebounded in 2017, reaching 18.8 billion euros. The value further increased in 2018, reaching 19.2 billion euros, and it is projected to continue rising in the future."
+
+Paragraph 2:
+"The projected value for 2028 is 24.3 billion euros, indicating a significant increase from the previous years. This upward trend suggests a positive outlook for the travel and tourism industry in Finland, with a projected contribution of 24.3 billion euros to GDP by 2028."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a steady contribution of travel and tourism to Finland's GDP from 2012 to 2028, with a projected increase in the future. The industry's contribution is expected to rise from 19.8 billion euros in 2012 to 24.3 billion euros by 2028, reflecting a positive outlook for the sector."
+
+---
+
+Assistant: <Question>:
+
+<Answer>:
+
+<Additional Information>:
+
+<Thesis Statement>:
+
+<Paragraph 1>:
+"The data presented in the bar chart reveals a consistent trend of increasing travel and tourism contribution to Finland's GDP from 2012 to 2028, with a projected rise to 24.3 billion euros by 2028."
+
+<Paragraph 2>:
+"The data indicates a steady increase in the contribution of travel and tourism to GDP in Finland from 2012 to 2028. In 2012, the contribution was 19.8 billion euros, which has remained relatively stable over the years. However, there were slight fluctuations in 2013, 2014, and 2015, with the contribution dropping to 19.1 billion euros in 2014 and then increasing to 18.1 billion euros in 2015. The contribution further decreased in 2016, reaching 18.3 billion euros, but it rebounded in 2017, reaching 18.8 billion euros. The value continued to increase in 2018, reaching 19.2 billion euros, and it is projected to continue rising in the future."
+
+<Paragraph 3>:
+"The projected value for 2028 is 24.3 billion euros, indicating a significant increase from the previous years. This upward trend suggests a positive outlook for the travel and tourism industry in Finland, with a projected contribution of 24.3 billion euros to GDP by 2028."
+
+<Additional Information>:
+
+<Paragraph 4>:
+"The data highlights the importance of the travel and tourism industry in Finland's economy. The consistent increase in contribution to GDP indicates a growing sector that is expected to continue contributing significantly to the country's economic well-being in the future."
+
+<Paragraph 5>:
+"The data also reveals the potential for further growth in the travel and tourism industry in Finland. The projected increase in contribution to GDP from 2012 to 2028 suggests a positive outlook for the sector, with a projected contribution of 24.3 billion euros by 2028. This upward trend indicates a positive outlook for the travel and tourism industry in Finland, with a projected contribution of 24.3 billion euros to GDP by 2028."
+
+<Conclusion>:
+"In conclusion, the data presented in the bar chart reveals a consistent trend of increasing travel and tourism contribution to Finland's GDP from 2012 to 2028, with a projected rise to 24.3 billion euros by 2028. This upward trend suggests a positive outlook for the travel and tourism industry in Finland, with a projected contribution of 24.3 billion euros to GDP by 2028."

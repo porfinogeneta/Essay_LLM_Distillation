@@ -1,0 +1,15 @@
+Yet Frustration with Brussels Remains Median percent needs of citizens
+1. <Describe a graph>:
+"The bar chart illustrates the median percentage of frustrations expressed by citizens regarding the European Union (EU) based on the Spring 2014 Global Attitudes survey."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart reveals that a significant majority, 71%, feel that their voice does not count in the EU. Additionally, 65% believe that the EU does not understand the needs of its citizens, indicating a widespread sentiment of disconnect and lack of representation."
+
+Paragraph 2:
+"Furthermore, 63% of respondents perceive the EU as intrusive, suggesting concerns about overreach or excessive intervention by the EU in national affairs. Similarly, 57% view the EU as inefficient, pointing to frustrations with bureaucratic processes and administrative effectiveness."
+
+3. <Write a summary of presented data>:
+"Overall, the data underscores a pervasive sense of disenfranchisement and dissatisfaction among citizens regarding the EU's responsiveness, understanding, and operational efficiency. The highest frustration is directed towards the perceived lack of citizen influence, followed closely by concerns about the EU's comprehension of citizen needs and its intrusive nature."
+<SECOND>

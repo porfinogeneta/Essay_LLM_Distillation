@@ -1,0 +1,16 @@
+ 1. <Describe a graph>:
+"The pie chart illustrates the distribution of U.S. gun deaths by type in 2017, with a focus on suicides and murders."
+
+2. <Find the key points and details>:
+
+Paragraph 1:
+"The data reveals that suicides accounted for the majority of U.S. gun deaths in 2017, with 60% of the total deaths attributed to this category. This figure is significantly higher than the 37% attributed to murders, indicating a substantial difference in the causes of gun-related deaths."
+
+Paragraph 2:
+"The remaining 37% of gun deaths in 2017 were attributed to murders, highlighting the stark contrast between the two categories. This figure is considerably lower than suicides, suggesting that murders are less prevalent in gun-related deaths."
+
+Paragraph 3:
+"The data also indicates that "other" deaths, which include gun deaths that were unintentional, involved law enforcement, or had undetermined circumstances, accounted for 3% of the total deaths. This small percentage underscores the rarity of such deaths compared to suicides and murders."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a significant disparity in the causes of U.S. gun deaths in 2017, with suicides accounting for the majority of deaths (60%) and murders accounting for a smaller proportion (37%). The remaining 3% of deaths were attributed to other causes, highlighting the rarity of these incidents."

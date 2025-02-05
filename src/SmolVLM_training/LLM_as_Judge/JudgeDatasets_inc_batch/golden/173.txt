@@ -1,0 +1,15 @@
+Percent of social the the users who have.. Shared stories, or reposted videos news
+1. <Describe a graph>:
+"The bar chart illustrates the percentage of social networking site users who engaged in various activities related to news events in 2014. The activities include sharing or reposting news stories, images or videos, discussing a news issue or event, posting photos they took of a news event, and posting videos they took of a news event."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The most common activity among social networking site users was sharing or reposting news stories, images or videos, with 50% of users engaging in this behavior. This was followed by discussing a news issue or event, which was done by 46% of users. These two activities were significantly more popular than the others, indicating a strong tendency among users to disseminate and discuss news content."
+
+Paragraph 2:
+"Posting photos and videos taken at news events were less common, with only 14% and 12% of users doing so, respectively. This suggests that while many users are willing to share and discuss news content, fewer are actively creating and sharing their own media related to news events. The disparity between these activities highlights a passive versus active engagement with news content on social media platforms."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates that social networking site users are more likely to share and discuss news content rather than create and post their own media related to news events. Sharing and reposting news stories, images or videos, and discussing news issues or events are the most prevalent activities, reflecting a trend towards passive engagement with news content on social media."
+<FIRST>

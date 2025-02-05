@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the ratio of government expenditure to gross domestic product (GDP) in Switzerland from 2015 to 2025, with projections up until 2025."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In 2015, the ratio of government expenditure to GDP in Switzerland was 33.15%. This figure has remained relatively stable over the years, with slight fluctuations in 2016, 2017, and 2018. However, the ratio saw a slight increase in 2019, reaching 32.67%. In 2020, the ratio further increased to 37.33%, indicating a higher level of government expenditure relative to GDP."
+
+Paragraph 2:
+"From 2020 onwards, the ratio of government expenditure to GDP in Switzerland has shown a downward trend. In 2021, the ratio decreased to 34.04%, and it is projected to decrease further to 33.57% in 2022. The ratio is expected to stabilize at around 33.2% in 2023 and 33% in 2024. From 2025 onwards, the ratio is projected to remain at 32.9%."
+
+3. <Write a summary of presented data>:
+"Overall, the ratio of government expenditure to GDP in Switzerland has fluctuated over the years, with a slight increase in 2019 and 2020. However, from 2020 onwards, the ratio has shown a downward trend, indicating a decrease in government expenditure relative to GDP. The ratio is projected to stabilize at around 33.2% in 2023 and 33% in 2024, with further decreases in 2025 and 2026. From 2027 onwards, the ratio is projected to remain at 32.9%."

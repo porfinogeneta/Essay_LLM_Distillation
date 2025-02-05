@@ -1,0 +1,9 @@
+ 1. The data in the table is presented in a clear and concise manner, with each state listed along with its corresponding percentage of the population that identifies as Irish ancestry. The data is organized by region, with the top 10 states listed in the first section and the remaining states listed in the second section.
+
+2. The data is presented in a bar chart format, with each state represented by a vertical bar. The bars are color-coded, with green indicating the percentage of the population that identifies as Irish ancestry.
+
+3. The title of the chart is "Northeast states lead in Irish ancestry," which succinctly summarizes the main point of the data. The subtitle, "Massachusetts, New Hampshire, Rhode Island, Vermont, Maine, Delaware, Pennsylvania, Connecticut, West Virginia, New Jersey," provides additional context and highlights the specific states being compared.
+
+4. The data is presented in a logical and easy-to-understand manner, with each state listed in alphabetical order. The percentages are clearly displayed, with the highest percentage (21.6%) for Massachusetts and the lowest percentage (14.3%) for New Jersey.
+
+5. The source of the data is mentioned at the bottom of the chart, indicating that the information is from the Census Bureau, 2011-2015 5-year estimates. This provides credibility and allows readers to verify the data if needed.

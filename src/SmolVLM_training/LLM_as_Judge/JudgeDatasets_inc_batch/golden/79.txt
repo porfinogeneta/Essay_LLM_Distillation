@@ -1,0 +1,15 @@
+Grim Views of the Economy in Greece Percent
+1. <Describe a graph>:
+"The bar chart illustrates the pessimistic views of the Greek population regarding the economy in 2010. The data is presented in percentages and covers five key areas: the overall state of the economy, unemployment, rising prices, future economic conditions, and personal economic situations."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart reveals an overwhelming consensus among Greeks that the economy is in dire straits, with 99% believing it to be in bad shape. Similarly, unemployment is perceived as a major issue by the same percentage. Rising prices are also viewed as a significant problem by 94% of the population."
+
+Paragraph 2:
+"Looking ahead, 64% of Greeks anticipate that the economic situation will worsen over the next 12 months. Additionally, more than half of the respondents (54%) fear that their personal economic situation will deteriorate within the same timeframe."
+
+3. <Write a summary of presented data>:
+"In summary, the data paints a bleak picture of the Greek economy in 2010, with near-universal agreement on its poor state and the severity of unemployment and inflation. A majority also foresee further economic decline both nationally and personally in the coming year."
+<FIRST>

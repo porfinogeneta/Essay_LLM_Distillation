@@ -1,0 +1,15 @@
+Economy and Crime Are Biggest Concerns in Turkey is/area lvery big problem in Turkey
+1. <Describe a graph>:
+"The bar chart illustrates the major concerns of the Turkish population in 2015, as identified by the Spring 2015 Global Attitudes survey conducted by the Pew Research Center. The concerns are ranked by the percentage of respondents who consider them to be a very big problem."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The most pressing concern among the Turkish population in 2015 was rising prices, with 61% of respondents identifying it as a very big problem. This was closely followed by crime, which 57% of respondents were worried about. The gap between rich and poor was also a significant concern, with 55% of respondents highlighting it as a major issue."
+
+Paragraph 2:
+"Other notable concerns included the lack of employment opportunities, cited by 51% of respondents, and corrupt political leaders, identified by 42% as a very big problem. Poor-quality schools and traffic were also significant issues, with 41% and 39% of respondents respectively considering them to be major problems. Healthcare was the least of the major concerns listed, with 38% of respondents identifying it as a very big problem."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates that economic and social issues were the primary concerns of the Turkish population in 2015. Rising prices and crime were the top worries, followed closely by economic inequality and employment opportunities. Political corruption and the quality of public services, such as education and healthcare, were also significant concerns, reflecting broader societal challenges."
+<SECOND>

@@ -1,0 +1,7 @@
+ 1. Describe the trend of the data from 2000 to 2019.
+2. What is the difference in the number of reported burglary cases between 2000 and 2001?
+3. How many burglary cases were reported in 2019?
+4. What is the percentage of burglary cases reported in 2019 compared to the total number of cases reported in 2019?
+5. What is the total number of burglary cases reported in the United States from 1990 to 2019?
+6. What is the difference in the number of reported burglary cases between 1990 and 2019?
+7. What is the percentage of burglary cases reported in 2019 compared to the total number of cases reported in 2019?

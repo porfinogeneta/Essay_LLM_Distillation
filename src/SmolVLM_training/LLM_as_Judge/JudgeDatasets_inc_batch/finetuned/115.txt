@@ -1,0 +1,10 @@
+ 1. <Describe a graph>:
+"The graph illustrates the military expenditure of Singapore as a percentage of gross domestic product (GDP) from 2000 to 2019."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In 2000, Singapore's military expenditure was at 4.5% of GDP. This figure increased to 4.8% in 2001, and further to 4.9% in 2002. By 2003, the expenditure had dropped to 4.9%, but it rose again to 4.4% in 2004. The expenditure then declined to 3.9% in 2005, and further to 3.6% in 2006. In 2007, the expenditure was at 3.6%, and it increased to 3.9% in 2008. The expenditure then decreased to 3.9% in 2009, and it further declined to 3.4% in 2010. The expenditure then rose to 3.2% in 2011, and it remained at 3.2% in 2012. The expenditure then decreased to 3.1% in 2013, and it further decreased to 3.1% in 2014. The expenditure then increased to 3.1% in 2015, and it increased to 3.2% in 2016. The expenditure then decreased to 3.1% in 2017, and it increased to 3.1% in 2018. The expenditure then increased to 3.2% in 2019."
+
+3. <Write a summary of presented data>:
+"Overall, Singapore's military expenditure as a percentage of GDP fluctuated over the years. The expenditure peaked in 2004 and 2005, reaching 4.9% and 4.4% respectively. Subsequently, it declined to 3.9% in 2006 and 2007, before rising again to 3.6% in 2008. The expenditure then decreased to 3.9% in 2009 and 2010, and further to 3.4% in 2011. The expenditure then increased to 3.2% in 2012 and 2013, and it remained at 3.2% in 2014. The expenditure then decreased to 3.1% in 2015 and 2016, and it further decreased to 3.1% in 2017. The expenditure then increased to 3.1% in 2018 and 2019, indicating a gradual recovery."

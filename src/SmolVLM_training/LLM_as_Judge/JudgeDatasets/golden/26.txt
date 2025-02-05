@@ -1,0 +1,16 @@
+Annual number of hospital beds in the United Kingdom ( UK ) from 2000 to 2019
+
+1. <Describe a graph:>
+"The graph illustrates the annual number of hospital beds in the United Kingdom from 2000 to 2019."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2000, the number of hospital beds in the UK was approximately 240,000. This figure experienced a steady decline over the subsequent years, reaching around 200,000 by 2009. The downward trend continued, albeit at a slower pace, with the number of beds dropping to approximately 180,000 by 2019."
+
+Paragraph 2:
+"The data indicates a consistent reduction in the availability of hospital beds over the two-decade period. The most significant decline occurred between 2000 and 2009, after which the rate of decrease slowed down. Despite this, the overall trend remains one of diminishing hospital bed numbers."
+
+3. <Write a summary of presented data:>
+"Overall, the number of hospital beds in the UK has shown a marked decline from 2000 to 2019, reflecting broader trends in healthcare provision and resource allocation. The data suggests a shift towards alternative healthcare delivery models, potentially including increased outpatient care and community-based services."
+<FIRST>

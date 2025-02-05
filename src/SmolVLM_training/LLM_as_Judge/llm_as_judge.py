@@ -2,17 +2,17 @@ import gc
 import time
 import torch
 from openai import OpenAI
+from dotenv import load_dotenv
 import os
 import re
 from transformers import Idefics3ForConditionalGeneration, AutoProcessor
 from ..utils import load_data_huggingface, format_data
 from ...Logger.logger import setup_logger
-import json
 from tqdm import tqdm
 from ...prompts.judge.judge_decide import prompt as decide_prompt
 
 logger = setup_logger()
-
+load_dotenv("/root/Essay_LLM_Distillation/.env")
 
 class LLmAsJudge():
     """
@@ -28,7 +28,7 @@ class LLmAsJudge():
     """
     def __init__(self, essays_path):
         self.client = OpenAI(
-            api_key=os.getenv('API_KEY'),
+            api_key=os.getenv('OPENAI_API_KEY'),
             base_url="https://api.minimaxi.chat/v1",
         )
         self.essays_path = essays_path
@@ -62,8 +62,7 @@ class LLmAsJudge():
         model = Idefics3ForConditionalGeneration.from_pretrained(
             model_id,
             device_map="auto",
-            torch_dtype=torch.bfloat16,
-            # _attn_implementation="flash_attention_2",
+            torch_dtype=torch.bfloat16
         )
 
         processor = AutoProcessor.from_pretrained(model_id)
@@ -75,7 +74,7 @@ class LLmAsJudge():
     def generate_text_from_sample(self, model, processor, sample, max_new_tokens=1024, device="cuda"):
         # Prepare the text input by applying the chat template
         text_input = processor.apply_chat_template(
-            sample,  # Use the sample without the system message
+            sample[1:2],  # Use the sample without the system message
             add_generation_prompt=True
         )
 
@@ -113,7 +112,7 @@ class LLmAsJudge():
     def generate_SmolVLM(self, sample):
         
         try:
-            self.clear_memory()
+            
             model, processor = self.get_model_and_processor()
 
             
@@ -123,101 +122,63 @@ class LLmAsJudge():
 
     def generate_SmolVLM_fine_tuned(self, sample):
         try: 
-            self.clear_memory()
-            model, processor = self.get_model_smol_processor()
+            model, processor = self.get_model_and_processor()
             # trained adapter, we use it to inject model with new knowledge, without
             # disturbing core parameters
-            adapter = "/root/Essay_LLM_Distillation/src/SmolVLM_training/smolvlm-instruct-trl-sft-ChartQA"
+            adapter = "/root/Essay_LLM_Distillation/src/SmolVLM_training/smolvlm-instruct-trl-sft-ChartQA_increased_batch"
             model.load_adapter(adapter)
             return self.generate_text_from_sample(model, processor, sample)
         except Exception as e:
             logger.error(e)
 
-    def extract_essay_text(self, text):
-        # Split the text into sections
-        sections = text.split('\n')
-        essay_parts = []
-        
-        for line in sections:
-            # Skip lines that are section headers or empty
-            if line.strip().startswith(('1.', '2.', '3.')) or not line.strip():
-                continue
-                
-            # Skip lines that are just titles in bold or contain only structural elements
-            if line.strip().startswith('**') or line.strip() == 'Paragraph 1:' or \
-            line.strip() == 'Paragraph 2:' or line.strip() == 'Paragraph 3:' or \
-            len(line.strip()) < 40:
-                continue
-                
-            # Remove quotation marks and clean up the text
-            cleaned_line = line.strip().strip('"')
-            
-            # Skip if the line is empty after cleaning
-            if not cleaned_line:
-                continue
-                
-            # Add the cleaned line to our essay parts
-            essay_parts.append(cleaned_line)
-        
-        # Join all parts with proper spacing
-        essay = '\n\n'.join(essay_parts)
-        
-        return essay
-    
-    def find_ranking(text):
+
+    def match_ranking(self, text):
         match = re.search(r'(first|second)', text.lower())
         return match.group(1) if match else None
     
-    """Check how close is generated text to the gold standard"""
-    def judge_corespondenxe(self, sample):
-        try:
-            filename = sample['filename']
-            essay = sample['essay']
-            image = sample['image']
-            title = sample['title']
 
-            formatted_sample = format_data(sample)
-            fine_tuned_essay = self.extract_essay_text(self.generate_SmolVLM_fine_tuned(formatted_sample))
-
-        except Exception as e:
-            logger.error(e)
-
-    def judge_sample_MiniMax(self, sample):
-
-        try:
-            filename = sample['filename']
-            essay = self.extract_essay_text(sample['essay'])
-            image = sample['image']
-            title = sample['title']
-
-            formatted_sample = format_data(sample)
-
-            standard_essay = self.extract_essay_text(self.generate_SmolVLM(formatted_sample))
-            fine_tuned_essay = self.extract_essay_text(self.generate_SmolVLM_fine_tuned(formatted_sample))
-
+    def write_to_files(self, idx, winner, title, essay, standard_essay, fine_tuned_essay):
+        
             # golden
             golden_dir = os.path.join(self.essays_path, "golden")
-            os.makedirs(standard_dir, exist_ok=True)
+            os.makedirs(golden_dir, exist_ok=True)
+            golden_path = os.path.join(golden_dir, f"{idx}.txt")
 
             # standard
             standard_dir = os.path.join(self.essays_path, "standard")
             os.makedirs(standard_dir, exist_ok=True)
-            smol_path = os.path.join(standard_dir, f"{filename}.txt")
+            smol_path = os.path.join(standard_dir, f"{idx}.txt")
 
             # fine tuned
             finetuned_dir = os.path.join(self.essays_path, "finetuned")
-            os.makedirs(standard_dir, exist_ok=True)
-            smol_finetuned_path = os.path.join(finetuned_dir, f"/finetuned/{filename}.txt")
+            os.makedirs(finetuned_dir, exist_ok=True)
+            smol_finetuned_path = os.path.join(finetuned_dir, f"{idx}.txt")
             
             # save judged on essays
-            with open(golden_dir, 'w') as file:
-                file.write(essay)
+            with open(golden_path, 'w') as file:
+                file.write(f"{title}\n{essay}\n{winner}")
 
             with open(smol_path, 'w') as file:
                 file.write(standard_essay)
 
             with open(smol_finetuned_path, 'w') as file:
                 file.write(fine_tuned_essay)
+
+
+    def judge_sample_MiniMax(self, idx, sample):
+
+        try:
+            essay = sample['essay']
+            image = sample['image']
+            title = sample['title']
+
+            formatted_sample = format_data(sample)
+            
+            self.clear_memory()
+            standard_essay = self.generate_SmolVLM(formatted_sample)
+            fine_tuned_essay = self.generate_SmolVLM_fine_tuned(formatted_sample)
+
+
 
             prompt = decide_prompt.format(golden_title=title, golden_essay=essay, standard_essay=standard_essay, fine_tuned_essay=fine_tuned_essay)
 
@@ -249,32 +210,34 @@ class LLmAsJudge():
                 messages=messages,
                 max_tokens=100,
                 )
-            logger.debug("completion", completion)
-            return completion.choices[0].message.content
+            return completion.choices[0].message.content, title, essay, standard_essay, fine_tuned_essay
         
         except Exception as e:
             logger.error(e)
 
 
     def judge_smolVLM(self):
+        self.clear_memory()
 
         scores = {
-            "first": 0,
-            "second": 0
+            "standard": 0,
+            "fine_tuned": 0
             }
 
         try:
             _, test_dataset, _ = load_data_huggingface()
 
-            for sample in tqdm(test_dataset):
-                response = self.judge_sample_MiniMax(sample)
+            for i, sample in tqdm(enumerate(test_dataset)):
+                llm_response, title, essay, standard_essay, fine_tuned_essay = self.judge_sample_MiniMax(i, sample)
+                response = self.match_ranking(llm_response)
                 if response == "first":
-                    scores[response] += 1
+                    scores["standard"] += 1
                 elif response == "second":
-                    scores[response] += 1
-                # else:
-                #     scores["issues"].append(response)
-                # logger.debug(scores)
+                    scores["fine_tuned"] += 1
+                
+                self.write_to_files(i, llm_response, title, essay, standard_essay, fine_tuned_essay)
+                
+                logger.debug(scores)
 
         except Exception as e:
             logger.error(e)
@@ -283,5 +246,17 @@ class LLmAsJudge():
         return scores
 
 if __name__ == "__main__":
-    judge = LLmAsJudge(essays_path="/root/Essay_LLM_Distillation/src/SmolVLM_training/LLM_as_Judge/JudgeDatasets")
+    judge = LLmAsJudge(essays_path="/root/Essay_LLM_Distillation/src/SmolVLM_training/LLM_as_Judge/JudgeDatasets_inc_batch")
     print(judge.judge_smolVLM())
+    # judge.generate_all("finetuned")
+    # _, test, _ = load_data_huggingface()
+    # logger.debug(test[0])
+
+    # for m in test:
+    #     filename = m['filename']
+    #     essay = m['essay']
+    #     image = m['image']
+    #     title = m['title']
+
+    #     logger.debug(title)
+    #     logger.debug(essay)

@@ -1,0 +1,10 @@
+ 1. <Describe a graph>:
+"The graph illustrates the revenue of the Universal Music Group (UMG) from 2007 to 2019, measured in million euros."
+
+2. <Find the key points and details>:
+
+Paragraph 1:
+"In 2007, the revenue of the Universal Music Group (UMG) was 589 million euros. This revenue figure remained relatively stable over the next few years, with slight fluctuations. In 2008, the revenue increased to 648 million euros, and in 2009, it further increased to 659 million euros. However, the revenue decreased slightly in 2010, reaching 662 million euros. The revenue continued to fluctuate, with a slight increase in 2011 to 638 million euros, followed by a decrease in 2012 to 661 million euros. The revenue further decreased in 2013, reaching 655 million euros, and then increased in 2014 to 673 million euros. The revenue further increased in 2015 to 756 million euros, and then increased again in 2016 to 792 million euros. The revenue further increased in 2017 to 854 million euros, and then increased again in 2018 to 941 million euros. The revenue peaked in 2019, reaching 1,168 million euros."
+
+3. <Write a summary of presented information>:
+"Overall, the revenue of the Universal Music Group (UMG) fluctuated over the years, with a general upward trend from 2007 to 2019. The revenue peaked in 2019, reaching 1,168 million euros, while the lowest revenue was recorded in 2009, at 662 million euros. The fluctuations in revenue were primarily due to market trends, consumer behavior, and competition within the music industry."

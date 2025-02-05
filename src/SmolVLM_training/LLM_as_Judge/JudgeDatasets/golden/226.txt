@@ -1,0 +1,18 @@
+Main reason for the number of sex scandals 
+1. <Describe a graph:>
+"The pie chart illustrates the primary reasons given for the prevalence of sex scandals involving elected officials, based on a survey conducted by Pew Research Center and The Washington Post."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A significant majority, 57%, believe that elected officials are caught more often due to increased scrutiny. This perspective suggests that the higher visibility and constant monitoring of public figures make it more likely for their misconduct to be discovered."
+
+Paragraph 2:
+"In contrast, 19% of respondents attribute the frequency of sex scandals to the lower moral standards of elected officials compared to ordinary Americans. This viewpoint implies a belief that those in power may engage in unethical behavior more frequently due to a perceived lack of integrity."
+
+Paragraph 3:
+"Smaller proportions of respondents offered different explanations: 12% felt that neither of these reasons was accurate, while 9% were unsure. A small minority, 4%, believed that both increased scrutiny and lower moral standards contributed to the prevalence of sex scandals."
+
+3. <Write a summary of presented data:>
+"Overall, the prevailing view is that the greater scrutiny of elected officials is the main reason for the high number of sex scandals, although a notable minority believes that lower moral standards also play a significant role."
+<FIRST>

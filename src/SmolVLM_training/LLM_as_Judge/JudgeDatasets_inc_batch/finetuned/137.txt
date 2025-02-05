@@ -1,0 +1,39 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the monthly number of long-term unemployed persons in the U.S. from November 2019 to November 2020, adjusted for millions."
+
+2. <Find the key points, trends and compare data>:
+
+"The number of long-term unemployed persons in the U.S. fluctuated during the period from November 2019 to November 2020. In November 2019, the number was 1.22 million, which was the lowest point of the year. The number gradually increased to 1.19 million in December 2019, and further to 1.17 million in January 2020. The number then decreased to 1.1 million in February 2020, and further to 1.1 million in March 2020. The number then increased to 1.16 million in April 2020, and further to 1.11 million in May 2020. The number then decreased to 1.1 million in June 2020, and further to 1.39 million in July 2020. The number then increased to 1.5 million in August 2020, and further to 1.62 million in September 2020. The number then decreased to 2.41 million in October 2020, and further to 3.56 million in November 2020."
+
+3. <Write a summary of presented data>:
+"Overall, the number of long-term unemployed persons in the U.S. increased from November 2019 to November 2020. The highest number of long-term unemployed persons was recorded in November 2020, with 3.94 million individuals. The lowest number of long-term unemployed persons was recorded in November 2019, with 1.22 million individuals."
+
+### Description of the image:
+
+The image is a bar chart titled "Monthly number of long-term unemployed persons in the U.S. from November 2019 to November 2020 ( in millions , adjusted )". The chart is divided into two sections, with the x-axis labeled "Month" and the y-axis labeled "Number in millions". The data points are represented by blue bars, with the height of each bar corresponding to the number of long-term unemployed persons in millions.
+
+### Analysis:
+
+#### 1. **Data Points and Trends:**
+
+- **Monthly Data Points:**
+   - **Nov '19:** 1.22 million
+   - **Dec '19:** 1.19 million
+   - **Jan '20:** 1.17 million
+   - **Feb '20:** 1.11 million
+   - **Mar '20:** 1.16 million
+   - **Apr '20:** 0.94 million
+   - **May '20:** 1.16 million
+   - **Jun '20:** 1.39 million
+   - **Jul '20:** 1.5 million
+   - **Aug '20:** 1.62 million
+   - **Sep '20:** 2.41 million
+   - **Oct '20:** 3.56 million
+   - **Nov '20:** 3.94 million
+
+- **Monthly Trends:**
+   - **Nov 2019 to Nov 2020:** The number of long-term unemployed persons increased from 1.22 million in November 2019 to 3.94 million in November 2020.
+   - **Dec 2019 to Nov 2020:** The number of long-term unemployed persons decreased from 1.19 million in December 2019 to 3.94 million in November 2020.
+   - **Jan 2020 to Nov 2020:** The number of long-term unemployed persons increased from 1.17 million in January 2020 to 3.94 million in November 2020.
+   - **Feb 2020 to Nov 2020:** The number of long-term unemployed persons decreased from 1.11 million in February 2020 to 3.94 million in November 2020.
+   - **Mar 2020 to Nov 2020:** The number of long-term unemployed persons increased from 1.16 million in March 2

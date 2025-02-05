@@ -1,0 +1,15 @@
+Rating Parties and Organizations
+1. <Describe a graph>:
+"The bar chart illustrates the favorable ratings of various political parties and organizations according to a survey conducted by the Pew Research Center. The ratings are expressed as percentages."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The Muslim Brotherhood received the highest favorable rating at 70%, followed closely by the April 6 Movement at 68%. The Supreme Council of the Armed Forces garnered a 63% favorable rating, placing it in third position."
+
+Paragraph 2:
+"The Freedom and Justice Party received a 56% favorable rating, while the al-Nour Party had a significantly lower rating of 44%. The Egyptian Bloc received the lowest favorable rating at 38%, indicating the least support among the surveyed groups."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a relatively high level of favorability towards most of the political entities listed, with the Muslim Brotherhood and the April 6 Movement leading in popularity. The Egyptian Bloc, however, received the least favorable rating, suggesting a lower level of public support compared to the other organizations."
+<FIRST>

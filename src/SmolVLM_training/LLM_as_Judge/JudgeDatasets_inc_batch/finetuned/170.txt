@@ -1,0 +1,189 @@
+ 1. <Describe the trend of spending on sliced cooked meats in the United Kingdom from December 2007 to December 2019 ( in million GBP )>:
+
+The trend of spending on sliced cooked meats in the United Kingdom from December 2007 to December 2019 shows a general upward trend. The spending increased from 1,716.54 million GBP in December 2007 to 2,089.54 million GBP in December 2019.
+
+2. <Identify the key points and compare data>:
+
+- **2007-2010:**
+ - **2007:** 1,716.54 million GBP
+ - **2008:** 1,813.49 million GBP
+ - **2009:** 1,880.04 million GBP
+ - **2010:** 1,977.47 million GBP
+
+- **2011-2015:**
+ - **2011:** 2,112.87 million GBP
+ - **2012:** 2,074.62 million GBP
+ - **2013:** 2,096.04 million GBP
+ - **2014:** 2,155.76 million GBP
+ - **2015:** 2,206.59 million GBP
+
+- **2016-2019:**
+ - **2016:** 2,126.94 million GBP
+ - **2017:** 2,082.92 million GBP
+ - **2018:** 2,133.62 million GBP
+ - **2019:** 2,089.54 million GBP
+
+3. <Write a summary of the data>:
+
+Overall, the spending on sliced cooked meats in the United Kingdom has increased from 2007 to 2019. The increase was more pronounced in the period from 2011 to 2015, with the spending rising from 2,112.87 million GBP to 2,206.59 million GBP. The spending has remained relatively stable since 2015, with minor fluctuations.
+
+<!--
+<
+-->
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->
+<!--
+<
+-->

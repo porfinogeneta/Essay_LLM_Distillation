@@ -1,0 +1,16 @@
+Direct-to-consumer ( D2C ) e-commerce sales in the United States from 2017 to 2021 ( in billion U.S. dollars )
+
+1. Graph description:
+"The bar chart illustrates the direct-to-consumer (D2C) e-commerce sales in the United States from 2017 to 2021, measured in billion U.S. dollars."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The data reveals a consistent upward trend in D2C e-commerce sales over the five-year period. Starting at 6.85 billion dollars in 2017, sales more than doubled by 2019, reaching 14.28 billion dollars. This growth trajectory continued, with sales climbing to 17.75 billion dollars in 2020."
+
+Paragraph 2:
+"The most significant increase occurred between 2020 and 2021, where sales surged to 21.25 billion dollars. This substantial rise can be attributed to the accelerated shift towards online shopping, driven by the global pandemic and changing consumer behaviors."
+
+3. Overview of the data:
+"Overall, the chart demonstrates a robust growth in D2C e-commerce sales in the U.S., highlighting a significant transformation in consumer purchasing habits over the years. The most notable increase is observed between 2020 and 2021, underscoring the impact of the pandemic on online shopping trends."
+<SECOND>

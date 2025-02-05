@@ -1,0 +1,13 @@
+ 1. <Describe the data>:
+"The chart illustrates the percentage of K-12 students with at least one parent who is an unauthorized immigrant in the United States in 2014, broken down by state."
+
+2. <Find the key points, trends, and compare data>:
+
+Paragraph 1:
+"Nevada had the highest share of K-12 students with at least one unauthorized immigrant parent in 2014, with 17.6% of students in this category. Texas followed closely, with 13.4%, while California and Arizona had 12.3% and 12.2% respectively."
+
+Paragraph 2:
+"The remaining states, including California, Arizona, Colorado, and New Mexico, also had a significant share of K-12 students with at least one unauthorized immigrant parent. California had 12.3%, while Arizona had 12.2%. Colorado and New Mexico had 10.2% and 10.1% respectively."
+
+3. <Write a summary of presented data>:
+"Overall, the data reveals that Nevada, Texas, and California had the highest shares of K-12 students with at least one unauthorized immigrant parent in 2014, with Nevada having the highest share at 17.6%. The data indicates a widespread presence of unauthorized immigrant parents in K-12 education across the United States, with California, Arizona, Colorado, and New Mexico also having notable shares."

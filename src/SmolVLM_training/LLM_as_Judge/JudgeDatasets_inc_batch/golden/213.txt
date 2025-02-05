@@ -1,0 +1,16 @@
+Public perception of own social class in Brazil in 2018
+
+1. <Describe a graph>:
+"The bar chart illustrates the public perception of social class in Brazil in 2018, categorized by different social classes and the share of respondents. The data is presented as a percentage of respondents."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The majority of respondents identified themselves as belonging to the lower middle class, with 38.2% of the share. This was followed by the low class at 29.1%, and the middle class at 25.7%. The higher middle class accounted for a smaller portion, with 3.2% of respondents identifying with this category."
+
+Paragraph 2:
+"Only a minuscule fraction of respondents identified as high class, at 1.4%. Additionally, 2% of respondents were unsure of their social class, while a mere 0.4% chose not to answer the question. This distribution highlights a significant concentration of self-perceived social identity within the lower middle and low classes."
+
+3. <Write a summary of presented data>:
+"Overall, the data reveals a predominant self-perception of belonging to the lower middle and low classes among Brazilians in 2018. The middle class also represents a substantial portion, whereas the higher middle and high classes constitute a very small fraction of the population. A notable portion of respondents were either unsure or chose not to disclose their social class."
+<SECOND>

@@ -1,0 +1,15 @@
+Surveillance Programs Prompt Some to Change the Way They Use Technology Among the 87% of U.S. adults who have heard of the government changed surveillance programs, greatdeal" the percentage who have changed their use of *a greatdeal" or "somewhat" 18% Email accounts
+1. Graph description:
+"The bar chart illustrates the percentage of U.S. adults who have altered their use of various technologies due to government surveillance programs, based on a survey conducted from November 26, 2014, to January 3, 2015."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The data reveals that the most significant changes in behavior were observed in the use of email accounts and search engines, with 18% and 17% of respondents respectively reporting alterations. Social media sites and cell phones also saw notable changes, with 15% of users modifying their habits on these platforms."
+
+Paragraph 2:
+"Additionally, 13% of respondents indicated changes in their use of mobile apps and text messages. Landline phones experienced the least alteration, with only 9% of users changing their behavior. Overall, 25% of respondents reported modifying their use of at least one of the listed technologies."
+
+3. Overview of the data:
+"In summary, the survey highlights a considerable impact of government surveillance programs on the way U.S. adults use technology, with a quarter of respondents altering their behavior across various digital platforms. Email accounts and search engines were the most affected, while landline phones saw the least change."
+<FIRST>

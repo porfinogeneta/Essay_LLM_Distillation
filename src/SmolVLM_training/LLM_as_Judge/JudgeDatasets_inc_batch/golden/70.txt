@@ -1,0 +1,16 @@
+Number of car registrations in Europe in 2019 , by segment ( in 1,000s )
+
+1. Graph description:
+"The bar chart illustrates the number of car registrations in Europe in 2019, categorized by different car segments. The data is measured in thousands."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The chart reveals that small cars had the highest number of registrations, reaching 2,685.29 thousand. Compact cars followed closely with 2,163.77 thousand registrations. Compact SUVs and crossovers also saw significant registrations, totaling 2,090.17 thousand."
+
+Paragraph 2:
+"In contrast, the minicar segment had considerably fewer registrations, amounting to 1,101.78 thousand. Premium segments, including compact, midsize, and SUVs, had even lower registrations, with figures ranging from 403.92 thousand for midsize cars to 746.61 thousand for compact premium cars."
+
+3. Overview of the data:
+"Overall, the data indicates a strong preference for small and compact cars in Europe in 2019, with these segments leading in registrations. Premium and larger vehicle segments had notably fewer registrations, highlighting a trend towards more economical and compact vehicle choices among European consumers."
+<SECOND>

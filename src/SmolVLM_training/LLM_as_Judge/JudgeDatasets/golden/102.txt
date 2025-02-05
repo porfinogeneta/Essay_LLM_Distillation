@@ -1,0 +1,15 @@
+The number of retired Baby Boomers rose more from 2019 to 2020 than in prior years Annual increase in the retired U.S. Baby Boomer population (in millions)
+1. Graph description:
+"The bar chart illustrates the annual increase in the retired U.S. Baby Boomer population from 2012 to 2020, measured in millions."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The chart reveals a fluctuating trend in the annual increase of retired Baby Boomers over the years. Starting at +2.2 million in 2012, the increase saw a slight dip to +1.9 million in 2013, followed by a gradual rise to +2.5 million in 2015. The subsequent years witnessed minor fluctuations, with the increase stabilizing at +2.2 million in both 2017 and 2018."
+
+Paragraph 2:
+"A notable surge is observed in 2020, where the annual increase in retired Baby Boomers reached +3.2 million, the highest in the given period. This significant rise contrasts with the relatively stable increases in the preceding years, highlighting a marked acceleration in retirement rates."
+
+3. Overview of the data:
+"Overall, the data indicates a general upward trend in the number of retired Baby Boomers, with a particularly sharp increase in 2020. This trend underscores the growing retirement population and potential implications for social and economic policies."
+<SECOND>

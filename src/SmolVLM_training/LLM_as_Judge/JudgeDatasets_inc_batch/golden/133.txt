@@ -1,0 +1,16 @@
+The top richest U.S. presidential candidates from 1992 to 2020 ( net worth in million U.S. dollars )
+
+1. **Graph description**:
+"The bar chart illustrates the net worth of the top richest U.S. presidential candidates from 1992 to 2020, measured in million U.S. dollars."
+
+2. **Body paragraphs**:
+
+Paragraph 1:
+"The chart reveals a significant disparity in the net worth of presidential candidates over the years. Michael Bloomberg, who ran in 2020, stands out with an extraordinary net worth of $61,800 million, far surpassing other candidates. In contrast, Donald Trump, who ran in both 2016 and 2020, had a net worth of $4,500 million, placing him second but still significantly behind Bloomberg."
+
+Paragraph 2:
+"Other notable candidates include Ross Perot, who ran in 1992 and 1996 with a net worth of $3,580 million, and Tom Steyer, who ran in 2020 with $1,600 million. The remaining candidates had considerably lower net worths, with figures ranging from $450 million for Steve Forbes (1996, 2000) to $45 million for John Edwards (2004, 2008)."
+
+3. **Overview of the data**:
+"Overall, the data indicates a wide range of net worth among U.S. presidential candidates, with Michael Bloomberg's wealth being exceptionally high compared to his peers. The majority of candidates had net worths below $1,000 million, highlighting the financial diversity among those seeking the presidency."
+<SECOND>

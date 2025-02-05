@@ -1,0 +1,16 @@
+Halliburton 's total assets from 2009 to 2019 ( in billion U.S. dollars )
+
+1. <Describe a graph>:
+"The bar chart illustrates Halliburton's total assets from 2009 to 2019, measured in billion U.S. dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"Halliburton's total assets exhibited a general upward trend from 2009 to 2015, starting at 16.54 billion dollars in 2009 and reaching a peak of 36.94 billion dollars in 2015. This period saw a consistent increase, with notable jumps between 2013 and 2014, and again from 2014 to 2015."
+
+Paragraph 2:
+"However, from 2015 onwards, there was a noticeable decline in total assets. By 2016, the assets had dropped to 27 billion dollars, and although there was a slight recovery in 2017 and 2018, the values did not return to the 2015 peak. The assets stabilized around 25 billion dollars from 2017 to 2019."
+
+3. <Write a summary of presented data>:
+"Overall, Halliburton's total assets showed significant growth from 2009 to 2015, followed by a decline and stabilization in the subsequent years. The peak was reached in 2015, after which the company's assets experienced a downward trend, settling at around 25 billion dollars by 2019."
+<SECOND>

@@ -1,0 +1,15 @@
+Less Public Attention to Iraq News
+1. **Graph description:**
+The graph illustrates the decline in public attention to Iraq news over the course of 2004, measured by the percentage of people following the news "very closely."
+
+2. **Body paragraphs:**
+
+Paragraph 1:
+"In January 2004, 48% of the public followed Iraq news very closely. This figure peaked at 54% in March but then experienced a notable decline, dropping to 39% by June. Despite minor fluctuations, the overall trend remained downward, with attention levels reaching 34% by December."
+
+Paragraph 2:
+"The initial spike in March could be attributed to significant events or developments in Iraq during that period. However, as the year progressed, the public's interest waned, possibly due to fatigue or shifting news priorities. The decline in attention underscores a potential challenge in sustaining public engagement with ongoing international issues."
+
+3. **Overview of the data:**
+"Overall, the data indicates a clear trend of diminishing public attention to Iraq news throughout 2004, starting at 48% in January and ending at 34% in December. This decline suggests a waning interest or concern among the public regarding developments in Iraq over the year."
+<FIRST>

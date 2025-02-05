@@ -1,0 +1,100 @@
+ 1. **Graph Description:**
+
+The graph illustrates the national debt of South Sudan in relation to gross domestic product (GDP) from 2015 to 2025. The data is presented in a bar chart format, with each bar representing a year.
+
+**Key Points:**
+
+1. **2015:**
+   - **Debt:** 59.37% of GDP.
+   - **GDP:** 114.25%.
+
+2. **2016:**
+   - **Debt:** 65.21% of GDP.
+   - **GDP:** 114.25%.
+
+3. **2017:**
+   - **Debt:** 48.19% of GDP.
+   - **GDP:** 114.25%.
+
+4. **2018:**
+   - **Debt:** 65.43% of GDP.
+   - **GDP:** 114.25%.
+
+5. **2019:**
+   - **Debt:** 65.43% of GDP.
+   - **GDP:** 114.25%.
+
+6. **2020:**
+   - **Debt:** 71.74% of GDP.
+   - **GDP:** 114.25%.
+
+7. **2021:**
+   - **Debt:** 56.75% of GDP.
+   - **GDP:** 114.25%.
+
+8. **2022:**
+   - **Debt:** 47.5% of GDP.
+   - **GDP:** 114.25%.
+
+9. **2023:**
+   - **Debt:** 40.74% of GDP.
+   - **GDP:** 114.25%.
+
+10. **2024:**
+   - **Debt:** 36.95% of GDP.
+   - **GDP:** 114.25%.
+
+11. **2025:**
+   - **Debt:** 35.33% of GDP.
+   - **GDP:** 114.25%.
+
+**Additional Information:**
+
+- **Source:** The statistic is based on data from the South Sudan Ministry of Finance and Economic Planning.
+- **Trends:** The national debt of South Sudan has been increasing over the years, with a notable rise in 2015 and 2016. However, the debt-to-GDP ratio has stabilized in recent years, indicating a possible stabilization or even a decrease in the debt burden.
+- **Relevant Factors:** The national debt of South Sudan is influenced by factors such as government spending, borrowing, and economic growth.
+
+**Graph Description:**
+
+The bar chart illustrates the national debt of South Sudan in relation to GDP from 2015 to 2025. The data is presented in a bar chart format, with each bar representing a year.
+
+**Key Points:**
+
+1. **2015:**
+   - **Debt:** 59.37% of GDP.
+   - **GDP:** 114.25%.
+
+2. **2016:**
+   - **Debt:** 65.21% of GDP.
+   - **GDP:** 114.25%.
+
+3. **2017:**
+   - **Debt:** 48.19% of GDP.
+   - **GDP:** 114.25%.
+
+4. **2018:**
+   - **Debt:** 65.43% of GDP.
+   - **GDP:** 114.25%.
+
+5. **2019:**
+   - **Debt:** 65.43% of GDP.
+   - **GDP:** 114.25%.
+
+6. **2020:**
+   - **Debt:** 71.74% of GDP.
+   - **GDP:** 114.25%.
+
+7. **2021:**
+   - **Debt:** 56.75% of GDP.
+   - **GDP:** 114.25%.
+
+8. **2022:**
+   - **Debt:** 47.5% of GDP.
+   - **GDP:** 114.25%.
+
+9. **2023:**
+   - **Debt:** 40.74% of GDP.
+   - **GDP:** 114.25%.
+
+10. **2024:**
+   - **Debt:** 36.95

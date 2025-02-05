@@ -1,0 +1,43 @@
+ 1. <Describe the data presented in the bar chart about the number of adults physically active in England in 2018/2019, by frequency ( in millions ) :>
+
+The bar chart illustrates the number of adults physically active in England in 2018/2019, categorized by frequency (in millions). The data is presented in three categories: less than 30 minutes a week, 30-149 minutes a week, and 150+ minutes a week.
+
+2. <Find the key points and trends in the data:>
+
+- **Less than 30 minutes a week:** The majority of adults (11.22 million) do not engage in any physical activity.
+- **30-149 minutes a week:** A smaller proportion of adults (5.45 million) engage in physical activity for 30-149 minutes a week.
+- **150+ minutes a week:** The smallest proportion of adults (28.57 million) engage in physical activity for 150+ minutes a week.
+
+3. <Write a summary of the data presented in the bar chart:>
+
+The data indicates that a significant portion of the adult population in England does not engage in any physical activity, with the majority not meeting the recommended minimum of 150 minutes of moderate-intensity aerobic activity per week. The data suggests that there is a need for increased physical activity among the population, particularly to meet the recommended minimum levels of exercise.
+
+### Analysis of the Data
+
+#### 1. Less than 30 minutes a week
+
+- **11.22 million adults:** This category represents the largest number of adults who do not engage in any physical activity.
+- **5.45 million adults:** This category includes those who engage in physical activity for 30-149 minutes a week, indicating a moderate level of activity.
+
+#### 2. 30-149 minutes a week
+
+- **5.45 million adults:** This category includes those who engage in physical activity for 30-149 minutes a week, representing a moderate level of activity.
+
+#### 3. 150+ minutes a week
+
+- **28.57 million adults:** This category includes those who engage in physical activity for 150+ minutes a week, indicating a vigorous level of activity.
+
+#### 4. Trends and key points
+
+- **Less than 30 minutes a week:** The majority of adults do not meet the recommended minimum of 150 minutes of moderate-intensity aerobic activity per week.
+- **30-149 minutes a week:** A smaller proportion of adults engage in physical activity for 30-149 minutes a week.
+- **150+ minutes a week:** The smallest proportion of adults engage in physical activity for 150+ minutes a week.
+
+#### 5. Additional information
+
+- **Source:** The data is sourced from a statistic published in 2021.
+- **Graph type:** The bar chart is a visual representation of the data.
+
+#### 6. Answer to the question
+
+The data shows that a significant portion of the adult population in England does not engage in any physical activity, with the majority not meeting the recommended minimum of 150 minutes of moderate-intensity aerobic activity per week. The data suggests that there is a need for increased physical activity among the population, particularly to meet the recommended minimum levels of exercise.

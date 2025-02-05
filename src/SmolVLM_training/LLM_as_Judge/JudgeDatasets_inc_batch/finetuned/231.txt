@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the pre-tax profits of Aldi in the United Kingdom from 2011 to 2013, measured in million GBP."
+
+2. <Find the key points, compare data>:
+
+Paragraph 1:
+"In 2011, Aldi's pre-tax profits were at 70.5 million GBP, a significant increase from the previous year. By 2012, the profits had risen to 157.9 million GBP, indicating a continued upward trend."
+
+Paragraph 2:
+"By 2013, Aldi's pre-tax profits had further increased to 260.9 million GBP, demonstrating a substantial growth over the previous two years. This data highlights the company's robust financial performance and its ability to generate significant profits despite the economic challenges faced by the UK."
+
+3. <Write a summary of presented data>:
+"Overall, the data reveals a consistent upward trend in Aldi's pre-tax profits from 2011 to 2013, indicating a strong financial performance and resilience in the face of economic challenges."

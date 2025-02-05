@@ -1,0 +1,36 @@
+ 1. <Describe a graph:>
+"The bar chart illustrates the TV rights revenue of the Premier League from 1992 to 2019, measured in million British pounds (GBP)."
+
+2. <Find the key points, trends and compare data:>
+
+Paragraph 1:
+"The chart shows a steady increase in TV rights revenue from 1992 to 2019, with a significant jump in 2016-2019."
+
+Paragraph 2:
+"From 1992 to 2001, the revenue was relatively low, with a slight increase from 1992 to 1997. However, the revenue started to rise significantly from 2001 onwards, reaching 1,200 million GBP in 2004."
+
+Paragraph 3:
+"The revenue continued to rise, peaking at 5,136 million GBP in 2016-2019, a dramatic increase from the previous year."
+
+Paragraph 4:
+"The most notable increase in revenue occurred between 2016 and 2019, where the revenue jumped from 3,018 million GBP to 5,136 million GBP, indicating a substantial growth in the TV rights market."
+
+3. <Write a summary of presented information:>
+"Overall, the chart reveals a consistent upward trend in TV rights revenue for the Premier League from 1992 to 2019, with a dramatic increase in 2016-2019, highlighting the growing importance of television broadcasting in the sports industry."
+
+### Additional Information
+
+Paragraph 1:
+"The chart illustrates the TV rights revenue of the Premier League from 1992 to 2019, measured in million British pounds (GBP)."
+
+Paragraph 2:
+"The revenue was relatively low, with a slight increase from 1992 to 1997. However, the revenue started to rise significantly from 2001 onwards, reaching 1,200 million GBP in 2004."
+
+Paragraph 3:
+"From 1992 to 2001, the revenue was relatively low, with a slight increase from 1992 to 1997. However, the revenue started to rise significantly from 2001 onwards, reaching 1,200 million GBP in 2004."
+
+Paragraph 4:
+"The revenue continued to rise, peaking at 5,136 million GBP in 2016-2019, a dramatic increase from the previous year."
+
+Paragraph 5:
+"The most notable increase in revenue occurred between 2016 and 2019, where the revenue jumped from 3,018 million GBP to 5,136 million GBP, indicating a substantial growth in the TV rights market."

@@ -1,0 +1,19 @@
+Share of global distribution of Luxottica sales in 2019 , by channel
+
+<TITLE_LAST>: "Share of global distribution of Luxottica sales in 2019 , by channel"
+[10869.png].
+
+1. <Describe a graph:>
+"The pie chart illustrates the global distribution of Luxottica sales in 2019, segmented by channel, specifically highlighting the proportions attributed to wholesale and retail."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2019, retail emerged as the dominant sales channel for Luxottica, capturing a substantial 65.66% of the global sales distribution. This indicates a significant preference or reliance on direct consumer sales channels."
+
+Paragraph 2:
+"Wholesale, on the other hand, accounted for 34.34% of the global sales distribution. While still a considerable portion, it is markedly less than the retail channel, suggesting a strategic emphasis on direct consumer engagement."
+
+3. <Write a summary of presented data:>
+"Overall, the data underscores a strong inclination towards retail sales, which more than doubles the wholesale channel, highlighting a pivotal trend in Luxottica's global sales strategy for 2019."
+<SECOND>

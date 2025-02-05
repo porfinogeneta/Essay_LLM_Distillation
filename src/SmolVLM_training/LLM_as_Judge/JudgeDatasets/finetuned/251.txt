@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the online share of the global FMCG market worldwide from 2017 to 2025, with a focus on the share of the market held by leading brands."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In 2017, the online share of the global FMCG market was 4.3%. This share has increased to 5.1% in 2018, indicating a modest growth in the online market share. However, the most significant increase is expected in 2025, with the online share projected to reach 10%."
+
+Paragraph 2:
+"The leading brands in the FMCG market are expected to dominate the online space. By 2025, the online share of the market is projected to be 10%, indicating a substantial shift towards online sales. This trend is expected to be driven by the increasing popularity of online shopping and the convenience it offers to consumers."
+
+3. <Write a summary of presented data>:
+"Overall, the online share of the global FMCG market is expected to grow significantly in the coming years. By 2025, the online share is projected to reach 10%, indicating a substantial shift towards online sales. This trend is expected to be driven by the increasing popularity of online shopping and the convenience it offers to consumers."

@@ -1,0 +1,16 @@
+South Korea : Unemployment rate from 2009 to 2021
+
+1. Graph description:
+"The bar chart illustrates the unemployment rate in South Korea from 2009 to 2021. The data is presented as percentages."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The unemployment rate in South Korea exhibited a fluctuating trend from 2009 to 2021. Starting at 3.63% in 2009, the rate saw a slight increase to 3.71% in 2010, followed by a gradual decline to 3.1% in 2013. However, from 2014 onwards, the rate began to rise again, reaching 3.49% in 2014 and continuing to fluctuate slightly around the 3.5% mark until 2019."
+
+Paragraph 2:
+"In 2020, the unemployment rate experienced a notable increase, jumping to 4.5%, likely influenced by the global economic impact of the COVID-19 pandemic. This elevated rate persisted into 2021, maintaining at 4.5%. The data indicates a significant rise in unemployment during these years compared to the previous decade."
+
+3. Overview of the data:
+"Overall, the unemployment rate in South Korea demonstrated a general upward trend from 2009 to 2021, with a particularly sharp increase in 2020 and 2021. The lowest rate was recorded in 2013 at 3.1%, while the highest rates were observed in 2020 and 2021 at 4.5%."
+<FIRST>

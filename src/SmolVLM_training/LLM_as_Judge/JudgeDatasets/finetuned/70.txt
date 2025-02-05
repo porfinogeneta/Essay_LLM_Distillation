@@ -1,0 +1,16 @@
+ 1. <Describe a graph about the number of car registrations in Europe in 2019, by segment ( in 1,000s )>:
+The graph shows the number of car registrations in Europe in 2019, by segment. The data is presented in thousands.
+
+2. <Find the key points and trends in the graph>:
+
+Paragraph 1:
+The largest segment of car registrations in Europe in 2019 was the small segment, with 2,685.29 thousand registrations. The compact segment came in second with 2,163.77 thousand registrations. The compact SUV & crossover segment also had a significant number of registrations, with 2,090.17 thousand.
+
+Paragraph 2:
+The smallest segment of car registrations in Europe in 2019 was the midsize segment, with 403.92 thousand registrations. The premium compact SUV & crossover segment had 614.35 thousand registrations, followed by the premium midsize SUV & crossover segment with 515.16 thousand registrations.
+
+Paragraph 3:
+Overall, the compact segment had the highest number of registrations, followed by the small segment, the compact SUV & crossover segment, and the midsize segment. The premium compact SUV & crossover segment had the lowest number of registrations.
+
+3. <Write a summary of the presented data>:
+The data indicates that the compact segment had the highest number of car registrations in Europe in 2019, followed by the small segment, the compact SUV & crossover segment, and the midsize segment. The premium compact SUV & crossover segment had the lowest number of registrations. This suggests that the compact and small segments are the most popular in Europe, while the midsize and premium segments have a lower number of registrations.

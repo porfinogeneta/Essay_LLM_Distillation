@@ -1,0 +1,16 @@
+ 1. <Describe a graph>:
+"The graph illustrates the youth unemployment rate in Nepal from 1999 to 2020, with a focus on the period from 2000 to 2020."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The data shows a significant decline in the youth unemployment rate in Nepal from 1999 to 2000, with a decrease from 2.93% to 2.84%. This trend continued until 2005, with a further drop to 2.63%."
+
+Paragraph 2:
+"From 2005 onwards, the youth unemployment rate in Nepal stabilized, fluctuating between 2.53% and 2.63%. This period saw a slight increase in the rate, reaching 2.63% in 2005 and 2.53% in 2012. However, the rate then decreased again, reaching 2.3% in 2013 and 2.2% in 2018."
+
+Paragraph 3:
+"The most recent data, from 2020, shows a slight increase in the youth unemployment rate in Nepal, reaching 2.42%. This indicates a modest recovery in the labor market, although the rate remains below the levels seen in the early 2000s."
+
+3. <Write a summary of presented information>:
+"Overall, the data reveals a trend of decreasing youth unemployment rates in Nepal from 1999 to 2005, followed by stabilization and minor fluctuations. The most recent data indicates a slight increase in the rate in 2020, but the overall trend remains positive, with the rate below the levels seen in the early 2000s."

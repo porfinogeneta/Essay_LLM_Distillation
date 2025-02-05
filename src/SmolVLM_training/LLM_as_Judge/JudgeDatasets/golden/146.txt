@@ -1,0 +1,16 @@
+Average age of ocean cruise passengers in the United Kingdom ( UK ) from 2005 to 2018
+
+1. <Describe a graph>:
+"The bar chart illustrates the average age of ocean cruise passengers in the United Kingdom from 2005 to 2018."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a gradual increase in the average age of ocean cruise passengers over the years. Starting at 54 years in 2005, the average age saw a slight dip to 53 years in 2006 and 2007, before rising steadily to reach 57 years by 2018."
+
+Paragraph 2:
+"From 2008 onwards, the average age consistently remained above 54 years, with minor fluctuations. Notably, the average age peaked at 58 years in 2014, indicating a significant rise compared to previous years. Despite slight variations, the overall trend demonstrates an aging passenger demographic."
+
+3. <Write a summary of presented data>:
+"In summary, the average age of ocean cruise passengers in the UK has shown an upward trend from 2005 to 2018, reflecting an aging population opting for cruise vacations. The data underscores a demographic shift, with the average age increasing from 54 to 57 years over the 13-year period."
+<SECOND>

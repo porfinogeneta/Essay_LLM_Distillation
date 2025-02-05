@@ -1,0 +1,15 @@
+Relatively few say national identity is strongly tied to birthplace Having being been born in our country isvery importantfor being truly (survey country nationality)
+1. **Graph Description**:
+   The bar chart illustrates the percentage of people in various countries who believe that being born in their country is very important for being truly considered a national of that country. The data is sourced from the Spring 2016 Global Attitudes Survey.
+
+2. **Body Paragraphs**:
+
+   **Paragraph 1**:
+   The chart reveals significant variations in the importance placed on birthplace for national identity across different countries. Hungary stands out with the highest percentage at 62%, indicating a strong nationalistic sentiment. Greece and Japan follow closely, with 50% of respondents in each country emphasizing the importance of birthplace. In contrast, countries like Sweden and Australia show the lowest percentages, at 8% and 13% respectively, suggesting a more inclusive or cosmopolitan view of national identity.
+
+   **Paragraph 2**:
+   Western European countries such as the Netherlands (16%), Germany (13%), and France (25%) exhibit relatively low percentages, reflecting a broader acceptance of diverse backgrounds within their national identities. The United States and the United Kingdom both have 32%, indicating a moderate emphasis on birthplace. Interestingly, Canada has the lowest percentage among the listed countries at 21%, aligning with its reputation for multiculturalism and inclusivity.
+
+3. **Overview of the Data**:
+   Overall, the data indicates a wide range of perspectives on the importance of birthplace in defining national identity. Eastern European countries and Japan tend to place a higher value on birthplace, while Western European nations and Canada show a more inclusive attitude. This disparity highlights the varying cultural and societal values regarding national identity across different regions.
+<SECOND>

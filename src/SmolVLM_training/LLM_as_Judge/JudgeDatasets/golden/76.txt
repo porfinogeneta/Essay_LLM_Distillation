@@ -1,0 +1,16 @@
+Leading e-retailers worldwide in 2015 , based on retail revenue ( in billion U.S. dollars )
+
+1. **Graph description**:
+"The bar chart illustrates the retail revenue of leading e-retailers worldwide in 2015, measured in billion U.S. dollars. The companies are ranked based on their retail revenue, with Amazon.com leading significantly."
+
+2. **Body paragraphs**:
+
+Paragraph 1:
+"Amazon.com, based in the United States, dominates the chart with a staggering retail revenue of 79.27 billion U.S. dollars, far surpassing its competitors. JD.com Inc. from China follows, albeit at a considerable distance, with 26.99 billion U.S. dollars. Apple Inc., another U.S.-based company, ranks third with 24.37 billion U.S. dollars in retail revenue."
+
+Paragraph 2:
+"The remaining companies show a more modest performance. Walmart Stores, Inc., also from the U.S., holds the fourth position with 13.7 billion U.S. dollars. Chinese companies like Suning Commerce Group Co. Ltd. and Vipshop Holdings also make the list, with revenues of 8.1 billion and 6.08 billion U.S. dollars respectively. European companies such as Otto GmbH & Co KG from Germany and Tesco PLC from the UK also feature, albeit with lower revenues."
+
+3. **Overview of the data**:
+"Overall, the chart highlights the dominance of U.S.-based e-retailers in terms of retail revenue, with Amazon.com leading by a significant margin. Chinese companies are also notable players, while European companies lag behind. The data underscores the global nature of e-commerce and the varying levels of market penetration and revenue generation across different regions."
+<SECOND>

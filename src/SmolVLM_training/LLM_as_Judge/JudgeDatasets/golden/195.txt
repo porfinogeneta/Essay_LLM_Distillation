@@ -1,0 +1,19 @@
+South Sudan : National debt in relation to gross domestic product ( GDP ) from 2015 to 2025
+
+1. <Describe a graph>:
+"The bar chart illustrates the national debt of South Sudan in relation to its gross domestic product (GDP) from 2015 to 2025, with projections for the years 2020 to 2025."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart reveals a significant fluctuation in South Sudan's national debt relative to GDP over the given period. In 2015, the debt was approximately 59.37% of GDP. This figure saw a dramatic increase in 2016, peaking at 114.25%, the highest in the decade."
+
+Paragraph 2:
+"Following this peak, there was a notable decline, with the debt-to-GDP ratio dropping to 48.19% by 2018. However, the ratio began to rise again, reaching 65.43% in 2019 and further increasing to 71.74% in 2020. The projections indicate a gradual decrease in the debt-to-GDP ratio from 2021 onwards, with an expected decline to 35.33% by 2025."
+
+Paragraph 3:
+"The data suggests that South Sudan experienced considerable economic volatility, particularly in the early part of the decade. The sharp rise and subsequent decline in the debt-to-GDP ratio reflect the country's economic challenges and efforts to stabilize its economy."
+
+3. <Write a summary of presented data>:
+"Overall, South Sudan's national debt relative to GDP has shown significant fluctuations from 2015 to 2025. The debt peaked in 2016 at 114.25% and is projected to decrease steadily to 35.33% by 2025, indicating efforts towards economic stabilization."
+<SECOND>

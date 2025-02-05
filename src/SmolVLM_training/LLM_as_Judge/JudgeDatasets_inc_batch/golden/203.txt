@@ -1,0 +1,16 @@
+Share of haunted house visitors in the United States between 2014 and 2016 , by age group
+
+1. <Describe a graph>:
+"The bar chart illustrates the share of haunted house visitors in the United States between 2014 and 2016, categorized by age group."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals that the highest proportion of haunted house visitors falls within the 18-24 age group, with a significant 25% share. This is followed by the 25-34 age group, which accounts for 19.6% of the visitors. The 35-44 age group also shows a notable presence, comprising 16.9% of the total visitors."
+
+Paragraph 2:
+"In contrast, the older age groups exhibit a considerably lower share of visitors. The 45-54 age group represents 11.8% of the visitors, while the 55-64 age group accounts for only 6.4%. The 65+ age group has the smallest share, with a mere 2.3% of the visitors."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a clear trend where younger age groups are more inclined to visit haunted houses, with the 18-24 age group leading the way. The share of visitors decreases progressively with age, highlighting a strong preference for haunted house experiences among younger demographics."
+<SECOND>

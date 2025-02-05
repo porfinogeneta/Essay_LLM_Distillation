@@ -1,0 +1,9 @@
+ 1. The title of the bar chart is "The Last 100 Million: Percent Distribution by Race and Ethnicity".
+2. The x-axis shows "Race and Ethnicity" with categories: "Hispanic", "White", "Black", and "API".
+3. The y-axis shows "Percent" with linear scale from 0 to 36.
+4. The data is presented in four categories: Hispanic, White, Black, and API.
+5. The distribution of the Hispanic population is the highest, at 36 percent.
+6. The distribution of the White population is the second highest, at 34 percent.
+7. The distribution of the Black population is the third highest, at 16 percent.
+8. The distribution of the API population is the lowest, at 13 percent.
+9. The data suggests that the Hispanic population is the largest, followed by the White population, then the Black population, and finally the API population.

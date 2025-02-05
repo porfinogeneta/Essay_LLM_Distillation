@@ -1,0 +1,19 @@
+Average regular season attendance of selected sports leagues worldwide in 2019
+
+1. Graph description:
+"The bar chart illustrates the average regular season attendance of various sports leagues worldwide in 2019, measured in thousands."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The NFL leads significantly with an average attendance of 67.1 thousand, far surpassing other leagues. The Bundesliga follows with 43.45 thousand, while the EPL and AFL also show strong attendance figures at 38.17 and 35.12 thousand respectively. The NPB and MLB also attract substantial crowds, with 30.93 and 28.18 thousand attendees on average."
+
+Paragraph 2:
+"Leagues such as La Liga, IPL, Serie A, and CSL have moderate attendance figures ranging from 23.99 to 26.81 thousand. The CFL, Ligue 1, and MLS also show similar trends, with attendance figures between 21.31 and 22.92 thousand. The J-League and NBA have slightly lower figures at 20.51 and 17.86 thousand respectively, while the NHL and SPFL follow closely behind."
+
+Paragraph 3:
+"The WNBA has the lowest average attendance at 6.54 thousand, indicating a significant gap compared to other leagues. This disparity highlights the varying popularity and fan engagement levels across different sports and regions."
+
+3. Overview of the data:
+"Overall, the NFL stands out with the highest average attendance, while the WNBA has the lowest. The data reveals a wide range of attendance figures, reflecting the diverse popularity of sports leagues globally. The Bundesliga and EPL also show strong attendance, indicating their significant fan bases."
+<SECOND>

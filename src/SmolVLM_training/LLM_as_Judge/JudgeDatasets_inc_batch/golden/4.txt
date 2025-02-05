@@ -1,0 +1,16 @@
+Net sales of Reliance Jio Infocomm Limited from financial year 2018 to 2020 ( in billion Indian rupees )
+
+1. <Describe a graph>:
+"The bar chart illustrates the net sales of Reliance Jio Infocomm Limited over three financial years, from FY 2018 to FY 2020, measured in billion Indian rupees."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a significant upward trend in the net sales of Reliance Jio Infocomm Limited over the specified period. Starting at 201.5 billion rupees in FY 2018, the company's net sales more than doubled by FY 2019, reaching 406.63 billion rupees."
+
+Paragraph 2:
+"This growth trajectory continued into FY 2020, with net sales further increasing to 543.16 billion rupees. The consistent rise in sales figures indicates robust business performance and expanding market reach for Reliance Jio."
+
+3. <Write a summary of presented data>:
+"Overall, Reliance Jio Infocomm Limited demonstrated impressive sales growth from FY 2018 to FY 2020, with net sales increasing from 201.5 billion rupees to 543.16 billion rupees. This substantial increase underscores the company's strong market presence and successful business strategies during this period."
+<SECOND>

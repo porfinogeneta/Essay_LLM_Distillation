@@ -1,0 +1,15 @@
+Weekly terrestrial radio listenership
+1. <Describe a graph:>
+"The graph illustrates the percentage of Americans aged 12 and older who listen to terrestrial (AM/FM) radio on a weekly basis from 2009 to 2018."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"The data reveals a relatively stable trend in terrestrial radio listenership over the nine-year period. In 2009, approximately 93% of Americans aged 12 and older tuned into terrestrial radio weekly. This figure remained largely unchanged through 2018, with only minor fluctuations."
+
+Paragraph 2:
+"Despite the advent of digital streaming services and other alternative media platforms, terrestrial radio maintained a consistent listenership. The percentage dipped slightly to around 89% in 2018, but overall, the decline was minimal."
+
+3. <Write a summary of presented data:>
+"In summary, terrestrial radio listenership among Americans aged 12 and older has shown remarkable resilience from 2009 to 2018, with only a slight decrease from about 93% to 89%. This suggests that terrestrial radio remains a popular medium despite the rise of digital alternatives."
+<SECOND>

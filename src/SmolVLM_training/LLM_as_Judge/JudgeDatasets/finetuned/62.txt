@@ -1,0 +1,40 @@
+ 1. **Graph Description:**
+
+"The bar chart illustrates the share of consumers who purchased school supplies in Mexico for the school year 2017/18, by category. The data is presented as a percentage of respondents."
+
+2. **Key Aspects and Trends:**
+
+**1. Notebooks:**
+- **Highest Share:** 41% of respondents purchased notebooks.
+- **Second Highest Share:** 34% of respondents bought colored pencils or crayons.
+
+**2. Glue:**
+- **Second Highest Share:** 34% of respondents purchased glue.
+- **Third Highest Share:** 32% of respondents bought pens.
+
+**3. Pens:**
+- **Second Highest Share:** 31% of respondents bought pens.
+- **Third Highest Share:** 31% of respondents purchased markers or highlighters.
+
+**4. Geometry Set:**
+- **Lowest Share:** 24% of respondents purchased a geometry set.
+
+3. **Analysis and Description of the Data:**
+
+"Overall, notebooks and colored pencils or crayons were the most popular school supplies, with a combined share of over 75%. Glue and pens were also popular, with shares of 34% and 31%, respectively. Markets or highlighters were the least popular, with a share of 24%. This data suggests that notebooks and colored pencils or crayons are the most essential items for students, followed by glue and pens."
+
+**4. **Additional Information:**
+
+"The data is sourced from a survey conducted in Mexico in 2017/18. The survey was conducted to understand the purchasing behavior of consumers in relation to school supplies."
+
+**5. **Graph Layout and Description:**
+
+"The bar chart is presented with a categorical scale starting with 'Notebooks' and ending with 'Geometry set' on the y-axis. The x-axis represents the percentage of respondents, with increments of 10%. The bars are color-coded, with blue representing the highest share and white representing the lowest share."
+
+**6. **Visual Elements and Description:**
+
+"The chart uses a clear and concise layout, with a title, x-axis, y-axis, and a legend. The bars are well-organized, with a consistent color scheme, making it easy to compare the data points."
+
+**7. **Conclusion:**
+
+"The data highlights the popularity of notebooks and colored pencils or crayons, with glue and pens also being significant. Markets or highlighters were the least popular items, indicating that these supplies are not as essential for students in Mexico."

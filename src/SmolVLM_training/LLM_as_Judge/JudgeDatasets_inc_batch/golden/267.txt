@@ -1,0 +1,16 @@
+Sales of Ernest Jones in the United Kingdom ( UK ) from fiscal year 2014 to fiscal year 2019  ( in million GBP )
+
+1. <Describe a graph>:
+"The bar chart illustrates the sales performance of Ernest Jones in the United Kingdom from fiscal year 2014 to fiscal year 2019, with figures presented in million GBP."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a fluctuating trend in sales over the six-year period. Starting at 200.3 million GBP in 2014, there was a noticeable increase to 217.8 million GBP in 2015. The upward trajectory continued, peaking at 244.4 million GBP in 2017, marking the highest sales figure within the timeframe."
+
+Paragraph 2:
+"However, the subsequent years saw a decline in sales. In 2018, sales dropped to 237.3 million GBP, and further decreased to 186 million GBP in 2019, the lowest point in the observed period. This decline suggests potential challenges or market shifts impacting the company's performance."
+
+3. <Write a summary of presented data>:
+"Overall, Ernest Jones experienced significant growth in sales from 2014 to 2017, followed by a decline in the subsequent years. The peak sales figure was recorded in 2017 at 244.4 million GBP, while the lowest was in 2019 at 186 million GBP. This trend highlights the volatility in the company's sales performance over the six-year period."
+<SECOND>

@@ -1,0 +1,217 @@
+Parent(s), Share of K-12 Students with Unauthorized Immigrant Parent(s), 1995-2012
+1. <Describe a graph:>
+"The graph illustrates the percentage of K-12 students with unauthorized immigrant parents in the United States from 1995 to 2012."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, the share of K-12 students with unauthorized immigrant parents was 3.2%. This figure rose steadily over the years, reaching 4.6% in 2000 and continuing to climb to 6.4% by 2005."
+
+Paragraph 2:
+"The upward trend persisted, with the percentage peaking at 7.2% in 2007. Although there was a slight decline to 6.6% by 2010, the share rebounded to 6.8% in 2011 and further increased to 6.9% in 2012."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicate a significant increase in the share of K-12 students with unauthorized immigrant parents from 1995 to 2012, reflecting broader trends in immigration and demographic changes in the United States."
+
+Example 3.
+
+<TITLE_LAST>: "Changes in the population of India and China 2000-2050"
+[IMAGE_1]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph provides a comparative analysis of population changes in India and China from 2000 to 2050."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2000, China's population was approximately 1.25 billion, which increased gradually to around 1.35 billion by 2020. However, it is projected to peak at 1.45 billion around 2030 before declining to 1.4 billion by 2050."
+
+Paragraph 2:
+"In contrast, India's population started at one billion in 2000 and has been rising steadily, reaching just under 1.25 billion by 2020. The trend is expected to continue, with India's population surpassing China's around 2030 and reaching a peak of 1.6 billion by 2050."
+
+3. <Write a summary of presented data:>
+"The graph highlights a significant demographic shift, with India's population projected to grow continuously, while China's population is expected to decline after 2030."
+
+Example 4.
+
+<TITLE_LAST>: "Sales of the three most commonly purchased items in a particular bakery for the year 2014."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph depicts the sales trends of bread, buns, and pies in a bakery throughout the year 2014."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In January, bread sales were valued at $80,000, but they dropped to around $45,000 in March. The sales fluctuated between $40,000 and $65,000 until September, before rising sharply to $80,000 by December."
+
+Paragraph 2:
+"Bun sales started at $40,000 in January, surged to $70,000 by May, and remained stable until August. However, they plummeted to $30,000 by December."
+
+Paragraph 3:
+"Pie sales showed a gradual increase from $10,000 in January to $20,000 in August, followed by a sharp rise to $40,000 by December, surpassing buns."
+
+3. <Write a summary of presented data:>
+"The data indicate that while bread and bun sales experienced fluctuations, pie sales showed a consistent upward trend, ending the year strongly."
+
+Example 5.
+
+<TITLE_LAST>: "Parent(s), Share of K-12 Students with Unauthorized Immigrant Parent(s), 1995-2012"
+[IMAGE_3]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph shows the percentage of K-12 students with unauthorized immigrant parents in the U.S. from 1995 to 2012."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, the share was 3.2%, rising to 4.6% by 2000. The upward trend continued, reaching 6.4% in 2005 and peaking at 7.2% in 2007."
+
+Paragraph 2:
+"Although there was a slight decline to 6.6% by 2010, the percentage increased again to 6.8% in 2011 and 6.9% in 2012."
+
+3. <Write a summary of presented data:>
+"The data reflect a significant increase in the share of K-12 students with unauthorized immigrant parents over the 17-year period, indicating broader demographic and immigration trends."
+
+Example 6.
+
+<TITLE_LAST>: "Changes in the population of India and China 2000-2050"
+[IMAGE_1]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph illustrates the population trends in India and China from 2000 to 2050."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2000, China's population was 1.25 billion, increasing to 1.35 billion by 2020. It is projected to peak at 1.45 billion around 2030 before declining to 1.4 billion by 2050."
+
+Paragraph 2:
+"India's population started at one billion in 2000, rising to just under 1.25 billion by 2020. The trend is expected to continue, with India's population surpassing China's around 2030 and reaching 1.6 billion by 2050."
+
+3. <Write a summary of presented data:>
+"The graph highlights a significant demographic shift, with India's population projected to grow continuously, while China's population is expected to decline after 2030."
+
+Example 7.
+
+<TITLE_LAST>: "Sales of the three most commonly purchased items in a particular bakery for the year 2014."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph depicts the sales trends of bread, buns, and pies in a bakery throughout the year 2014."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In January, bread sales were valued at $80,000, but they dropped to around $45,000 in March. The sales fluctuated between $40,000 and $65,000 until September, before rising sharply to $80,000 by December."
+
+Paragraph 2:
+"Bun sales started at $40,000 in January, surged to $70,000 by May, and remained stable until August. However, they plummeted to $30,000 by December."
+
+Paragraph 3:
+"Pie sales showed a gradual increase from $10,000 in January to $20,000 in August, followed by a sharp rise to $40,000 by December, surpassing buns."
+
+3. <Write a summary of presented data:>
+"The data indicate that while bread and bun sales experienced fluctuations, pie sales showed a consistent upward trend, ending the year strongly."
+
+Example 8.
+
+<TITLE_LAST>: "Parent(s), Share of K-12 Students with Unauthorized Immigrant Parent(s), 1995-2012"
+[IMAGE_3]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph shows the percentage of K-12 students with unauthorized immigrant parents in the U.S. from 1995 to 2012."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, the share was 3.2%, rising to 4.6% by 2000. The upward trend continued, reaching 6.4% in 2005 and peaking at 7.2% in 2007."
+
+Paragraph 2:
+"Although there was a slight decline to 6.6% by 2010, the percentage increased again to 6.8% in 2011 and 6.9% in 2012."
+
+3. <Write a summary of presented data:>
+"The data reflect a significant increase in the share of K-12 students with unauthorized immigrant parents over the 17-year period, indicating broader demographic and immigration trends."
+
+Example 9.
+
+<TITLE_LAST>: "Changes in the population of India and China 2000-2050"
+[IMAGE_1]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph provides a comparative analysis of population changes in India and China from 2000 to 2050."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2000, China's population was approximately 1.25 billion, which increased gradually to around 1.35 billion by 2020. However, it is projected to peak at 1.45 billion around 2030 before declining to 1.4 billion by 2050."
+
+Paragraph 2:
+"In contrast, India's population started at one billion in 2000 and has been rising steadily, reaching just under 1.25 billion by 2020. The trend is expected to continue, with India's population surpassing China's around 2030 and reaching a peak of 1.6 billion by 2050."
+
+3. <Write a summary of presented data:>
+"The graph highlights a significant demographic shift, with India's population projected to grow continuously, while China's population is expected to decline after 2030."
+
+Example 10.
+
+<TITLE_LAST>: "Sales of the three most commonly purchased items in a particular bakery for the year 2014."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph depicts the sales trends of bread, buns, and pies in a bakery throughout the year 2014."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In January, bread sales were valued at $80,000, but they dropped to around $45,000 in March. The sales fluctuated between $40,000 and $65,000 until September, before rising sharply to $80,000 by December."
+
+Paragraph 2:
+"Bun sales started at $40,000 in January, surged to $70,000 by May, and remained stable until August. However, they plummeted to $30,000 by December."
+
+Paragraph 3:
+"Pie sales showed a gradual increase from $10,000 in January to $20,000 in August, followed by a sharp rise to $40,000 by December, surpassing buns."
+
+3. <Write a summary of presented data:>
+"The data indicate that while bread and bun sales experienced fluctuations, pie sales showed a consistent upward trend, ending the year strongly."
+
+Example 11.
+
+<TITLE_LAST>: "Parent(s), Share of K-12 Students with Unauthorized Immigrant Parent(s), 1995-2012"
+[IMAGE_3]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph shows the percentage of K-12 students with unauthorized immigrant parents in the U.S. from 1995 to 2012."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1995, the share was 3.2%, rising to 4.6% by 2000. The upward trend continued, reaching 6.4% in 2005 and peaking at 7.2% in 2007."
+
+Paragraph 2:
+"Although there was a slight decline to 6.6% by 2010, the percentage increased again to 6.8% in 2011 and 6.9% in 2012."
+
+3. <Write a summary of presented data:>
+"The data reflect a significant increase in the share of K-12 students with unauthorized immigrant parents over the 17-year period, indicating broader demographic and immigration trends."
+
+Example 12.
+
+<TITLE_LAST>: "Changes in the population of India and China 2000-2050"
+[IMAGE_1]
+
+Follow given structured input:
+1. <Describe a graph:>
+"The graph illustrates the population trends in India and China from 2000 to 2050."
+
+2. <Find the key points and trends:>
+
+Paragraph 1
+<FIRST>

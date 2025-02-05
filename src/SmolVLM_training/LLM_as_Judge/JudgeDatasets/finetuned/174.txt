@@ -1,0 +1,24 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the most popular outdoor activities in the United States from 2009 to 2018, by number of participants (in millions)."
+
+2. <Find the key points, compare data>:
+
+Paragraph 1:
+"The most popular outdoor activity in the United States from 2009 to 2018 was running, jogging and trail running, with 57.83 million participants in 2009."
+
+Paragraph 2:
+"Following trail running, the second most popular activity was freshwater, saltwater and fly fishing, with 49.42 million participants in 2009."
+
+Paragraph 3:
+"Road biking, mountain biking and BMX were the third most popular activities, with 47.88 million participants in 2009."
+
+Paragraph 4:
+"Hiking was the fourth most popular activity, with 47.86 million participants in 2009."
+
+Paragraph 5:
+"Car, backyard and RV camping was the least popular activity, with 41.67 million participants in 2009."
+
+3. <Write a summary of presented data>:
+"Overall, the most popular outdoor activities in the United States from 2009 to 2018 were running, jogging and trail running, followed by freshwater, saltwater and fly fishing, road biking, mountain biking and BMX, hiking, and car, backyard and RV camping. The least popular activity was car, backyard and RV camping."
+
+<The image is a bar chart titled "Most popular outdoor activities in the United States from 2009 to 2018 , by number of participants ( in millions )">.

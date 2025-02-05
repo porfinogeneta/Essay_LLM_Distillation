@@ -1,0 +1,19 @@
+Minnesota Vikings franchise value from 2002 to 2020 ( in million U.S. dollars ) 
+
+1. <Describe a graph>:
+"The bar chart illustrates the franchise value of the Minnesota Vikings from 2002 to 2020, measured in million U.S. dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The franchise value of the Minnesota Vikings has demonstrated a consistent upward trend from 2002 to 2020. Starting at $437 million in 2002, the value has progressively increased each year, reaching $2,950 million by 2020."
+
+Paragraph 2:
+"The most notable increments occurred in the latter part of the period. Between 2014 and 2015, the value surged from $1,150 million to $1,590 million, marking a significant jump. Similarly, the period from 2018 to 2020 saw substantial growth, with the value rising from $2,700 million to $2,950 million."
+
+Paragraph 3:
+"This consistent increase in franchise value reflects the growing popularity and financial success of the NFL, as well as the strategic management and marketability of the Minnesota Vikings."
+
+3. <Write a summary of presented data>:
+"Overall, the franchise value of the Minnesota Vikings has shown a remarkable upward trajectory over the 18-year period, underscoring the team's growing financial stature and the broader prosperity of the NFL."
+<SECOND>

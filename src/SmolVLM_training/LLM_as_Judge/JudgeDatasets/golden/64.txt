@@ -1,0 +1,16 @@
+Fastest-growing summer travel destinations in the United States in 2014
+
+1. **Graph description**:
+"The bar chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The expenditure is measured in pounds sterling."
+
+2. **Body paragraphs**:
+
+Paragraph 1:
+"In terms of expenditure on cars, the UK significantly outspent France, with approximately £450,000 compared to France's £400,000. Similarly, the UK allocated more funds to books, spending around £400,000, whereas France spent about £300,000. The expenditure on cameras also saw a notable difference, with the UK spending just over £350,000, more than double France's £150,000."
+
+Paragraph 2:
+"On the other hand, France surpassed the UK in spending on computers and perfume. The French spent above £350,000 on computers, slightly more than the UK's £350,000. Perfume expenditure was higher in France, amounting to £200,000, compared to under £150,000 in the UK."
+
+3. **Overview of the data**:
+"Overall, the UK spent more on consumer goods than France in 2010. Both countries spent the most on cars, while the least was spent on perfume in the UK and cameras in France. The most significant difference in expenditure between the two countries was observed in cameras, with the UK spending substantially more."
+<SECOND>

@@ -1,0 +1,15 @@
+How often Twitter users check for material posted by others
+1. <Describe a graph:>
+The pie chart illustrates the frequency with which Twitter users check for material posted by others, presenting data as percentages of users.
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+A significant proportion of Twitter users, 24%, check for updates several times a day. Another 12% do so once a day, while 12% check 1-2 days per week. A slightly larger group, 20%, checks every few weeks.
+
+Paragraph 2:
+A notable 21% of users check less often, and a smaller segment, 7%, checks 3-5 days per week. The least engaged users, making up 5%, never check for updates.
+
+3. <Write a summary of presented data:>
+Overall, the majority of Twitter users are actively engaged, with nearly half checking daily or several times a day. However, a substantial portion, over a fifth, checks less frequently, and a small minority never engages with updates.
+<FIRST>

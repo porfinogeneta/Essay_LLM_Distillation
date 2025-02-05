@@ -1,0 +1,19 @@
+Number of Latin-American air traffic passengers traveling to or from the United States from 2006 to 2020 ( in million passengers )
+
+1. <Describe a graph>:
+"The bar chart illustrates the number of Latin-American air traffic passengers traveling to or from the United States from 2006 to 2020, measured in millions of passengers."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a consistent upward trend in the number of Latin-American air traffic passengers over the 15-year period. Starting at 47 million passengers in 2006, the numbers gradually increased each year, reaching 91 million by 2020."
+
+Paragraph 2:
+"Significant growth can be observed particularly between 2012 and 2019, where the number of passengers rose from 61 million to 88 million. This period marks the most substantial increase, indicating a robust growth in air travel demand."
+
+Paragraph 3:
+"Despite the overall upward trend, the data for 2020 shows a slight decline to 91 million passengers, likely influenced by global events such as the COVID-19 pandemic, which disrupted international travel."
+
+3. <Write a summary of presented data>:
+"Overall, the number of Latin-American air traffic passengers traveling to or from the United States has shown a remarkable increase from 2006 to 2020, reflecting growing connectivity and travel demand between the regions. The steady rise, punctuated by a slight dip in 2020, underscores the resilience and importance of air travel in connecting Latin America with the United States."
+<FIRST>

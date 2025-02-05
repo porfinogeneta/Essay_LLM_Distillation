@@ -1,0 +1,16 @@
+Number of deadly motorcycle accidents in Singapore from 2000 to 2019
+
+1. Graph description:
+The graph illustrates the number of fatal motorcycle accidents in Singapore over a period of 20 years, from 2000 to 2019.
+
+2. Key points and trends:
+
+Paragraph 1:
+In 2000, the number of fatalities stood at 99, experiencing a slight decline to 88 in 2001. The figures fluctuated in the subsequent years, peaking at 108 in 2007. This period was marked by significant variability, with numbers oscillating between 88 and 108.
+
+Paragraph 2:
+Post-2007, a downward trend became evident. By 2012, fatalities had decreased to 76, continuing to drop to 62 by 2016. The lowest point was reached in 2017 with 44 fatalities. Although there was a slight increase to 63 by 2019, the overall trend remained downward.
+
+3. Overview of the data:
+Overall, the data indicates a significant reduction in fatal motorcycle accidents in Singapore from 2000 to 2019, despite some fluctuations. The peak in 2007 was followed by a consistent decline, highlighting effective safety measures and increased awareness over the years.
+<SECOND>

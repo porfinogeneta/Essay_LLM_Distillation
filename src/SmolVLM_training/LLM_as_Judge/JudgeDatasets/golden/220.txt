@@ -1,0 +1,15 @@
+Median duration of unemployment, in months. Source: Bureau of Labor Statistics
+1. **Graph Description:**
+   The graph illustrates the median duration of unemployment in the United States over a period from January 2003 to January 2013, measured in months.
+
+2. **Key Points and Trends:**
+
+   **Paragraph 1:**
+   In January 2003, the median duration of unemployment was approximately 10 weeks. This figure remained relatively stable until early 2008, when it began to rise sharply. By January 2010, the median duration had surged to around 20 weeks, reflecting the impact of the global financial crisis.
+
+   **Paragraph 2:**
+   Following the peak in early 2010, the median duration of unemployment showed a gradual decline, fluctuating between 15 and 20 weeks until mid-2012. However, towards the end of 2012 and into 2013, the duration began to stabilize, indicating a potential improvement in the labor market conditions.
+
+3. **Overview of the Data:**
+   Overall, the data reveals a significant increase in the median duration of unemployment during the financial crisis, followed by a gradual stabilization in the subsequent years. This trend highlights the prolonged impact of economic downturns on job seekers and the slow recovery of the labor market.
+<FIRST>

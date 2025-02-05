@@ -1,0 +1,29 @@
+ 1. What is the total number of units sold in the first half of 2015?
+Answer: 1254
+
+2. What is the total number of units sold in the second half of 2015?
+Answer: 554
+
+3. How many units were sold in the first half of 2015?
+Answer: 1254
+
+4. How many units were sold in the second half of 2015?
+Answer: 554
+
+5. What is the total number of units sold in the whole period of 2013 to 2015?
+Answer: 34454
+
+6. What is the percentage change in units sold from July 2013 to June 2015?
+Answer: 10.2%
+
+7. What is the percentage change in units sold from January 2014 to June 2015?
+Answer: 10.2%
+
+8. What is the percentage change in units sold from April 2014 to June 2015?
+Answer: 10.2%
+
+9. What is the percentage change in units sold from May 2014 to June 2015?
+Answer: 10.2%
+
+10. What is the percentage change in units sold from April 2015 to May 2015?
+Answer: 10.2%

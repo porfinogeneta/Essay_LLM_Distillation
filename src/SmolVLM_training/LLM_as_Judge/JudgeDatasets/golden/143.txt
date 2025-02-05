@@ -1,0 +1,61 @@
+Gross domestic product of Yukon , Canada from 2000 to 2019 ( in million chained 2012 Canadian dollars )
+
+1. <Describe a graph>:
+"The bar chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The values are measured in pounds sterling."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In terms of cars, the UK exhibited a higher expenditure, reaching approximately £450,000, compared to France's £400,000. Similarly, the UK surpassed France in book expenditure, with around £400,000 versus £300,000. The expenditure on cameras in the UK, just over £350,000, was more than double that of France, which was only £150,000."
+
+Paragraph 2:
+"Conversely, France outspent the UK on computers and perfume. The French expenditure on computers was slightly above £350,000, marginally higher than the UK's exact £350,000. Perfume expenditure in France was £200,000, whereas the UK spent under £150,000."
+
+3. <Write a summary of presented data>:
+"Overall, the UK demonstrated a higher expenditure on consumer goods compared to France in 2010. Both countries allocated the most funds to cars, while perfume received the least investment in the UK and cameras in France. The most notable disparity in spending between the two nations was observed in cameras, with the UK significantly outspending France."
+
+Example 2.
+
+<TITLE_2>: "The chart shows the average household spending pattern for households in three income categories as a proportion of their income."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph>:
+"The bar charts depict the average household spending patterns for households in three income categories as a proportion of their income."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals that households in higher income categories tend to allocate a smaller proportion of their income to necessities such as food and housing, and a larger proportion to discretionary spending like entertainment and travel."
+
+Paragraph 2:
+"For instance, households in the lowest income category spend approximately 40% of their income on food and housing, whereas those in the highest income category spend around 20%. Conversely, the highest income households allocate about 25% of their income to discretionary spending, compared to just 10% for the lowest income households."
+
+Paragraph 3:
+"The spending patterns highlight the varying financial priorities and capabilities of households across different income levels, with higher income households having more flexibility to spend on non-essential items."
+
+3. <Write a summary of presented data>:
+"In summary, the chart demonstrates that as household income increases, the proportion of income spent on necessities decreases, while the proportion spent on discretionary items increases. This reflects the greater financial freedom and diverse spending options available to higher income households."
+
+Answer.
+
+<TITLE_LAST>: "Gross domestic product of Yukon , Canada from 2000 to 2019 ( in million chained 2012 Canadian dollars )"
+[11715.png].
+
+1. <Describe a graph>:
+"The bar chart illustrates the Gross Domestic Product (GDP) of Yukon, Canada, from 2000 to 2019, measured in million chained 2012 Canadian dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a consistent upward trend in Yukon's GDP over the two-decade period. Starting at just over 1,500 million chained 2012 Canadian dollars in 2000, the GDP steadily increased each year, reaching approximately 2,500 million by 2019."
+
+Paragraph 2:
+"The growth trajectory indicates a robust economic expansion, with notable increments particularly in the latter years. For instance, between 2010 and 2019, the GDP rose from around 2,000 million to 2,500 million, showcasing a significant acceleration in economic growth."
+
+Paragraph 3:
+"This steady increase in GDP reflects Yukon's economic resilience and development, driven by various factors such as resource extraction, tourism, and government investments."
+
+3. <Write a summary of presented data>:
+"In summary, Yukon's GDP has shown a remarkable and consistent growth from 2000 to 2019, highlighting the region's economic progress and stability. The steady rise in GDP underscores Yukon's successful economic strategies and the positive impact of its key industries."
+<first>

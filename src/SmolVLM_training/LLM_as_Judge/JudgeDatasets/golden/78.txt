@@ -1,0 +1,15 @@
+Average audience for network TV Sunday morning political talk shows
+1. <Describe a graph:>
+The graph illustrates the average number of TVs tuning into Sunday morning political talk show news programming for ABC's This Week, CBS's Face the Nation, Fox News Sunday, and NBC's Meet the Press from 2016 to 2018.
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 2016, the average number of TVs tuning into these political talk shows was approximately 2.5 million. This figure remained relatively stable through 2017, with only minor fluctuations. However, by 2018, there was a noticeable decline, bringing the average viewership down to just under 2 million."
+
+Paragraph 2:
+"The data indicates a consistent trend of declining viewership over the three-year period. Despite the slight variations in 2017, the overall trajectory shows a steady decrease in the number of viewers tuning into these programs."
+
+3. <Write a summary of presented data:>
+"Overall, the graph highlights a significant decline in the audience for Sunday morning political talk shows from 2016 to 2018. The viewership dropped from around 2.5 million to just under 2 million, indicating a potential shift in audience preferences or changes in media consumption habits."
+<SECOND>

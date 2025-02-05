@@ -1,0 +1,10 @@
+ 1. <Describe a graph>:
+"The graph illustrates the total assets of Citigroup from 2011 to 2019, measured in trillion U.S. dollars."
+
+2. <Find the key points and details>:
+
+Paragraph 1:
+"In 2011, Citigroup's total assets amounted to 1.87 trillion U.S. dollars. This figure remained relatively stable over the subsequent years, with slight fluctuations. In 2012, the assets increased to 1.86 trillion U.S. dollars, and in 2013, they further rose to 1.88 trillion U.S. dollars. By 2014, the assets had slightly decreased to 1.84 trillion U.S. dollars, but they rebounded in 2015, reaching 1.73 trillion U.S. dollars. The following year, the assets dipped to 1.79 trillion U.S. dollars, but they recovered in 2016, reaching 1.84 trillion U.S. dollars. In 2017, the assets increased to 1.84 trillion U.S. dollars, and in 2018, they further rose to 1.92 trillion U.S. dollars. By 2019, the assets peaked at 1.95 trillion U.S. dollars."
+
+3. <Write a summary of presented information>:
+"Overall, the data reveals a relatively stable trend in Citigroup's total assets from 2011 to 2019, with minor fluctuations. The assets peaked in 2019 at 1.95 trillion U.S. dollars, indicating a significant increase from the previous year. This trend suggests a positive growth trajectory for the financial institution."

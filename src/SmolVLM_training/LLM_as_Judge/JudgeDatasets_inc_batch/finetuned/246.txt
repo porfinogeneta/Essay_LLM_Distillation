@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the percentage of individuals using the internet worldwide in 2019, categorized by region."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The highest percentage of internet users is found in Europe, with 82.5% of individuals accessing the internet. This is followed by The Americas, with 77.2%, and Asia and Pacific, with 53.6%. The lowest percentage of internet users is observed in Africa, with only 28.2% of individuals accessing the internet."
+
+Paragraph 2:
+"The data reveals a significant disparity in internet penetration across different regions. Europe and The Americas have the highest rates of internet usage, while Africa has the lowest. This disparity can be attributed to various factors, including economic development, infrastructure, and access to technology."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a substantial variation in internet usage across different regions. While Europe and The Americas have the highest rates, Africa has the lowest. This disparity highlights the digital divide and the varying levels of technological advancement in different parts of the world."

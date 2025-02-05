@@ -1,0 +1,36 @@
+ 1. <Describe the data in the chart 'Number of refugees admitted to the U.S., by fiscal year'>:
+
+The chart illustrates the number of refugees admitted to the U.S. by fiscal year from 1975 to 2018. The data is presented in a bar chart format, with each bar representing a different fiscal year. The y-axis plots the number of refugees, while the x-axis shows the fiscal year.
+
+**Key Aspects and Trends:**
+
+1. **Peak Year:**
+   - The highest number of refugees admitted to the U.S. was in 1980, with approximately 200,000 refugees.
+
+2. **Decline in 2018:**
+   - The number of refugees admitted to the U.S. in 2018 fell significantly, with only around 15,000 refugees admitted. This decline is particularly notable, as it is the lowest number in the provided data.
+
+3. **Parabolic Trend:**
+   - The data shows a parabolic trend, with the number of refugees admitted peaking in the early 1980s and then decreasing sharply in the mid-1980s.
+
+4. **Relative Decline:**
+   - The number of refugees admitted to the U.S. has been steadily declining since the mid-1980s, with the exception of a brief increase in the mid-1990s.
+
+5. **Partial Fiscal Year Data:**
+   - The data for fiscal year 2017-April 30, 2018, is partial, and does not include special immigrant visas and certain humanitarian parole entrants.
+
+**Analysis and Description of the Data:**
+
+The data reveals a significant decline in the number of refugees admitted to the U.S. in recent years, particularly in 2018. The sharpest decline is observed in fiscal year 2018, with only 15,000 refugees admitted, the lowest number in the provided data. This trend is consistent with the overall decline in refugee admissions over the past decade.
+
+**Paragraph 2:**
+
+The data highlights the impact of various factors, including political and economic conditions, on refugee admissions. The sharp decline in 2018 could be attributed to several factors, such as the Trump administration's restrictive policies, the ongoing global refugee crisis, and the economic downturn in many countries of origin.
+
+**Paragraph 3:**
+
+The data also indicates a gradual decline in refugee admissions over the years, with the exception of a brief increase in the mid-1990s. This trend suggests a long-term downward trajectory in refugee admissions, possibly influenced by geopolitical events, economic conditions, and changes in immigration policies.
+
+**Paragraph 4:**
+
+Overall, the data points to a significant decrease in refugee admissions to the U.S. in recent years, with the most notable decline in 2018. This trend is likely influenced by a combination of political and economic factors, as well as the ongoing global refugee crisis.

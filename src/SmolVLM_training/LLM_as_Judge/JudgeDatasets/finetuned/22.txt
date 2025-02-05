@@ -1,0 +1,19 @@
+ 1. <Describe a graph>:
+"The graph illustrates the population growth of Cambodia from 2009 to 2019, compared to the previous year."
+
+2. <Find the key points, details and examples>:
+
+Paragraph 1:
+"In 2009, Cambodia's population growth was 1.5%. This figure increased slightly in the following year, reaching 1.54%. By 2011, the population growth had risen to 1.59%, indicating a modest increase in population over the preceding two years."
+
+Paragraph 2:
+"From 2011 to 2013, Cambodia's population growth remained relatively stable, hovering around 1.6%. This period saw a slight increase in population growth, reaching 1.63% in 2012. However, the growth rate decreased slightly in 2013, to 1.65%, reflecting a modest increase in population during this period."
+
+Paragraph 3:
+"From 2013 to 2017, Cambodia's population growth continued to fluctuate, with the growth rate ranging from 1.53% to 1.64%. This period saw a slight increase in population growth, reaching 1.6% in 2015. The growth rate then decreased slightly, to 1.57% in 2016, before increasing again to 1.53% in 2017."
+
+Paragraph 4:
+"From 2017 to 2019, Cambodia's population growth stabilized, with the growth rate remaining at 1.45%. This period saw a slight increase in population growth, reaching 1.49% in 2018. The growth rate then decreased slightly, to 1.45% in 2019, indicating a gradual decline in population growth over this period."
+
+3. <Write a summary of presented information>:
+"Overall, Cambodia's population growth from 2009 to 2019 fluctuated, with the growth rate generally decreasing over the period. The most significant increase in population growth occurred between 2011 and 2013, followed by a slight decrease in 2013 and 2014. The population growth stabilized in 2017, with a slight increase in 2018 and 2019."

@@ -1,0 +1,23 @@
+ 1. **Graph Description:**
+
+"The bar chart illustrates the frequency of Google use among U.S. adults as of October 2017, categorized by the frequency of use."
+
+2. **Body Paragraphs:**
+
+Paragraph 1:
+"The most common frequency of Google use among U.S. adults is several times a day, with 54% of respondents indicating this frequency. This is followed by once a day, with 13% of respondents stating this frequency."
+
+Paragraph 2:
+"A few times a week is the second most common frequency of Google use, with 12% of respondents indicating this frequency. About once a week is the third most common frequency, with 4% of respondents indicating this frequency."
+
+Paragraph 3:
+"About once a month or less is the fourth most common frequency of Google use, with 5% of respondents indicating this frequency. Finally, 14% of respondents do not have an account or do not use Google."
+
+3. **Title and Main Points:**
+
+Title: "Frequency of Google Use in the United States as of October 2017"
+
+Main Points:
+"1. **Graph Description:**
+   2. **Body Paragraphs:**
+   3. **Title and Main Points:**"

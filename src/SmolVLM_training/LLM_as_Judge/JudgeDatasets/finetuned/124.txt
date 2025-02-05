@@ -1,0 +1,29 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020, measured in millions."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data shows a consistent increase in mobile customers from 2008/09 to 2010/11, reaching a peak of 36.71 million in 2010/11. Following this, there was a slight decline, with the number of customers dropping to 32.41 million in 2012/13. This decline continued, with the number of customers decreasing to 30.33 million in 2015/16 and 30.72 million in 2016/17."
+
+Paragraph 2:
+"From 2017/18 to 2019/2020, the number of mobile customers of Vodafone in Germany experienced a steady decline, with the number of customers dropping to 30.05 million in 2019/2020. This decline is notable, indicating a decrease in the popularity of Vodafone's mobile services in Germany during this period."
+
+3. <Write a summary of presented data>:
+"Overall, the data reveals a fluctuating trend in the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020. The initial increase in the number of customers from 2008/09 to 2010/11 was followed by a decline, which continued until 2017/18. Subsequently, the number of customers decreased again, with the most significant drop occurring from 2019/2020 to 2019/2020. This decline is particularly notable, suggesting a decrease in the popularity of Vodafone's mobile services in Germany during this period."
+
+### End of Text ###
+
+#### Additional Information:
+
+Paragraph 1:
+"The bar chart illustrates the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020 ( in millions )"
+
+Paragraph 2:
+"The data shows a consistent increase in mobile customers from 2008/09 to 2010/11, reaching a peak of 36.71 million in 2010/11. Following this, there was a slight decline, with the number of customers dropping to 32.41 million in 2012/13. This decline continued, with the number of customers decreasing to 30.33 million in 2015/16 and 30.72 million in 2016/17. From 2017/18 to 2019/2020, the number of customers decreased to 30.05 million in 2019/2020. This decline is notable, indicating a decrease in the popularity of Vodafone's mobile services in Germany during this period."
+
+Paragraph 3:
+"From 2017/18 to 2019/2020, the number of mobile customers of Vodafone in Germany experienced a steady decline, with the number of customers dropping to 30.05 million in 2019/2020. This decline is particularly notable, suggesting a decrease in the popularity of Vodafone's mobile services in Germany during this period."
+
+Paragraph 4:
+"Overall, the data reveals a fluctuating trend in the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020. The initial increase in the number of customers from 2008/09 to 2010/11 was followed by a decline, which continued until 2017/18. Subsequently, the number of customers decreased again, with the number of customers decreasing to 30.05 million in 2019/2020. This decline is particularly notable, suggesting a decrease in the popularity of Vodafone's mobile services in Germany during this period."

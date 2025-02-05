@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the gross advertiser expenditures for network TV evening news programs from 2013 to 2018."
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+"In 2013, the gross advertiser expenditures for network TV evening news programs were approximately 500 million U.S. dollars. This expenditure remained relatively stable over the next few years, with slight increases in 2014 and 2015, reaching around 525 million U.S. dollars in 2015."
+
+Paragraph 2:
+"From 2016 onwards, the expenditures began to increase gradually, reaching around 550 million U.S. dollars in 2016, and further increasing to 575 million U.S. dollars in 2017. This upward trend continued, with expenditures reaching 580 million U.S. dollars in 2018."
+
+3. <Write a summary of presented information>:
+"Overall, the gross advertiser expenditures for network TV evening news programs have shown a steady increase from 2013 to 2018, with the highest expenditure recorded in 2018 at approximately 580 million U.S. dollars."

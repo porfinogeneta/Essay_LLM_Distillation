@@ -1,0 +1,16 @@
+Singapore : Main export partners in 2017
+
+1. <Describe a graph>:
+"The bar chart illustrates the main export partners of Singapore in 2017, highlighting the share of total exports to each country or region."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"China emerged as the leading export partner for Singapore in 2017, accounting for 14.7% of total exports. Hong Kong followed closely, with a 12.6% share, while Malaysia was the third-largest export partner, representing 10.8% of Singapore's exports."
+
+Paragraph 2:
+"The United States and Indonesia also featured prominently, with shares of 6.6% and 5.8% respectively. Japan, South Korea, and Thailand were the other notable partners, with Japan at 4.7%, South Korea at 4.6%, and Thailand at 4%."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates that Singapore's export trade is heavily concentrated in Asia, with China, Hong Kong, and Malaysia being the top three partners. The United States is the only non-Asian country among the top export partners, reflecting Singapore's strong economic ties within the region and its strategic position as a global trade hub."
+<SECOND>

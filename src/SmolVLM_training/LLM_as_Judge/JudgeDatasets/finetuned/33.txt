@@ -1,0 +1,10 @@
+ 1. <Describe a graph>:
+"The graph illustrates the global revenue of LVMH Group's selective retailing segment from 2008 to 2019, measured in million euros."
+
+2. <Find the key points, details, and compare data>:
+
+Paragraph 1:
+"In 2008, the revenue of LVMH's selective retailing segment was 4,376 million euros. This figure increased to 4,533 million euros in 2009, and further rose to 5,378 million euros in 2010. The revenue continued to rise, reaching 6,436 million euros in 2011, and 7,843 million euros in 2012. By 2013, the revenue had climbed to 8,903 million euros, and in 2014, it was 9,534 million euros. In 2015, the revenue increased to 11,233 million euros, and in 2016, it was 11,973 million euros. The revenue continued to rise, reaching 13,311 million euros in 2017, and 13,646 million euros in 2018. In 2019, the revenue of LVMH's selective retailing segment was 14,791 million euros."
+
+3. <Write a summary of presented data>:
+"Overall, the revenue of LVMH's selective retailing segment has shown a consistent upward trend from 2008 to 2019. Starting at 4,376 million euros in 2008, the revenue has steadily increased, reaching 14,791 million euros in 2019. This upward trend indicates a strong performance and growth in the segment."

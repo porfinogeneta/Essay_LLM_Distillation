@@ -1,0 +1,13 @@
+ 1. <Describe a graph:>
+"The bar chart illustrates the percentage of people in various countries who believe that "married people having an affair is morally unacceptable" as of Spring 2013."
+
+2. <Find the key points and compare data:>
+
+Paragraph 1:
+"France has the highest percentage of people who believe that "married people having an affair is morally unacceptable" at 47%, followed by Germany at 60%. Italy and Spain also have high percentages, with 64% and 64% respectively."
+
+Paragraph 2:
+"The countries with the lowest percentages are the Palestinian territories, with 94%, followed by Jordan and Indonesia, both at 93%. Turkey and Egypt also have relatively high percentages at 93% and 92%, respectively."
+
+Paragraph 3:
+"The data reveals a significant variation in opinion across different countries, with France and Germany leading the way, while the Palestinian territories and Jordan have the lowest percentages."

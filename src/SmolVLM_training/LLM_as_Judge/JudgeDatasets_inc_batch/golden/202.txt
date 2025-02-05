@@ -1,0 +1,18 @@
+White evangelical Protestants most likely to view alcohol as morally wrong % who say drinking alcohol is morally wrong White evangelical Protestant
+1. <Describe a graph>:
+"The bar chart illustrates the percentage of various religious groups and their views on the morality of drinking alcohol, based on a survey conducted in December 2017 among U.S. adults."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals that White evangelical Protestants are the most likely to view drinking alcohol as morally wrong, with 23% holding this belief. This is significantly higher compared to other groups, such as White mainline Protestants and Atheists, where only 7% and less than 1% respectively share this view."
+
+Paragraph 2:
+"Among Catholics and Black Protestants, the percentages are relatively moderate, with 15% and 13% respectively considering alcohol consumption morally wrong. The unaffiliated group, including Atheists and Agnostics, shows the lowest percentages, with Agnostics at 5% and Atheists at less than 1%."
+
+Paragraph 3:
+"Interestingly, the frequency of attending religious services also correlates with these views. Those who attend services monthly are more likely to view alcohol consumption as morally wrong (22%) compared to those who attend less frequently (9%)."
+
+3. <Write a summary of presented data>:
+"Overall, the chart highlights a clear trend where more religiously active and conservative groups, particularly White evangelical Protestants, are more likely to view alcohol consumption as morally wrong. Conversely, less religious or unaffiliated individuals show the least concern about the morality of drinking alcohol."
+<SECOND>

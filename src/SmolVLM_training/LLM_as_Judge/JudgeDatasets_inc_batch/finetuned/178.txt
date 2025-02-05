@@ -1,0 +1,39 @@
+ 1. <Describe the data in the image based on the provided facts>:
+
+The image presents a bar chart titled "Bachelor's Degree Attainment Rates Among Hispanic Adults, by State, 2011." The chart is divided into two categories: "All Hispanics" and "District of Columbia, Virginia, Maryland, Florida, Hawaii, Ohio, Missouri, Massachusetts, Michigan, New York, New Jersey, Louisiana, Connecticut, Minnesota, Kentucky, South Carolina, Wyoming." Each category is represented by a horizontal bar, with the length of the bar indicating the percentage of Hispanic adults in that category.
+
+2. <Find the key points and trends in the data>:
+
+**All Hispanics:**
+- The bar is colored gray, indicating a relatively low percentage of Hispanic adults with a bachelor's degree.
+- The percentage is 13.4%.
+
+**District of Columbia, Virginia, Maryland, Florida, Hawaii, Ohio, Missouri, Massachusetts, Michigan, New York, New Jersey, Louisiana, Connecticut, Minnesota, Kentucky, South Carolina, Wyoming:**
+- The bars are colored brown, indicating a higher percentage of Hispanic adults with a bachelor's degree.
+- The percentages vary from 13.2% to 19.9%, with the highest percentage being 24.1% in Virginia.
+
+3. <Write a summary of the data>:
+
+Overall, the data shows that the percentage of Hispanic adults with a bachelor's degree varies significantly across different states. The highest percentage is found in Virginia, with 24.1%, while the lowest percentage is in Wyoming, with 13.8%. The data suggests that the educational attainment of Hispanic adults varies considerably by state, with some states having higher percentages than others.
+
+**Analysis and Description of the Data:**
+
+The data reveals that the percentage of Hispanic adults with a bachelor's degree is higher in states like Virginia, Maryland, and Florida, indicating a higher educational attainment rate in these states compared to others. Conversely, states like Wyoming and South Carolina have lower percentages, suggesting a lower educational attainment rate.
+
+**Question and Answer:**
+
+Q: What is the highest percentage of Hispanic adults with a bachelor's degree in the District of Columbia?
+
+A: 36.2%
+
+Q: What is the lowest percentage of Hispanic adults with a bachelor's degree in the District of Columbia?
+
+A: 24.1%
+
+Q: What is the percentage of Hispanic adults with a bachelor's degree in Wyoming?
+
+A: 13.8%
+
+Q: What is the percentage of Hispanic adults with a bachelor's degree in Massachusetts?
+
+A: 17.1%

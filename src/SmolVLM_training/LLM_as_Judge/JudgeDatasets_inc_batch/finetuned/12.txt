@@ -1,0 +1,19 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the all-time leaders in touchdowns scored by Cincinnati Bengals from 1968 to 2020."
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+"The chart highlights the top five players with the most touchdowns scored by Cincinnati Bengals, with Pete Johnson leading the list with 70 touchdowns."
+
+Paragraph 2:
+"Chad Johnson follows closely with 66 touchdowns, while Carl Pickens and James Brooks also have 64 touchdowns each. A.J. Green and Isaac Curtis are tied with 63 touchdowns, while Corey Dillon and Rudi Johnson are tied with 50 touchdowns each."
+
+Paragraph 3:
+"Eddie Brown and Larry Kinnebrew are tied with 41 touchdowns each, while T.J. Houshmandzadeh and Cris Collinsworth are tied with 38 touchdowns each. Darnay Scott and Bob Trumpy are tied with 36 touchdowns each, while Rodney Holman and Giovanni Bernard are tied with 34 touchdowns each."
+
+Paragraph 4:
+"Jeremy Hill and Essex Johnson are tied with 30 touchdowns each, while Boobie Clark and Ickey Woods are tied with 27 touchdowns each. The lowest number of touchdowns scored by a player is 27, which is shared by Boobie Clark and Ickey Woods."
+
+3. <Write a summary of presented data>:
+"Overall, the chart demonstrates a significant variation in touchdown scores among Cincinnati Bengals players over the years. Pete Johnson leads the list with the most touchdowns, followed by Chad Johnson and Carl Pickens. Isaac Curtis and Rudi Johnson are tied with 50 touchdowns each, while A.J. Green and Isaac Curtis are tied with 63 touchdowns. Corey Dillon and Rudi Johnson are tied with 50 touchdowns each, while A.J. Green and Isaac Curtis are tied with 63 touchdowns each. Eddie Brown and Larry Kinnebrew are tied with 41 touchdowns each, while T.J. Houshmandzadeh and Cris Collinsworth are tied with 38 touchdowns each. Darnay Scott and Bob Trumpy are tied with 36 touchdowns each, while Rodney Holman and Giovanni Bernard are tied with 34 touchdowns each. Jeremy Hill and Essex Johnson are tied with 30 touchdowns each, while Boobie Clark and Ickey Woods are tied with 27 touchdowns each. The lowest number of touchdowns scored by a player is 27, which is shared by Boobie Clark and Ickey Woods."

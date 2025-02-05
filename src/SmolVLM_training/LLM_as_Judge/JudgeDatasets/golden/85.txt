@@ -1,0 +1,15 @@
+the states for U.S. refugee resettlement in fiscal 2019 Number ofrefugees resettled by state
+1. <Describe a graph>:
+"The bar chart illustrates the number of refugees resettled in various U.S. states during the fiscal year 2019. The data is presented in descending order, with Texas resettling the highest number of refugees and Michigan the lowest."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"Texas leads the chart with 2,500 refugees resettled, significantly higher than the other states. Washington follows with 1,900 refugees, while New York and California each resettled 1,800 refugees, tying for third place. Kentucky and Ohio both resettled 1,400 refugees, indicating a moderate level of resettlement activity."
+
+Paragraph 2:
+"North Carolina resettled 1,300 refugees, slightly fewer than Kentucky and Ohio. Arizona and Georgia each resettled 1,200 refugees, showing a similar level of resettlement. Michigan resettled the fewest refugees among the listed states, with a total of 1,100."
+
+3. <Write a summary of presented data>:
+"Overall, Texas resettled the highest number of refugees in fiscal 2019, followed by Washington, New York, and California. The states with the lowest resettlement numbers were Arizona, Georgia, and Michigan. The data indicates a varied distribution of refugee resettlement across the U.S., with some states taking on significantly more refugees than others."
+<SECOND>

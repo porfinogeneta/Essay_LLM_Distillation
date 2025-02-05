@@ -1,0 +1,16 @@
+Teams of the Premier League ranked by cheapest match-day ticket in 2019/20 ( in GBP )
+
+1. **Graph description**:
+"The bar chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The expenditure is measured in pounds sterling."
+
+2. **Body paragraphs**:
+
+**Paragraph 1**:
+"In terms of cars, the UK exhibited a higher expenditure compared to France, with approximately £450,000 spent by the British, whereas the French expenditure was around £400,000. Similarly, the UK outspent France on books, with the British expenditure nearing £400,000 compared to the French expenditure of about £300,000. The expenditure on cameras in the UK, just over £350,000, was more than double that of France, which was only £150,000."
+
+**Paragraph 2**:
+"On the other hand, France surpassed the UK in spending on computers and perfume. The French expenditure on computers was slightly above £350,000, marginally higher than the British expenditure of exactly £350,000. Additionally, the French spent around £200,000 on perfume, whereas the British expenditure on this item was under £150,000."
+
+3. **Overview of the data**:
+"Overall, the UK spent more on consumer goods than France in 2010. Both countries allocated the largest portion of their expenditure to cars, while the least was spent on perfume in the UK and cameras in France. The most significant difference in expenditure between the two countries was observed in the category of cameras, where the UK spent substantially more than France."
+<SECOND>

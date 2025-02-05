@@ -1,0 +1,61 @@
+Smart kitchen market revenue worldwide from 2017 to 2027 ( in billion U.S. dollars )
+
+1. <Describe a graph>:
+"The bar chart illustrates the expenditure of two countries, France and the UK, on five consumer goods (cars, computers, books, perfume, and cameras) in 2010. The expenditure is measured in pounds sterling."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In terms of cars, the UK exhibited a higher expenditure compared to France, with approximately £450,000 spent by the UK versus £400,000 by France. Similarly, the UK surpassed France in spending on books, with around £400,000 compared to France's £300,000. The expenditure on cameras in the UK, just over £350,000, was more than double that of France, which was only £150,000."
+
+Paragraph 2:
+"On the other hand, France outspent the UK on computers and perfume. The French expenditure on computers was slightly above £350,000, marginally higher than the UK's exact £350,000. Additionally, France spent around £200,000 on perfume, whereas the UK spent under £150,000."
+
+3. <Write a summary of presented data>:
+"Overall, the UK demonstrated a higher expenditure on consumer goods than France in 2010. Both countries allocated the most significant portions of their budgets to cars, while the least was spent on perfume in the UK and cameras in France. The most notable disparity in spending between the two countries was observed in the category of cameras."
+
+Example 2.
+
+<TITLE_2>: "The chart shows the average household spending pattern for households in three income categories as a proportion of their income."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph>:
+"The bar charts depict the average household spending patterns for households in three income categories as a proportion of their income."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals that households with higher incomes tend to allocate a smaller proportion of their income to necessities such as food and housing compared to lower-income households."
+
+Paragraph 2:
+"For instance, high-income households spend approximately 10% of their income on food, whereas low-income households spend around 30%. Similarly, the proportion of income spent on housing decreases as income increases, with high-income households spending about 20% compared to low-income households' 40%."
+
+Paragraph 3:
+"Conversely, high-income households allocate a larger proportion of their income to discretionary spending, such as entertainment and travel, which constitutes around 25% of their income, compared to only 10% for low-income households."
+
+3. <Write a summary of presented data>:
+"In summary, the spending patterns of households vary significantly with income levels. Lower-income households spend a larger proportion of their income on necessities, while higher-income households spend more on discretionary items."
+
+Answer.
+
+<TITLE_LAST>: "Smart kitchen market revenue worldwide from 2017 to 2027 ( in billion U.S. dollars )"
+[10481.png].
+
+1. <Describe a graph>:
+"The bar chart illustrates the projected revenue of the smart kitchen market worldwide from 2017 to 2027, measured in billion U.S. dollars."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a consistent upward trend in the smart kitchen market revenue over the decade. Starting at $13.29 billion in 2017, the market has shown steady growth each year."
+
+Paragraph 2:
+"By 2021, the revenue had reached $17.42 billion, and it is projected to continue rising, reaching $22.45 billion in 2023. The growth is expected to accelerate further, with revenues anticipated to hit $30.52 billion by 2025."
+
+Paragraph 3:
+"The most significant increase is projected between 2026 and 2027, where the revenue is expected to jump from $36.2 billion to $43.4 billion, marking a substantial leap in market value."
+
+3. <Write a summary of presented data>:
+"Overall, the smart kitchen market is poised for robust growth over the next decade. The market has already demonstrated significant expansion from 2017 to 2021, and future projections indicate a continued upward trajectory, with revenues expected to more than triple by 2027. This trend underscores the increasing adoption and integration of smart technology in kitchen appliances and systems globally."
+<SECOND>

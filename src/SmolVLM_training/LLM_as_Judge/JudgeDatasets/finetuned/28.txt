@@ -1,0 +1,43 @@
+ 1. <Describe a graph>:
+"The graph illustrates the worldwide vehicle sales of Skoda from FY 2013 to FY 2019, measured in 1,000 units."
+
+2. <Find the key points and compare data>:
+
+Paragraph 1:
+"In FY 2013, Skoda's vehicle sales amounted to 719 thousand units. This figure increased to 796 thousand units in FY 2014, indicating a modest growth in sales. However, the sales figures remained relatively stable in the subsequent years, with 800 thousand units in FY 2015, 814 thousand units in FY 2016, and 937 thousand units in FY 2017. The sales figures further increased in FY 2018, reaching 957 thousand units, and peaked in FY 2019 with 1,062 thousand units."
+
+3. <Write a summary of presented data>:
+"Overall, Skoda's vehicle sales have shown a steady and consistent growth from FY 2013 to FY 2019, with the highest sales figures recorded in FY 2019, exceeding 1,062 thousand units. This indicates a positive trend in the company's market performance, potentially driven by increased consumer demand and improved product offerings."
+
+### Answer 2:
+
+<Describe a graph>:
+"The bar chart illustrates the worldwide sales of Toyota's vehicles from FY 2013 to FY 2019, measured in 1,000 units."
+
+1. <Find the key points and compare data>:
+
+Paragraph 1:
+"In FY 2013, Toyota's vehicle sales amounted to 719 thousand units. This figure increased to 796 thousand units in FY 2014, indicating a modest growth in sales. However, the sales figures remained relatively stable in the subsequent years, with 800 thousand units in FY 2015, 814 thousand units in FY 2016, and 937 thousand units in FY 2017. The sales figures further increased in FY 2018, reaching 957 thousand units, and peaked in FY 2019 with 1,062 thousand units."
+
+2. <Find the key points and compare data>:
+
+Paragraph 2:
+"Overall, Toyota's vehicle sales have shown a steady and consistent growth from FY 2013 to FY 2019, with the highest sales figures recorded in FY 2019, exceeding 1,062 thousand units. This indicates a positive trend in the company's market performance, potentially driven by increased consumer demand and improved product offerings."
+
+3. <Write a summary of presented data>:
+"The bar chart reveals that Toyota's vehicle sales have shown a steady and consistent growth from FY 2013 to FY 2019, with the highest sales figures recorded in FY 2019, exceeding 1,062 thousand units. This indicates a positive trend in the company's market performance, potentially driven by increased consumer demand and improved product offerings."
+
+### Answer 3:
+
+<Describe a graph>:
+"The bar chart illustrates the worldwide sales of Volvo's vehicles from FY 2013 to FY 2019, measured in 1,000 units."
+
+1. <Find the key points and compare data>:
+
+Paragraph 1:
+"In FY 2013, Volvo's vehicle sales amounted to 719 thousand units. This figure increased to 796 thousand units in FY 2014, indicating a modest growth in sales. However, the sales figures remained relatively stable in the subsequent years, with 800 thousand units in FY 2015, 814 thousand units in FY 2016, and 937 thousand units in FY 2017. The sales figures further increased in FY 2018, reaching 957 thousand units, and peaked in FY 2019 with 1,062 thousand units."
+
+2. <Find the key points and compare data>:
+
+Paragraph 2:
+"Overall, Volvo's vehicle sales have shown a steady and consistent growth from FY 2013 to FY 2019, with the highest sales figures recorded in FY 2019, exceeding 1,062 thousand units. This indicates a positive trend in the company's market performance, potentially driven by increased consumer demand and improved

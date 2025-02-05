@@ -1,0 +1,16 @@
+Frequency of Google use in the United States as of October 2017
+
+1. Graph description:
+"The bar chart illustrates the frequency of Google use among respondents in the United States as of October 2017. The data is categorized into six different frequencies of use, ranging from several times a day to not having an account or not using it."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The majority of respondents, 54%, reported using Google several times a day. This indicates a high level of dependency on Google's services for daily activities. A smaller proportion, 13%, used Google once a day, while 12% used it a few times a week. These figures suggest that a significant portion of the population relies on Google for regular information retrieval and other services."
+
+Paragraph 2:
+"Conversely, a smaller percentage of respondents used Google less frequently. About 4% used it about once a week, and 5% used it about once a month or less often. Interestingly, 14% of respondents did not have a Google account or did not use it at all. This segment of the population may prefer alternative search engines or may not require Google's services for their daily needs."
+
+3. Overview of the data:
+"Overall, the data indicates a strong reliance on Google among the majority of respondents, with over half using it several times a day. However, there is also a notable portion of the population that uses Google less frequently or not at all, highlighting a diversity in internet usage habits."
+<SECOND>

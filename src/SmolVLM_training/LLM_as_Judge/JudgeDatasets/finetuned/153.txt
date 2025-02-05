@@ -1,0 +1,19 @@
+ 1. What is the range of data in the bar chart?
+
+2. What is the percentage of Americans getting campaign news online in November 1-6?
+
+3. What is the percentage of Americans getting campaign news online in April?
+
+4. What is the percentage of Americans getting campaign news online in May?
+
+5. What is the percentage of Americans getting campaign news online in June?
+
+6. What is the percentage of Americans getting campaign news online in July-Aug?
+
+7. What is the percentage of Americans getting campaign news online in Sept?
+
+8. What is the percentage of Americans getting campaign news online in Oct?
+
+9. What is the percentage of Americans getting campaign news online in Nov 7-17?
+
+10. What is the percentage of Americans getting campaign news online in Nov 18-25?

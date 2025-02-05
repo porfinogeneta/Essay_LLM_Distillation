@@ -1,0 +1,19 @@
+ 1. <Describe a graph:>
+"The bar chart illustrates the turnover from retail sale of decorating and DIY supplies in the United Kingdom (UK) from 2008 to 2018, measured in million GBP."
+
+2. <Find the key points, trends and compare data:>
+
+Paragraph 1:
+"The data reveals a fluctuating trend in the turnover from retail sale of decorating and DIY supplies in the UK. In 2008, the turnover was at its lowest, reaching 6,176 million GBP. This figure increased gradually over the years, peaking at 7,143 million GBP in 2018."
+
+Paragraph 2:
+"From 2008 to 2018, the turnover experienced a significant increase, with the highest value recorded in 2018 at 7,143 million GBP. This upward trend suggests a growing demand for decorating and DIY supplies in the UK."
+
+Paragraph 3:
+"However, there were some fluctuations in the data. For instance, the turnover decreased slightly in 2012, reaching 5,580 million GBP, before rebounding to 6,883 million GBP in 2015. This fluctuation could be attributed to various factors, such as economic conditions, consumer behavior, and market trends."
+
+Paragraph 4:
+"Overall, the data indicates a positive trend in the turnover from retail sale of decorating and DIY supplies in the UK. Despite some fluctuations, the turnover has consistently increased over the years, indicating a growing market for these products."
+
+3. <Write a summary of presented information:>
+"In summary, the turnover from retail sale of decorating and DIY supplies in the UK has shown a significant increase from 2008 to 2018. The highest value was recorded in 2018 at 7,143 million GBP, reflecting a growing market for these products."

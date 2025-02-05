@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the trend of the Gini coefficient in Canada from 2000 to 2018, which measures income inequality among the population."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The Gini coefficient in Canada has remained relatively stable over the period, hovering around 0.32. The highest value was recorded in 2000, at 0.32, while the lowest value was in 2018, at 0.3."
+
+Paragraph 2:
+"The data shows a slight decline in the Gini coefficient from 2000 to 2018, with a decrease from 0.32 to 0.3. This indicates a minor reduction in income inequality in Canada over the observed period."
+
+3. <Write a summary of presented data>:
+"Overall, the Gini coefficient in Canada has remained relatively stable over the past two decades, with a slight decline from 2000 to 2018. This suggests a modest improvement in income equality in Canada during this period."

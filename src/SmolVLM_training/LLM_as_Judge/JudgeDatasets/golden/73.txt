@@ -1,0 +1,16 @@
+Honduras : Gross domestic product ( GDP ) in current prices from 1984 to 2021 ( in billion international dollars )
+
+1. <Describe a graph:>
+"The graph illustrates the Gross Domestic Product (GDP) of Honduras from 1984 to 2021, measured in billion international dollars."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1984, Honduras's GDP was approximately 6.79 billion international dollars. Over the next decade, the GDP showed a gradual increase, reaching 12.56 billion by 1994. This upward trend continued, with the GDP rising to 19.12 billion by 2004."
+
+Paragraph 2:
+"From 2004 onwards, the GDP growth accelerated significantly. By 2014, it had reached 33.79 billion international dollars. The most notable surge occurred between 2014 and 2021, with the GDP climbing to 53.57 billion, marking a substantial economic expansion."
+
+3. <Write a summary of presented data:>
+"Overall, Honduras's GDP has demonstrated consistent growth over the past four decades, with a particularly sharp increase in the last decade. This trend reflects the country's economic development and increasing market value."
+<SECOND>

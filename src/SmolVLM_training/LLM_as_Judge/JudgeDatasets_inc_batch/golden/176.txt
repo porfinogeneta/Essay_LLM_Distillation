@@ -1,0 +1,16 @@
+Results of votes for electoral college in the 2016 presidential elections in the United States
+
+1. <Describe a graph>:
+"The bar chart illustrates the number of electoral votes received by Hillary Clinton and Donald Trump in the 2016 presidential elections in the United States."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart clearly shows that Donald Trump received a higher number of electoral votes compared to Hillary Clinton. Trump garnered 306 electoral votes, whereas Clinton received 232 votes."
+
+Paragraph 2:
+"This significant difference in electoral votes highlights the disparity in the support each candidate received across different states. Trump's victory in key swing states played a crucial role in securing his win in the electoral college."
+
+3. <Write a summary of presented data>:
+"In summary, Donald Trump outperformed Hillary Clinton in the electoral vote count, which ultimately led to his victory in the 2016 presidential elections. The data underscores the importance of electoral votes in determining the outcome of presidential elections in the United States."
+<SECOND>

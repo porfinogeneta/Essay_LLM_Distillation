@@ -1,0 +1,2 @@
+ 1. <Describe the trend of the data over time in the graph>:
+The graph shows the forecast for France's vehicle production from 2010 to 2015. The data is measured in millions of vehicles produced. The production of vehicles has increased over the years, with the highest production in 2014 at 2.52 million units. The production of vehicles in 2015 is projected to be 2.44 million units.

@@ -1,0 +1,15 @@
+Credit: Kaiser Family Foundation Health Tracking Poll, Sept. 12-18
+1. <Describe a graph:>
+"The pie chart illustrates public opinion on the media's coverage of the healthcare law, categorizing responses into four groups: mostly about politics and controversies, mostly about how the law might impact people, a balance of the two, and those who didn't know or refused to answer."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"A significant majority, 56%, believe that the media's coverage of the healthcare law has been mostly about politics and controversies. In contrast, only 6% think it has been mostly about how the law might impact people."
+
+Paragraph 2:
+"A third of respondents, 33%, feel that the coverage has been a balance of both politics and the law's impact on people. Additionally, 5% of respondents either didn't know or refused to answer the question."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicates a strong perception that media coverage of the healthcare law has been dominated by political and controversial aspects, with a smaller portion of the public feeling that the coverage has been balanced or focused on the law's impact on people."
+<SECOND>

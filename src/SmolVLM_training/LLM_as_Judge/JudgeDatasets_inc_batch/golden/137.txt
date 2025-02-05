@@ -1,0 +1,16 @@
+Monthly number of long-term unemployed persons in the U.S. from November 2019 to November 2020 ( in millions , adjusted )
+
+1. Graph description:
+"The bar chart illustrates the monthly number of long-term unemployed persons in the U.S. from November 2019 to November 2020, measured in millions and adjusted for seasonal variations."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The data reveals a fluctuating trend in long-term unemployment over the given period. Starting at 1.22 million in November 2019, the numbers remained relatively stable until March 2020, when a noticeable decline to 0.94 million occurred. This dip coincides with the onset of the COVID-19 pandemic, suggesting initial economic disruptions."
+
+Paragraph 2:
+"However, from April 2020 onwards, there is a marked increase in long-term unemployment. The numbers rose steadily from 1.16 million in April to a peak of 3.94 million in November 2020. This surge reflects the prolonged economic impact of the pandemic, leading to extended periods of joblessness for many individuals."
+
+3. Overview of the data:
+"Overall, the chart depicts a significant rise in long-term unemployment in the U.S. over the course of a year, with a dramatic increase beginning in April 2020. The data underscores the severe and lasting economic repercussions of the COVID-19 pandemic on the labor market."
+<SECOND>

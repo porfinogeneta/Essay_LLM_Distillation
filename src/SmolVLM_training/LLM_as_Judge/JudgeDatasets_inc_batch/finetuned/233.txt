@@ -1,0 +1,16 @@
+ 1. <Describe a graph>:
+The graph illustrates the number of immigrants in the UK from 1990 to 2015, focusing on the total foreign-born population in the UK. The data is presented in a line chart format, with the x-axis marked as 'Year' and the y-axis labeled as 'Number of Immigrants'.
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+The data shows a significant increase in the number of immigrants in the UK from 1990 to 2015. In 1990, the number of immigrants was approximately 3.7 million, which has more than doubled to 8.5 million by 2015. This exponential growth is evident in the upward trend of the data, indicating a substantial increase in the foreign-born population over the past two decades.
+
+Paragraph 2:
+The data highlights the impact of immigration on the UK's population. The increase in the number of immigrants from 1990 to 2015 is particularly notable, with the number more than doubling in the 25-year period. This trend suggests a growing reliance on immigration for population growth and a shift in the demographics of the UK.
+
+Paragraph 3:
+The data also reveals that the number of immigrants in the UK has fluctuated over the years, with some peaks and troughs. For instance, there was a slight dip in the number of immigrants in the early 2000s, but this trend reversed in the later years, indicating a consistent upward trajectory.
+
+Paragraph 4:
+Overall, the data indicates a consistent and substantial increase in the number of immigrants in the UK from 1990 to 2015. This trend is likely influenced by various factors, including economic opportunities, political stability, and social policies. The data underscores the importance of immigration in shaping the demographics and population growth of the UK.

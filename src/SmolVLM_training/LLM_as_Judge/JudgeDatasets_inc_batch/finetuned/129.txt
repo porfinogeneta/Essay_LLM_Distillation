@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the smartphone unit shipments in Asia Pacific from 2013 to 2018, measured in million units."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a steady increase in smartphone shipments in Asia Pacific from 2013 to 2018. In 2013, shipments stood at 165.2 million units, which rose to 213.7 million units in 2014. This upward trend continued, with shipments reaching 271.3 million units in 2015, 287.4 million units in 2016, and 301.2 million units in 2017. However, the most significant increase was observed in 2018, with shipments reaching a peak of 732 million units."
+
+Paragraph 2:
+"The most notable increase in smartphone shipments occurred in 2018, where shipments rose to 732 million units, a significant jump from the previous year. This surge in shipments can be attributed to various factors, including the increasing adoption of smartphones for communication, entertainment, and productivity purposes, as well as the growing availability of affordable smartphones with advanced features."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a consistent upward trend in smartphone shipments in Asia Pacific from 2013 to 2018, with the most significant increase occurring in 2018. This trend can be attributed to the growing adoption of smartphones for communication, entertainment, and productivity purposes, as well as the increasing availability of affordable smartphones with advanced features."

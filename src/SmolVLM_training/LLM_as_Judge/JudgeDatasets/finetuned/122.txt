@@ -1,0 +1,19 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the share of voluntary work in the sports sector in England from 2005/06 to 2018/19."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"The data shows a gradual decline in the share of voluntary work in the sports sector from 2005/06 to 2018/19. In 2005/06, the share of voluntary work was at 19.2%, which gradually decreased to 19.4% in 2006/07. The share further decreased to 19.6% in 2007/08, and then it slightly increased to 21.3% in 2008/09."
+
+Paragraph 2:
+"From 2010/11 onwards, the share of voluntary work in the sports sector experienced a more significant decline. In 2010/11, the share was at 20.7%, which decreased to 17.5% in 2011/12. The share further decreased to 19.1% in 2012/13, and then it slightly increased to 21.9% in 2013/14."
+
+Paragraph 3:
+"From 2014/15 onwards, the share of voluntary work in the sports sector experienced a slight increase. In 2014/15, the share was at 20.9%, which increased to 19.3% in 2015/16. The share further increased to 20% in 2016/17, and then it slightly decreased to 20.8% in 2017/18."
+
+Paragraph 4:
+"In 2018/19, the share of voluntary work in the sports sector experienced a slight increase. In 2018/19, the share was at 20.7%, which is slightly higher than the previous year."
+
+3. <Write a summary of presented data>:
+"Overall, the data indicates a gradual decline in the share of voluntary work in the sports sector from 2005/06 to 2018/19. However, there was a slight increase in 2018/19, suggesting a potential recovery or stabilization in the sector."

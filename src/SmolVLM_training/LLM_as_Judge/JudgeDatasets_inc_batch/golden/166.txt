@@ -1,0 +1,15 @@
+Fewer Young Unauthorized Immigrants Applying for Deportation Relief Number of applications for Deferred Action for Childhood Arrivals (DACA) program, by fiscal-year quarter Note: Includes only first-time applications that were accepted for review 2012
+1. <Describe a graph>:
+"The bar chart illustrates the number of applications for Deferred Action for Childhood Arrivals (DACA) program by fiscal-year quarter from Q4 2012 to Q4 2014."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The data reveals a significant decline in the number of DACA applications over the given period. In Q4 2012, the number of applications was 152,423, which surged to a peak of 228,582 in Q1 2013. However, a sharp decline followed, with applications dropping to 90,968 in Q2 2013 and further to 65,650 in Q3 2013."
+
+Paragraph 2:
+"By Q4 2013, the number of applications had decreased to 42,409, and continued to fall in subsequent quarters. In Q1 2014, the applications were 31,105, slightly increasing to 31,806 in Q2 2014. The trend of decline persisted, with applications dropping to 32,559 in Q3 2014 and reaching the lowest point of 26,995 in Q4 2014."
+
+3. <Write a summary of presented data>:
+"Overall, the chart indicates a clear downward trend in the number of DACA applications from Q4 2012 to Q4 2014. The peak was observed in Q1 2013, after which the numbers consistently declined, reflecting a significant reduction in the number of young unauthorized immigrants applying for deportation relief over the two-year period."
+<SECOND>

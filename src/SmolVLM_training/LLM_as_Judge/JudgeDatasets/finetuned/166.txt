@@ -1,0 +1,7 @@
+ 1. The number of applications for Deferred Action for Childhood Arrivals (DACA) program, by fiscal-year quarter, is a bar chart. The x-axis measures the fiscal-year quarter, while the y-axis measures the number of applications.
+
+2. The data shows that the number of applications for DACA program has decreased from 228,582 in the first quarter of 2012 to 26,995 in the fourth quarter of 2014.
+
+3. The highest number of applications was in the first quarter of 2012, with 228,582 applications. The lowest number of applications was in the fourth quarter of 2014, with 26,995 applications.
+
+4. The trend of the data indicates a decrease in the number of applications for DACA program over the four fiscal-year quarters.

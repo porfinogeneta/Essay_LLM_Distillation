@@ -1,0 +1,13 @@
+ 1. <Describe a graph:>
+"The graph illustrates the trend of the gross domestic product (GDP) of Croatia from 1994 to 2021, measured in billion international dollars."
+
+2. <Find the key points and details:>
+
+Paragraph 1:
+"In 1994, the GDP of Croatia was 39.1 billion international dollars. Over the years, the GDP has experienced fluctuations, with a notable increase from 1994 to 2000, peaking at 102.24 billion international dollars in 2017. The GDP then declined slightly in 2018, but it rebounded in 2019, reaching 112.62 billion international dollars."
+
+Paragraph 2:
+"From 2020 onwards, the GDP of Croatia has shown a steady upward trend, reaching 103.11 billion international dollars in 2021. This indicates a positive economic recovery and growth in the country."
+
+3. <Write a summary of presented data:>
+"Overall, the data reveals a significant increase in the GDP of Croatia from 1994 to 2021, with notable peaks in 2000 and 2017. The GDP has experienced fluctuations, but the overall trend indicates a positive economic recovery and growth in the country."

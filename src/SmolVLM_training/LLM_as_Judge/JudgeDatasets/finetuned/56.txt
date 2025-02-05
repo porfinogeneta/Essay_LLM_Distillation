@@ -1,0 +1,16 @@
+ 1. The image is a pie chart titled "Support for U.S. Ebola Efforts in W. Africa." The chart is divided into three sections: "Favor," "Oppose," and "DK/Ref."
+
+2. The data is presented as percentages, with the "Favor" section showing 77% and the "Oppose" section showing 19%. The "DK/Ref" section shows 3%.
+
+3. The survey was conducted from October 15-20, 2014. The figures may not add up to 100% due to rounding.
+
+4. The survey question is "Favor or oppose U.S. efforts to combat the Ebola virus in West Africa?"
+
+5. The key aspects of the data are:
+    - 77% of respondents favor U.S. efforts to combat the Ebola virus in West Africa.
+    - 19% of respondents oppose U.S. efforts to combat the Ebola virus in West Africa.
+    - 3% of respondents are unsure or have no opinion on the matter.
+
+### Analysis:
+
+The data indicates a strong support for U.S. efforts to combat the Ebola virus in West Africa. The majority of respondents (77%) are in favor of the U.S. efforts, while only 19% are opposed. The remaining 3% are unsure or have no opinion. This overwhelming support suggests a widespread desire for the U.S. to take action in the fight against the Ebola virus in West Africa.

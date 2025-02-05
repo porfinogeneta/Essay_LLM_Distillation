@@ -1,0 +1,10 @@
+ 1. <Describe a graph>:
+"The graph illustrates the internet user penetration in Canada from 2015 to 2025, with projections up until 2025."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"In 2015, the internet user penetration in Canada was at 84.7%. This figure has steadily increased over the years, reaching 85.5% in 2015, 86.2% in 2017, and 86.7% in 2018. The projections indicate that by 2025, the internet user penetration will be at 88.3%, with a slight increase to 88.8% by 2024 and 88.2% by 2025."
+
+3. <Write a summary of presented data>:
+"Overall, the internet user penetration in Canada has shown a consistent upward trend from 2015 to 2025, with projections indicating a further increase in the coming years. By 2025, the internet user penetration is expected to reach 88.3%, with a slight increase to 88.8% by 2024 and 88.2% by 2025. This indicates a continued growth in internet usage in Canada, reflecting the increasing reliance on digital technology."

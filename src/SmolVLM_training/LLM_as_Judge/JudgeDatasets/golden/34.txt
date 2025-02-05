@@ -1,0 +1,21 @@
+The Web IQ" of American Internet Users % of finternet users answering each question correctly Who is this tech leader (from photo)?* Bill Gates Hashtags widely used in which place? Twitter PDF file can be sent by any email program? True Bigger amount of info, kilobyte or megabyte? Megabyte "Wiki" is an online collaboration tool? True -Net Neutrality" refers to? Equal treatment of digital content 61 First university on Facebook? Harvard
+<TITLE_LAST>: "The Web IQ" of American Internet Users % of finternet users answering each question correctly Who is this tech leader (from photo)?* Bill Gates Hashtags widely used in which place? Twitter PDF file can be sent by any email program? True Bigger amount of info, kilobyte or megabyte? Megabyte "Wiki" is an online collaboration tool? True -Net Neutrality" refers to? Equal treatment of digital content 61 First university on Facebook? Harvard"
+[800.png].
+
+1. <Describe a graph>:
+"The bar chart illustrates the percentage of American internet users who correctly answered various technology-related questions in a survey conducted in September 2014."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The survey results indicate a high level of familiarity with certain tech leaders and platforms among American internet users. For instance, 83% correctly identified Bill Gates as a tech leader, and 82% knew that hashtags are widely used on Twitter. Additionally, 77% understood that PDF files can be sent by any email program, and 74% knew that a megabyte represents a larger amount of information compared to a kilobyte."
+
+Paragraph 2:
+"Moreover, the survey revealed a strong understanding of online collaboration tools, with 66% recognizing 'Wiki' as such a tool. Furthermore, 61% were aware of the concept of 'Net Neutrality' and its implications for digital content. However, there was less clarity on privacy policies, with only 44% correctly identifying that these policies do not necessarily keep user information confidential."
+
+Paragraph 3:
+"The data also highlighted some gaps in knowledge, particularly regarding historical tech events and figures. For example, only 36% knew the year the first iPhone was released, and just 21% correctly identified Sheryl Sandberg as an internet leader from a photo. Additionally, only 9% were familiar with the first popular graphical web browser, Mosaic."
+
+3. <Write a summary of presented data>:
+"Overall, the survey demonstrates a varied level of tech literacy among American internet users, with high recognition of contemporary tech leaders and platforms, but less awareness of historical tech developments and privacy issues. This suggests a need for more comprehensive education on the broader aspects of technology and digital literacy."
+<SECOND>

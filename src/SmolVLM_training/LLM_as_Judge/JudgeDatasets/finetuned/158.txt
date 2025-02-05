@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the total assets of MetLife from 2008 to 2019, measured in billion U.S. dollars."
+
+2. <Find the key points, details and compare data>:
+
+Paragraph 1:
+"In 2008, MetLife's total assets amounted to 499.79 billion U.S. dollars. This figure increased gradually over the years, reaching 537.53 billion U.S. dollars in 2009. The assets further rose to 728.25 billion U.S. dollars in 2010, and continued to increase in subsequent years, peaking at 885.3 billion U.S. dollars in 2013."
+
+Paragraph 2:
+"From 2013 onwards, the assets of MetLife experienced a slight decline, reaching 719.89 billion U.S. dollars in 2017. Subsequently, the assets decreased to 687.54 billion U.S. dollars in 2018, and further decreased to 740.46 billion U.S. dollars in 2019."
+
+3. <Write a summary of presented data>:
+"Overall, MetLife's total assets have fluctuated over the years, with a notable increase from 2008 to 2013, followed by a decline in subsequent years. The assets peaked at 885.3 billion U.S. dollars in 2013, but decreased to 740.46 billion U.S. dollars in 2019, indicating a trend of decreasing assets in recent years."

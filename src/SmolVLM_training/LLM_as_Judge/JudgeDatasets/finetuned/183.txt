@@ -1,0 +1,29 @@
+ 1. **What is the percentage of users who do not use WhatsApp?**
+Answer: 35.
+
+2. **Which social network has the highest percentage of users who do not use it?**
+Answer: Do not use.
+
+3. **What is the percentage of users who do not use Facebook?**
+Answer: 35.
+
+4. **Which social network has the lowest percentage of users who do not use it?**
+Answer: LinkedIn.
+
+5. **What is the percentage of users who do not use Instagram?**
+Answer: 12.
+
+6. **What is the percentage of users who do not use Snapchat?**
+Answer: 5.
+
+7. **What is the percentage of users who do not use Twitter?**
+Answer: 9.
+
+8. **What is the percentage of users who do not use LinkedIn?**
+Answer: 1.
+
+9. **What is the percentage of users who do not use Tumblr?**
+Answer: 1.
+
+10. **What is the percentage of users who do not use WhatsApp?**
+Answer: 60.

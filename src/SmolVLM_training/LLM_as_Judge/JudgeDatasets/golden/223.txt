@@ -1,0 +1,16 @@
+Index score of investor-owned utilities with the highest U.S. customer satisfaction in 2020
+
+1. Graph description:
+"The bar chart illustrates the index scores of investor-owned utilities with the highest customer satisfaction in the United States for the year 2020. The scores range from 72 to 78, with Atmos Energy leading at 78 and Entergy at the lower end with a score of 72."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The chart reveals that Atmos Energy achieved the highest customer satisfaction index score of 78, followed closely by CenterPoint Energy and NextEra Energy, both scoring 77 and 76 respectively. Consolidated Edison, NiSource, Sempra Energy, Southern Company, and Dominion Energy each scored 75, indicating a strong performance across these utilities."
+
+Paragraph 2:
+"WEC Energy and Edison International both scored 74, while Ameren and Entergy scored slightly lower at 73 and 72 respectively. This data suggests that while there is a general high level of customer satisfaction among these utilities, there are still slight variations in performance."
+
+3. Overview of the data:
+"Overall, the index scores of the investor-owned utilities indicate a high level of customer satisfaction, with scores ranging from 72 to 78. Atmos Energy leads the pack with the highest score, while Entergy, although still performing well, has the lowest score among the listed utilities. The data highlights the competitive nature of customer satisfaction in the utility sector."
+<FIRST>

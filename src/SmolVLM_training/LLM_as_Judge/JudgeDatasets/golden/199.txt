@@ -1,0 +1,16 @@
+Estimated distribution of mental health issues among male inmates in Canada in fiscal year 2015
+
+1. **Graph description**:
+"The bar chart illustrates the estimated distribution of various mental health issues among male inmates in Canada during the fiscal year 2015. The data is presented as percentages, highlighting the prevalence of different disorders."
+
+2. **Body paragraphs**:
+
+Paragraph 1:
+"The most prevalent mental health issue among male inmates was alcohol or substance use disorders, affecting nearly half of the population at 49.6%. Antisocial personality disorder followed, impacting 44.1% of inmates. Anxiety disorders were also notably common, with 29.5% of the population experiencing them."
+
+Paragraph 2:
+"Mood disorders were reported by 16.9% of inmates, while borderline personality disorder affected 15.9%. Pathological gambling and primary psychotic disorders were less common, with 5.9% and 3.3% respectively. These figures underscore the significant mental health challenges faced by male inmates in Canada."
+
+3. **Overview of the data**:
+"Overall, the data reveals a high prevalence of mental health issues among male inmates in Canada, with substance use and antisocial personality disorders being the most common. The findings highlight the need for comprehensive mental health services within correctional facilities to address these prevalent issues effectively."
+<SECOND>

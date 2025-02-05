@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The graph illustrates the gross profit margin of Walmart worldwide from fiscal year 2006 to 2020."
+
+2. <Find the key points and details>:
+
+Paragraph 1:
+"In fiscal year 2006, Walmart's gross profit margin was 23.1%. This figure has gradually increased over the years, reaching 24.1% in fiscal year 2008. The margin has remained relatively stable since then, with slight fluctuations, hovering around 24.3% to 24.9% in the subsequent years."
+
+Paragraph 2:
+"From fiscal year 2013 onwards, the gross profit margin of Walmart has shown a slight decline, with the margin dropping to 24.3% in fiscal year 2014. However, it has since rebounded, reaching 24.5% in fiscal year 2019 and 24.1% in fiscal year 2020."
+
+3. <Write a summary of presented information>:
+"Overall, Walmart's gross profit margin has shown a positive trend over the past decade, with a slight decline in recent years. The margin has remained relatively stable, with slight fluctuations, indicating a consistent performance in the global retail market."

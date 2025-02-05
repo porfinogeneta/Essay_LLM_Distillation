@@ -1,0 +1,13 @@
+ 1. <Describe a graph>:
+"The bar chart illustrates the percentage of Catholics who rely on different sources for moral guidance, specifically focusing on their own conscience, Catholic Church's teachings, the Bible, and the Pope."
+
+2. <Find the key points and trends>:
+
+Paragraph 1:
+"The most significant finding is that 73% of Catholics rely on their own conscience for moral guidance, making it the dominant source. This is followed by 21% who rely on Catholic Church's teachings, indicating a strong reliance on religious institutions."
+
+Paragraph 2:
+"The Bible is cited by 15% of Catholics, highlighting its importance as a source of moral guidance. The Pope is relied upon by 11% of Catholics, suggesting a lesser reliance compared to other sources."
+
+3. <Write a summary of presented data>:
+"Overall, the data reveals that the majority of Catholics rely on their own conscience as the primary source of moral guidance. While the Catholic Church's teachings and the Bible are also significant, the Pope's guidance is less frequently relied upon. This data underscores the diverse reliance on different sources of moral guidance within the Catholic community."

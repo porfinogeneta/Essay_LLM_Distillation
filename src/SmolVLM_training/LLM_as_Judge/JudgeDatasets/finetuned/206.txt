@@ -1,0 +1,16 @@
+ 1. <Describe the data presented in the bar chart:>
+"The bar chart illustrates the percentage of adults who grew up in different areas and reported having a gun in their household when they were growing up. The data is categorized into four areas: All adults, Grew up in area, Rural area, and Suburb."
+
+2. <Find the key points and trends in the data:>
+
+Paragraph 1:
+"The highest percentage of adults who grew up in rural areas reported having a gun in their household when they were growing up, at 72%. This is significantly higher than the other areas, with 52% in small towns and 37% in suburbs."
+
+Paragraph 2:
+"In contrast, the lowest percentage of adults who grew up in rural areas reported having a gun in their household when they were growing up, at 48%. This is lower than the other areas, with 39% in cities and 37% in suburbs."
+
+Paragraph 3:
+"The data shows a clear trend of higher percentages of adults who grew up in rural areas reporting having a gun in their household when they were growing up, compared to the other areas."
+
+3. <Write a summary of presented data:>
+"Overall, the data indicates that adults who grew up in rural areas are more likely to have reported having a gun in their household when they were growing up, with the highest percentage in rural areas at 72%. This is in contrast to the other areas, with the lowest percentage in rural areas at 48%."

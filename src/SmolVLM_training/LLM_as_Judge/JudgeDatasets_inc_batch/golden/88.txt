@@ -1,0 +1,59 @@
+Leading players of the Serie A soccer league in Italy in the season 2020/2021 , by number of assists
+
+1. <Describe a graph>:
+"The bar chart illustrates the expenditure on various consumer goods in France and the UK in 2010, measured in pounds sterling. The goods include cars, computers, books, perfume, and cameras."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"In terms of expenditure on cars, the UK surpasses France with approximately £450,000 compared to France's £400,000. Similarly, the UK spends more on books, with around £400,000 versus France's £300,000. The expenditure on cameras in the UK, just over £350,000, is more than double that of France, which stands at £150,000."
+
+Paragraph 2:
+"On the other hand, France spends more on computers and perfume. The expenditure on computers in France is slightly above £350,000, marginally higher than the UK's £350,000. France also spends about £200,000 on perfume, whereas the UK spends under £150,000."
+
+3. <Write a summary of presented data>:
+"Overall, the UK spends more on cars, books, and cameras, while France allocates more funds to computers and perfume. The most significant difference in expenditure between the two countries is observed in cameras, where the UK's spending is substantially higher."
+
+Example 2.
+
+<TITLE_2>: "The chart shows the average household spending pattern for households in three income categories as a proportion of their income."
+[IMAGE_2]
+
+Follow given structured input:
+1. <Describe a graph>:
+"The bar charts show data about computer ownership, with a further classification by level of education, from 2002 to 2010."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1: 
+"An analysis of the data by level of education shows that higher levels of education correspond to higher levels of computer ownership in both of those years."
+
+Paragraph 2: 
+"In 2002, only around 15% of those who did not finish high school had a computer but this figure had trebled by 2010. There were also considerable increases, of approximately 30 percentage points, for those with a high school diploma or an unfinished college education (reaching 65% and 85% respectively in 2010). However, graduates and postgraduates proved to have the greatest level of ownership in 2010, at 90% and 95% respectively, 20 percentage points higher than in 2002."
+
+Paragraph 3:
+"The last decade has seen a substantial growth in computer ownership in general, and across all educational levels."
+
+3. <Write a summary of presented data>:
+"A steady but significant rise can be seen in the percentage of the population that owned a computer over the period. Just over half the population owned computers in 2002, whereas by 2010 three out of four people had a home computer."
+
+Answer.
+
+<TITLE_LAST>: "Leading players of the Serie A soccer league in Italy in the season 2020/2021 , by number of assists"
+[1015.png].
+
+Follow given structured input:
+1. <Describe a graph>:
+"The bar chart illustrates the number of assists made by leading players in the Serie A soccer league in Italy during the 2020/2021 season."
+
+2. <Find the key points, trends and compare data>:
+
+Paragraph 1:
+"The chart highlights that Federico Chiesa and Henrikh Mkhitaryan lead the league with four assists each. Nicolò Barella follows closely with three assists, alongside Cristiano Biraghi, Dries Mertens, Rafael Leão, and Roberto Soriano, who also each have three assists."
+
+Paragraph 2:
+"Despite the close competition, no player has surpassed the four-assist mark, indicating a relatively balanced distribution of assists among the top performers. The data suggests a competitive environment where multiple players contribute significantly to their teams' offensive plays."
+
+3. <Write a summary of presented data>:
+"Overall, the Serie A league in the 2020/2021 season showcases a group of players with a high level of assist contributions, led by Chiesa and Mkhitaryan. The data reflects a well-distributed effort among the leading players, each contributing notably to their teams' success."
+<SECOND>

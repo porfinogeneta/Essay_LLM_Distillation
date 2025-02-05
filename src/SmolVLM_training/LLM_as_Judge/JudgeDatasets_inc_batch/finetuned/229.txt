@@ -1,0 +1,106 @@
+ 1. **Graph Description:**
+
+The graph illustrates the distribution of worldwide Fiat Chrysler Automobiles (FCA) employees in 2019, by region. The data is presented as a bar chart, with each bar representing a region and its corresponding percentage of FCA employees.
+
+1. **Title and Subtitle:**
+   - **Title:** "Distribution of worldwide Fiat Chrysler Automobiles employees in 2019 , by region"
+   - **Subtitle:** "Regional share"
+
+2. **X-Axis (Horizontal):**
+   - **Label:** "Regional share"
+   - **Range:** [0, 55]
+
+3. **Y-Axis (Vertical):**
+   - **Label:** "Percentage"
+   - **Range:** [0, 49.87]
+
+4. **Bars:**
+   - **North America:**
+     - **Color:** Blue
+     - **Height:** 49.87%
+   - **Europe:**
+     - **Color:** Blue
+     - **Height:** 31.62%
+   - **Latin America:**
+     - **Color:** Blue
+     - **Height:** 16.49%
+   - **Asia:**
+     - **Color:** Blue
+     - **Height:** 1.9%
+   - **Rest of the world:**
+     - **Color:** Blue
+     - **Height:** 0.13%
+
+5. **Legend:**
+   - **Color:** Blue
+   - **Text:** "Fiat Chrysler Automobiles employees in 2019 , by region"
+
+6. **Additional Information:**
+   - **Source:** "Statista 2021"
+   - **Graph Type:** Bar chart
+
+**Graph Description:**
+
+The bar chart shows the distribution of Fiat Chrysler Automobiles employees worldwide in 2019, by region. The data is presented as a bar chart, with each bar representing a region and its corresponding percentage of employees.
+
+**Key Aspects and Trends:**
+
+1. **North America:**
+   - **Highest Percentage:** 49.87%
+   - **Second Highest Percentage:** 31.62%
+
+2. **Europe:**
+   - **Second Highest Percentage:** 31.62%
+
+3. **Latin America:**
+   - **Second Lowest Percentage:** 16.49%
+
+4. **Asia:**
+   - **Lowest Percentage:** 1.9%
+
+5. **Rest of the World:**
+   - **Lowest Percentage:** 0.13%
+
+**Analysis and Description:**
+
+The bar chart highlights the distribution of Fiat Chrysler Automobiles employees worldwide in 2019, by region. North America has the highest percentage of employees, followed by Europe and Latin America. Asia and the rest of the world have the lowest percentages of employees.
+
+**Comparison with Previous Year:**
+
+The data for 2019 is compared with the data for 2018, as indicated by the title "Distribution of worldwide Fiat Chrysler Automobiles employees in 2018 , by region."
+
+**Additional Information:**
+
+The source of the data is "Statista 2021," and the graph type is a bar chart.
+
+**Graph Description:**
+
+The bar chart illustrates the distribution of worldwide Fiat Chrysler Automobiles employees in 2019, by region. The data is presented as a bar chart, with each bar representing a region and its corresponding percentage of employees.
+
+**Title and Subtitle:**
+
+The title of the graph is "Distribution of worldwide Fiat Chrysler Automobiles employees in 2019 , by region." The subtitle is "Regional share."
+
+**X-Axis (Horizontal):**
+
+The x-axis is labeled "Regional share." The range of the x-axis is from 0 to 55%.
+
+**Y-Axis (Vertical):**
+
+The y-axis is labeled "Percentage." The range of the y-axis is from 0 to 49.87%.
+
+**Bars:**
+
+The bars are color-coded, with each bar representing a region and its corresponding percentage of employees.
+
+**Legend:**
+
+The legend is located at the bottom of the graph and includes a color key and text. The color key indicates the regions represented by the bars, while the text provides the corresponding percentages.
+
+**Additional Information:**
+
+The source of the data is "Statista 2021," and the graph type is a bar chart.
+
+**Graph Description:**
+
+The bar chart shows the distribution of worldwide Fiat Chrysler Automobiles employees in 2019, by region. The data is presented as

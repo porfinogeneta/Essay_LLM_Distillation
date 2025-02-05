@@ -1,0 +1,15 @@
+Figure 2 Foreign-Born Share of U.S Population,
+1. <Describe a graph:>
+"The graph illustrates the foreign-born share of the U.S. population from 1850 to 2050, including both historical data and projections."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"In 1850, the foreign-born share of the U.S. population was 9.7%. This figure rose to a peak of 14.8% in 1890 before experiencing a significant decline, reaching its lowest point of 4.7% in 1970."
+
+Paragraph 2:
+"Since 1970, the foreign-born share has been on an upward trajectory. By 2000, it had climbed to 12%, and projections indicate it will continue to rise, reaching 19% by 2050."
+
+3. <Write a summary of presented data:>
+"Overall, the foreign-born share of the U.S. population has fluctuated significantly over the past two centuries. After a notable decline in the mid-20th century, it has been steadily increasing and is expected to reach new heights by mid-21st century."
+<FIRST>

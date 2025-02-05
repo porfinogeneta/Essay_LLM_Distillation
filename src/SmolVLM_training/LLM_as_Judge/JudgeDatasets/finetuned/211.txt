@@ -1,0 +1,22 @@
+ 1. <Describe a graph:>
+"The graph illustrates the inflation rate in the United States from 1985 to 2025, compared to the previous year."
+
+2. <Find the key points and trends:>
+
+Paragraph 1:
+"The inflation rate in the United States experienced a significant increase from 1985 to 1987, reaching a peak of 9.33% in 1987. Following this, the rate declined sharply, dropping to 5.7% in 1989."
+
+Paragraph 2:
+"The inflation rate then stabilized and fluctuated between 2.46% and 3.52% from 1989 to 1993. In 1993, the rate increased to 4.8%, before dropping again to 4.44% in 1995."
+
+Paragraph 3:
+"The inflation rate continued to decline, reaching a low of 0.81% in 1999. However, it rebounded slightly in 2000, reaching 2.26%."
+
+Paragraph 4:
+"The inflation rate further decreased, dropping to 1.3% in 2013. Subsequently, it remained relatively stable, hovering around 1.3% to 1.94% from 2015 to 2019."
+
+Paragraph 5:
+"The inflation rate then increased again, reaching 0.38% in 2021. This trend continued, with the rate increasing to 0.9% in 2023 and 1.3% in 2025."
+
+3. <Write a summary of presented data:>
+"Overall, the inflation rate in the United States has fluctuated over the years, with notable peaks and troughs. The most significant increases occurred in the early 1980s and the late 1990s, while the most stable periods were in the mid-1990s and early 2000s. The inflation rate has been relatively low in recent years, with the most recent increase in 2021."

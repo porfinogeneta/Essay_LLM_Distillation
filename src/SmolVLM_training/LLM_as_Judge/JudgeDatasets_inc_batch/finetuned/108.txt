@@ -1,0 +1,9 @@
+ 1. The bar chart illustrates the percentage of news coverage devoted to various topics in Afghanistan-related news during the week of July 26-August 1, 2010, as measured by the PEJ News Coverage Index.
+
+2. The chart is divided into five categories: Immigration, WikiLeaks, Oil Spill, Economic Crisis, and Afghanistan. Each category is represented by a distinct color and a corresponding bar graph.
+
+3. The Immigration category is the highest, with a percentage of 14. This is followed by the WikiLeaks category, with a percentage of 13. The Oil Spill category has a percentage of 12, while the Economic Crisis category has a percentage of 10. The Afghanistan category has the lowest percentage, at 5.
+
+4. The overall trend in the chart is that the Immigration category receives the most coverage, followed by the WikiLeaks category. The Oil Spill and Economic Crisis categories receive less coverage, while the Afghanistan category receives the least coverage.
+
+5. The data suggests that the Immigration and WikiLeaks categories are the most important news topics in Afghanistan-related news during the specified week. The Oil Spill and Economic Crisis categories are less important, while the Afghanistan category is the least important.

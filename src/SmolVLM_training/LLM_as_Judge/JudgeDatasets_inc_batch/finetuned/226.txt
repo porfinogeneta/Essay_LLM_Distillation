@@ -1,0 +1,13 @@
+ 1. The data presented in the pie chart is about the main reasons for the number of sex scandals involving elected officials. The chart is divided into four categories: "Don't know," "Neither/Other," "Both," and "They just get caught more often because they're under greater scrutiny."
+
+2. The data is presented in percentages:
+   - "Don't know": 9%
+   - "Neither/Other": 12%
+   - "Both": 4%
+   - "They just get caught more often because they're under greater scrutiny": 57%
+
+3. The most common reason for the number of sex scandals is "They just get caught more often because they're under greater scrutiny," with 57% of respondents citing this as the main reason.
+
+4. The least common reason is "Don't know," with only 9% of respondents citing this as the main reason.
+
+5. The data suggests that the primary reason for the number of sex scandals involving elected officials is due to increased scrutiny, rather than other factors.

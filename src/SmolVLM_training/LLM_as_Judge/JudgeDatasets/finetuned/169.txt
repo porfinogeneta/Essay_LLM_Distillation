@@ -1,0 +1,54 @@
+ <?xml version="1.0" encoding="ISO-8859-1"?>
+<html>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+<body class="bg-gray-100">
+    <div class="flex flex-col md:flex-row">
+        <div class="w-full md:w-1/2 p-4">
+            <h2 class="text-2xl font-bold mb-4">Less Public Attention to Iraq News</h2>
+            <p class="mb-4">
+                The chart shows the percentage of the public that followed news about Iraq very closely from January to December 2004.
+            </p>
+            <p class="mb-4">
+                In January, 48% of the public followed news about Iraq very closely. This number increased to 47% in February. However, it then decreased to 39% in March.
+            </p>
+            <p class="mb-4">
+                In April, the number of people following news about Iraq very closely increased to 54%. However, it then decreased to 39% in May.
+            </p>
+            <p class="mb-4">
+                In June, the number of people following news about Iraq very closely increased to 43%. However, it then decreased to 39% in July.
+            </p>
+            <p class="mb-4">
+                In August, the number of people following news about Iraq very closely increased to 39%. However, it then decreased to 42% in September.
+            </p>
+            <p class="mb-4">
+                In October, the number of people following news about Iraq very closely increased to 47%. However, it then decreased to 34% in November.
+            <p class="mb-4">
+                In December, the number of people following news about Iraq very closely increased to 34%. However, it then decreased to 34% in December.
+            </p>
+        </div>
+        <div class="w-full md:w-1/2 p-4">
+            <h2 class="text-2xl font-bold mb-4">Percent Following "Very closely"</h2>
+            <p class="mb-4">
+                The x-axis shows the months of the year, while the y-axis shows the percentage of the public that followed news about Iraq very closely.
+            </p>
+            <p class="mb-4">
+                The chart shows that the percentage of the public that followed news about Iraq very closely decreased from January to December.
+            </p>
+            <p class="mb-4">
+                In January, 48% of the public followed news about Iraq very closely. However, this number increased to 47% in February. However, it then decreased to 39% in March.
+            </p>
+            <p class="mb-4">
+                In April, the number of people following news about Iraq very closely increased to 54%. However, it then decreased to 39% in May.
+            <p class="mb-4">
+                In June, the number of people following news about Iraq very closely increased to 43%. However, it then decreased to 39% in July.
+            <p class="mb-4">
+                In August, the number of people following news about Iraq very closely increased to 39%. However, it then decreased to 42% in September.
+            <p class="mb-4">
+                In October, the number of people following news about Iraq very closely increased to 47%. However, it then decreased to 34% in November.
+            <p class="mb-4">
+                In December, the number of people following news about Iraq very closely increased to 34%. However, it then decreased to 34% in December.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

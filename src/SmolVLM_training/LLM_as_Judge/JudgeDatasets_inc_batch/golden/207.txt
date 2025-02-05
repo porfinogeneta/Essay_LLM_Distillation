@@ -1,0 +1,15 @@
+Number of refugees admitted to the U.S. falls in 2018 Refugees admitted to the U.S., by fiscal year 200, 000
+1. Graph description:
+"The bar chart illustrates the number of refugees admitted to the United States over various fiscal years, highlighting a significant decline in 2018. The data spans from the mid-1970s to 2018, with the fiscal year defined as October 1 through September 30."
+
+2. Body paragraphs:
+
+Paragraph 1:
+"The chart reveals a fluctuating trend in refugee admissions over the decades. Notably, the highest number of refugees was admitted in the early 1980s, peaking at approximately 200,000. This period was followed by a gradual decline, with admissions stabilizing around 70,000 to 90,000 from the mid-1990s to the early 2000s."
+
+Paragraph 2:
+"However, a dramatic decrease is evident in recent years, particularly in 2018, where the number of refugees admitted fell sharply. This decline is significant when compared to previous years, indicating a substantial shift in immigration policies or global circumstances affecting refugee movements."
+
+3. Overview of the data:
+"Overall, the data indicates a historical peak in refugee admissions during the early 1980s, followed by a period of relative stability, and a notable decline in recent years, culminating in a sharp drop in 2018. This trend reflects broader socio-political changes and shifts in immigration policies over time."
+<SECOND>

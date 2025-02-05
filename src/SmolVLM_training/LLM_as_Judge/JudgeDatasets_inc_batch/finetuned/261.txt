@@ -1,0 +1,20 @@
+ 1. Liverpool: 9 GBP
+2. Hull City: 21 GBP
+3. Stoke: 25 GBP
+4. Sunderland: 25 GBP
+5. West Bromwich: 25 GBP
+6. Crystal Palace: 25 GBP
+7. Leicester: 26 GBP
+8. Middlesbrough: 27 GBP
+9. Arsenal: 27 GBP
+10. Burnley: 30 GBP
+11. Manchester City: 30 GBP
+12. Chelsea: 30 GBP
+13. Manchester United: 31 GBP
+14. Tottenham: 32 GBP
+15. Southampton: 32 GBP
+16. Bournemouth: 32 GBP
+17. Everton: 35 GBP
+18. Swansea: 35 GBP
+19. West Ham: 35 GBP
+20. Watford: 36 GBP
