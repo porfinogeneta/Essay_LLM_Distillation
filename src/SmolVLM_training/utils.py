@@ -1,17 +1,58 @@
 import os
 import pandas as pd
+import re
 from datasets import Dataset, Features, Image, Value
 from huggingface_hub import login
-# from .Logger.logger import setup_logger
-from .system_message import system_message
+from Logger.logger import setup_logger
+# from .system_message import system_message
 from datasets import load_dataset
 
-
-# logger = setup_logger()
-
+logger = setup_logger()
 
 
-def collect_data(base_path="/root"):
+
+"""
+    Extract raw essay output from an essay structure.
+"""
+def process_essay(text: str):
+
+    paragraphs = text.split("\n")
+    text_lst = [p.strip().strip('"') for p in paragraphs if len(p) > 70]
+
+    return "\n\n".join(line for line in text_lst)
+
+"""
+    Given structured outputs proccess them and output decent essay.
+"""
+def unstructure_essays(base_path="/Volumes/T7/smolvlm_dataset", pew_essay_path="essays_pew", statista_essay_path="essays_statista"):
+    pew_full_path = os.path.join(base_path, pew_essay_path)
+    statista_full_path = os.path.join(base_path, statista_essay_path)
+
+    
+    raw_pew = os.path.join(base_path, "raw_essays_pew")
+    os.makedirs(raw_pew, exist_ok=True)
+    raw_statista = os.path.join(base_path, "raw_essays_statista")
+    os.makedirs(raw_statista, exist_ok=True)
+
+    essay_paths = [pew_full_path, statista_full_path]
+    raw_paths = [raw_pew, raw_statista]
+
+    for path, raw_path in zip(essay_paths, raw_paths):
+        essay_files = [f for f in os.listdir(path) if f.endswith('.txt') and not f.startswith('._')]
+        for file in essay_files:
+            try:
+                with open(os.path.join(path, file), 'r') as f:
+                    essay = f.read()                
+
+                with open(os.path.join(raw_path, file), 'w') as f:
+                    processed_essay = process_essay(essay)
+                    f.write(processed_essay)
+            except Exception as e:
+                logger.error(e)
+
+
+
+def collect_data(base_path="/root", pew_essay_path="essays_pew", statista_essay_path="essays_statista"):
     data = {
         'image_path': [],
         'title': [],
@@ -22,19 +63,19 @@ def collect_data(base_path="/root"):
     
     paths = {
         'pew': {
-            'essays': os.path.join(base_path, "essays_pew"),
+            'essays': os.path.join(base_path, pew_essay_path),
             'imgs': os.path.join(base_path, "imgs_pew"),
             'titles': os.path.join(base_path, "titles_pew")
+        },
+        'statista': {
+            'essays': os.path.join(base_path, statista_essay_path),
+            'imgs': os.path.join(base_path, "imgs_statista"),
+            'titles': os.path.join(base_path, "titles_statista")
         }
-        # 'statista': {
-        #     'essays': os.path.join(base_path, "essays_statista"),
-        #     'imgs': os.path.join(base_path, "imgs_statista"),
-        #     'titles': os.path.join(base_path, "titles_statista")
-        # }
     }
 
     for source, path_dict in paths.items():
-        essay_files = [f for f in os.listdir(path_dict['essays']) if f.endswith('.txt')]
+        essay_files = [f for f in os.listdir(path_dict['essays']) if f.endswith('.txt') and not f.startswith("._")]
         for file in essay_files:
             filename = file.split(".")[0]
             
@@ -154,8 +195,8 @@ def cleanup_unused_images(base_path="/Volumes/T7/smolvlm_dataset"):
     # return deleted_files
 
 
-def push_data_to_huggingface():
-    dataset = collect_data()
+def push_data_to_huggingface(base_path, pew_path, statista_path, repo_id: str):
+    dataset = collect_data(base_path=base_path, pew_essay_path=pew_path, statista_essay_path=statista_path)
 
     # logger.debug(f"Dataset size: {len(dataset)}")
     # logger.debug("First sample:", dataset[0])
@@ -163,8 +204,8 @@ def push_data_to_huggingface():
     login() 
 
     dataset.push_to_hub(
-        repo_id="szymmon/SmolVLM_Essay_Structured",
-        private=False   
+        repo_id=repo_id,
+        private=False
     )
 
 def load_data_huggingface():
@@ -214,4 +255,5 @@ def format_data(sample):
 
 if __name__ == "__main__":
     # cleanup_unused_images()
-    push_data_to_huggingface()
+    # unstructure_essays()
+    push_data_to_huggingface("/Volumes/T7/smolvlm_dataset", "raw_essays_pew", "essays_statista", repo_id="szymmon/SmolVLM_Essay_Database")
