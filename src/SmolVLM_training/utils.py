@@ -212,8 +212,8 @@ def push_data_to_huggingface(base_path, pew_path, statista_path, repo_id: str):
         private=False
     )
 
-def load_data_huggingface():
-    dataset = load_dataset("szymmon/SmolVLM_Essay_Structured")
+def load_data_huggingface(repo_id: str="szymmon/SmolVLM_Essay_Structured"):
+    dataset = load_dataset(repo_id)
 
     shuffled_dataset = dataset['train'].shuffle(seed=42)
 
