@@ -1,9 +1,0 @@
- 1. The graph shows the median duration of unemployment in the United States from January 2003 to December 2013.
-2. The median duration of unemployment is measured on a scale of 0 to 25, with 0 being the lowest duration and 25 being the highest duration.
-3. The graph shows a general upward trend in the median duration of unemployment over the period.
-4. The median duration of unemployment increased from approximately 10 months in January 2003 to over 25 months in December 2013.
-5. The median duration of unemployment peaked in the summer of 2009, reaching over 25 months.
-6. The median duration of unemployment then decreased to around 15 months in the winter of 2009, before increasing again to over 25 months in the summer of 2010.
-7. The median duration of unemployment then decreased again to around 15 months in the winter of 2010, before increasing to over 25 months in the summer of 2011.
-8. The median duration of unemployment then decreased again to around 15 months in the winter of 2011, before increasing to over 25 months in the summer of 2012.
-9. The median duration of unemployment then decreased again to around 15 months in the winter of 2012, before increasing to over 25 months in the summer of 2013.

@@ -1,3 +1,0 @@
- 1. <Describe a pie chart about the distribution of Luxottica sales in 2019 by channel>:
-
-The pie chart illustrates the distribution of Luxottica's sales in 2019, broken down by channel. The data reveals that the majority of Luxottica's sales, 65.66%, were generated through retail channels. This figure is significantly higher compared to the wholesale channel, which accounted for 34.34% of the sales. The remaining 2.02% of sales were generated through other channels, such as online and retail.

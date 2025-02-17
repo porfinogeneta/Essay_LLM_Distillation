@@ -1,9 +1,0 @@
- 1. The data shows the corruption perception index score of Brazil from 2012 to 2019.
-2. In 2012, the corruption perception index score of Brazil was 43.
-3. In 2013, the corruption perception index score of Brazil was 42.
-4. In 2014, the corruption perception index score of Brazil was 43.
-5. In 2015, the corruption perception index score of Brazil was 38.
-6. In 2016, the corruption perception index score of Brazil was 40.
-7. In 2017, the corruption perception index score of Brazil was 37.
-8. In 2018, the corruption perception index score of Brazil was 35.
-9. In 2019, the corruption perception index score of Brazil was 35.

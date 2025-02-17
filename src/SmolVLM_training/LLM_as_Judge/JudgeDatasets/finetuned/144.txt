@@ -1,8 +1,0 @@
- 1. The bar chart illustrates the average newsstand sales per issue of The New Republic from 2012 to 2014, broken down by quarter.
-2. In 2012, the average newsstand sales per issue of The New Republic were 1,942.
-3. In 2013, the average newsstand sales per issue of The New Republic were 5,523.
-4. In 2014, the average newsstand sales per issue of The New Republic were 1,904.
-5. The data indicates a significant decline in newsstand sales from 2012 to 2014, with the lowest sales recorded in the 1st half of 2014.
-6. The 4th quarter of 2012 saw the highest sales, followed by the 1st half of 2013.
-7. The 2nd half of 2013 saw the lowest sales.
-8. Overall, the data suggests a decline in newsstand sales for The New Republic from 2012 to 2014.

@@ -1,4 +1,0 @@
- 1. Texas is the state with the largest Hispanic population, at 19%.
-2. California has the second largest Hispanic population, at 31%.
-3. New York, Florida, and New Jersey each have a smaller Hispanic population, at 8%, 3%, and 3%, respectively.
-4. The remaining states have a Hispanic population of 3%, 8%, and 19%, respectively.

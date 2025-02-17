@@ -16,7 +16,11 @@ logger = setup_logger()
 """
 def process_essay(text: str):
 
-    paragraphs = text.split("\n")
+    raw_content = re.findall(r'"([^"]*)"', text)
+    if raw_content:
+        return "\n\n".join(con.strip() for con in raw_content if con.strip())
+
+    paragraphs = text.replace('"', '').replace("'", '').split("\n")
     text_lst = [p.strip().strip('"') for p in paragraphs if len(p) > 70]
 
     return "\n\n".join(line for line in text_lst)
@@ -255,5 +259,6 @@ def format_data(sample):
 
 if __name__ == "__main__":
     # cleanup_unused_images()
+    # print(process_essay("""1. <Describe a graph>: "The bar chart illustrates South Korea's budget balance as a percentage of GDP from 2015 to 2025, with actual data from 2015 to 2019 and projections from 2020 to 2025." 2. <Find the key points, trends and compare data>: Paragraph 1: "From 2015 to 2019, South Korea experienced a positive budget balance, peaking at 2.56% of GDP in 2018. The budget balance started at 0.52% in 2015 and gradually increased, reaching its zenith in 2018 before slightly declining to 0.37% in 2019." Paragraph 2: "In contrast, the projections from 2020 to 2025 indicate a negative budget balance, with a significant downturn in 2020 at -3.24%. The deficit is expected to narrow gradually, but it remains negative, with projections showing -2.33% in 2021, -2.66% in 2022, -2.69% in 2023, and stabilizing at -2.54% from 2024 to 2025." 3. <Write a summary of presented data>: "Overall, South Korea's budget balance shifted from a surplus to a deficit over the decade. The period from 2015 to 2019 saw a positive trend, peaking in 2018. However, the projections from 2020 onwards indicate a persistent budget deficit, with a significant drop in 2020 and a gradual narrowing of the deficit in subsequent years." """))
     # unstructure_essays()
-    push_data_to_huggingface("/Volumes/T7/smolvlm_dataset", "raw_essays_pew", "essays_statista", repo_id="szymmon/SmolVLM_Essay_Database")
+    push_data_to_huggingface("/Volumes/T7/smolvlm_dataset", "raw_essays_pew", "raw_essays_statista", repo_id="szymmon/SmolVLM_Essay_Database")

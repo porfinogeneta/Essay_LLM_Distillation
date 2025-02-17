@@ -1,1 +1,0 @@
- Percentage of state legislators who are women is a line graph. The y-axis measures Percentage of state legislators who are women while the x-axis measures 1980 to 2010. The percentage of women in state legislatures has increased steadily over the years. In 1980, there were 10 women in state legislatures. By 2010, there were 25 women in state legislatures.

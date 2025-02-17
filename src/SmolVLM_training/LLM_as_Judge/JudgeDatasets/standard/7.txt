@@ -1,1 +1,0 @@
- 0.41. The statistic shows the unemployment rate in the United States from 1999 to 2020. The unemployment rate is the percentage of the labor force that is unable to find employment.

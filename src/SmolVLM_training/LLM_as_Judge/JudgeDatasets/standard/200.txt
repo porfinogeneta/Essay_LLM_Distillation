@@ -1,1 +1,0 @@
- This statistic shows the index value of the Dow Jones Composite Index from 2000 to 2020. The Dow Jones Industrial Average is a stock market index that measures the value of 30 of the largest companies in the United States. In 2020, the Dow Jones Composite Index had an index value of 10,108.71.
