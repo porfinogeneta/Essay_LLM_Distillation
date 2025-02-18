@@ -1,0 +1,7 @@
+ The bar chart illustrates the cheapest match-day ticket prices for the Premier League teams in the 2019/20 season. The data is presented in British pounds (GBP).
+
+The chart reveals that Manchester City and Manchester United have the most affordable ticket prices, with both teams offering tickets for 30 GBP. Liverpool and Hull City follow closely, with ticket prices at 9 GBP and 21 GBP respectively.
+
+Other teams also have relatively affordable ticket prices, with Sunderland and West Bromwich both offering tickets for 25 GBP. However, the majority of teams have ticket prices above 25 GBP, with Crystal Palace and Leicester having the most expensive tickets at 26 GBP and 27 GBP respectively.
+
+Overall, the chart indicates that the majority of Premier League teams have relatively affordable ticket prices, with the exception of a few teams like Crystal Palace and Leicester. Manchester City and Manchester United have the most affordable tickets, while Liverpool and Hull City have the most expensive tickets.

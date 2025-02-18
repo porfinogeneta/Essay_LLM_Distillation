@@ -1,0 +1,7 @@
+ The bar chart illustrates the fertility rate in the Philippines from 2008 to 2018, measured as the number of children born per woman.
+
+The data reveals a declining trend in the fertility rate over the decade. In 2008, the fertility rate stood at 3.29 children per woman, gradually decreasing to 2.58 children per woman in 2018. This decline indicates a shift towards smaller families, potentially influenced by factors such as increased access to education, improved healthcare, and urbanization.
+
+In 2008, the fertility rate was at its highest, reaching 3.29 children per woman. By 2018, this rate had dropped to 2.58 children per woman, indicating a significant decrease. The most notable decrease occurred between 2010 and 2011, where the rate dropped from 3.18 to 3.12 children per woman.
+
+Overall, the fertility rate in the Philippines has shown a downward trend from 2008 to 2018, with the most significant decrease occurring between 2010 and 2011. This trend suggests a shift towards smaller families, possibly influenced by factors such as increased access to education, improved healthcare, and urbanization.

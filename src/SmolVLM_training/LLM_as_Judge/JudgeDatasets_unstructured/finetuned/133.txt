@@ -1,0 +1,7 @@
+ The bar chart illustrates the net worth of the top richest U.S. presidential candidates from 1992 to 2020, measured in million U.S. dollars. The data is presented in a categorical scale starting with Michael Bloomberg (2020) at the highest net worth and ending with Carly Fiorina (2016) at the lowest.
+
+The chart reveals a significant disparity in net worth among the candidates. Michael Bloomberg, the current Democratic nominee, holds the highest net worth at 61,800 million U.S. dollars, followed by Donald Trump, the Republican nominee, with 4,500 million U.S. dollars. Ross Perot, the third-ranked candidate, has a net worth of 3,580 million U.S. dollars.
+
+The net worth of the other candidates, including Tom Steyer, Steve Forbes, Mitt Romney, John Kerry, John Delaney, Al Gore, Hillary Clinton, Bill Clinton, Jon Huntsman, Rudy Giuliani, Carly Fiorina, John Edwards, and John Edwards, ranges from 1,600 to 100 million U.S. dollars.
+
+Overall, the data indicates a wide disparity in net worth among the candidates, with Michael Bloomberg and Donald Trump leading the pack, while the others have significantly lower net worth. This disparity highlights the financial influence and wealth of the candidates in the U.S. presidential race.

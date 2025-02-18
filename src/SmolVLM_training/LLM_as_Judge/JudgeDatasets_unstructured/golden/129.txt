@@ -1,0 +1,10 @@
+Smartphone unit shipments in Asia Pacific from 2013 to 2018 ( in million units )
+
+The bar chart illustrates the smartphone unit shipments in the Asia Pacific region from 2013 to 2018, measured in million units.
+
+The data reveals a consistent upward trend in smartphone shipments over the six-year period. Starting at 165.2 million units in 2013, there was a steady increase each year, reaching 213.7 million units in 2014 and 271.3 million units in 2015.
+
+The growth continued in subsequent years, with shipments rising to 287.4 million units in 2016 and further to 301.2 million units in 2017. The most significant increase occurred in 2018, where shipments surged to 732 million units, marking the highest point in the observed period.
+
+Overall, the Asia Pacific region experienced a remarkable growth in smartphone shipments from 2013 to 2018. The data indicates a robust demand for smartphones, with the most substantial year-on-year increase observed in 2018. This trend underscores the regions rapid technological adoption and expanding consumer base.
+<SECOND>

@@ -1,0 +1,11 @@
+State legislatures
+The graph illustrates the percentage of state legislators who are women from 1980 to 2015.
+
+In 1980, the percentage of women legislators was minimal, barely reaching 5%. Over the next decade, there was a gradual increase, with the figure rising to approximately 10% by 1990.
+
+From 1990 to 2000, the growth continued steadily, reaching around 20%. The upward trend persisted into the new millennium, with the percentage climbing to about 25% by 2010.
+
+Between 2010 and 2015, the increase accelerated, culminating in a notable rise to nearly 30% by the end of the period.
+
+Overall, the data indicates a consistent and accelerating trend in the representation of women in state legislatures over the 35-year period, reflecting gradual but significant progress in gender equality in political representation.
+The first essay is more accurate and resembles the golden standard essay more closely. It provides a detailed description of the plot, including the specific percentages and time periods, which aligns well with the information in the golden standard essay. Therefore, the answer is <FIRST>.

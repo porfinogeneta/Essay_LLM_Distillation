@@ -1,0 +1,10 @@
+Gini coefficient of after-tax income in Canada from 2000 to 2018
+
+The chart illustrates the Gini coefficient of after-tax income in Canada from 2000 to 2018. The Gini coefficient is a measure of income inequality, with 0 representing perfect equality and 1 representing perfect inequality.
+
+The data reveals that the Gini coefficient in Canada remained relatively stable from 2000 to 2018, fluctuating slightly around the 0.32 mark. This indicates a consistent level of income inequality over the years.
+
+From 2000 to 2004, the Gini coefficient remained constant at 0.32. A slight decrease to 0.31 was observed in 2005, but it returned to 0.32 in 2006 and stayed there until 2010. From 2011 onwards, the coefficient showed minor variations, with a slight dip to 0.31 in 2012 and 2013, before stabilizing again at 0.32 from 2014 to 2017. In 2018, it dropped slightly to 0.30.
+
+Overall, the Gini coefficient of after-tax income in Canada has shown remarkable stability over the 18-year period, hovering around 0.32. This suggests that income inequality in Canada has not significantly changed, maintaining a consistent level throughout the years.
+<FIRST>

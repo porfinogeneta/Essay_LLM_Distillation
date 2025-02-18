@@ -1,0 +1,9 @@
+ The bar chart illustrates the percentage of U.S. adults who have changed their use of government surveillance programs, categorized by the type of technology used. The data is based on a survey conducted in November 2014, with a sample size of 475 adults.
+
+The chart reveals that the most significant change in surveillance program usage occurred among those who use email accounts, with 18% reporting a change. This is followed by search engines, where 17% have changed their use. Social media sites and cell phones also saw notable changes, with 15% and 15% respectively.
+
+Interestingly, the use of landline phones and mobile apps saw a smaller percentage of change, with 9% and 13% respectively. Text messages and mobile apps also saw a similar change, with 13% and 13% respectively.
+
+Overall, the data indicates that the most significant change in surveillance program usage is among those who use email accounts and search engines. This suggests that these technologies are the most frequently used by the public and are the most likely to be affected by changes in surveillance programs.
+
+In conclusion, the data shows that the most significant change in government surveillance programs among U.S. adults is related to email accounts and search engines, with 18% and 17% respectively reporting changes. This trend is followed by social media sites and cell phones, with 15% and 15% respectively. The use of landline phones and mobile apps also saw a smaller change, with 9% and 13% respectively. Text messages and mobile apps also saw a similar change, with 13% and 13% respectively.

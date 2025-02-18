@@ -1,0 +1,11 @@
+ The bar chart illustrates the poverty rate in North Dakota from 2000 to 2019. The data is presented as a percentage of the population.
+
+The poverty rate in North Dakota has fluctuated over the years. In 2000, the poverty rate was 11.6%, which increased to 12.1% in 2001. The rate then rose to 12.5% in 2002, before declining to 11.7% in 2003. The rate further decreased to 11.2% in 2004, followed by a slight increase to 12.1% in 2005.
+
+From 2006 to 2008, the poverty rate in North Dakota experienced a significant increase. It rose from 11.4% in 2006 to 12.1% in 2007 and further to 12.2% in 2008. However, the rate then decreased to 11.2% in 2009, followed by a further decrease to 11.8% in 2010.
+
+From 2011 to 2013, the poverty rate in North Dakota experienced a decline. It decreased from 11.2% in 2011 to 11.8% in 2012 and further to 11.5% in 2013.
+
+From 2014 to 2019, the poverty rate in North Dakota experienced a slight increase. It increased from 11.5% in 2014 to 11.7% in 2015, followed by a further increase to 10.7% in 2018. The rate then decreased to 10.3% in 2019.
+
+Overall, the poverty rate in North Dakota has fluctuated over the years, with a general downward trend from 2000 to 2019. However, there were periods of significant increases and decreases, particularly in the early 2000s and the late 2010s.

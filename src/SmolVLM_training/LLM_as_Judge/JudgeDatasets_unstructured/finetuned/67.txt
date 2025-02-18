@@ -1,0 +1,7 @@
+ The bar chart illustrates the quarterly retail sales of women's lingerie, sleepwear, and underwear in Canada from 2014 to 2019, measured in million Canadian dollars.
+
+The sales figures are presented in a bar chart format, with each bar representing a quarter of the period. The x-axis plots the quarters, while the y-axis shows the sales in million Canadian dollars.
+
+The data reveals a consistent upward trend in sales over the given period. Starting from Q1 2014, sales steadily increased, peaking at approximately 650 million Canadian dollars in Q3 2019. Notably, the highest sales were recorded in Q3 2019, surpassing the previous peak in Q4 2018 by about 100 million Canadian dollars.
+
+Overall, the sales of women's lingerie, sleepwear, and underwear in Canada experienced a significant growth from Q1 2014 to Q3 2019, with the highest sales recorded in Q3 2019. This indicates a positive market trend, potentially driven by increased consumer demand or product innovation.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the employment rate in OECD countries in 2019, with data presented as a percentage. Iceland leads the ranking with the highest employment rate at 83.8%, followed by Switzerland at 80.5%.
+
+Japan and New Zealand are tied for the second highest rate at 77.6% and 77.4%, respectively. Sweden and Germany are close behind, with rates of 77.1% and 76.7%, respectively. The United Kingdom, Norway, and Denmark follow, with rates of 75.3%, 75.2%, and 75.1%, respectively.
+
+Estonia, Czech Republic, and Canada are among the countries with the lowest employment rates, with rates of 75.2%, 75.1%, and 74.4%, respectively. Australia, Austria, and Finland follow, with rates of 73.6%, 73.1%, and 73%, respectively.
+
+Overall, the data reveals a wide range in employment rates across OECD countries in 2019. Iceland and Switzerland have the highest rates, while Turkey has the lowest. The majority of countries fall within the 70% to 75% range, indicating a relatively high employment rate compared to other regions.

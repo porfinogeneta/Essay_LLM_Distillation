@@ -1,0 +1,9 @@
+ The bar chart illustrates the population growth in Cambodia from 2009 to 2019, compared to the previous year.
+
+The data reveals a consistent upward trend in population growth over the decade. Starting at 1.5% in 2009, the growth rate gradually increased to 1.6% in 2010 and 1.63% in 2011. This upward trajectory continued, reaching 1.64% in 2012 and 1.6% in 2013.
+
+In 2014, the population growth rate slightly decreased to 1.6%, but it rebounded in 2015, reaching 1.6%. The growth rate remained relatively stable at 1.57% in 2016 and 2017, before experiencing a slight decline in 2018 to 1.49%.
+
+The most significant decline in population growth occurred in 2019, with the rate dropping to 1.45%. Despite this, the overall trend indicates a positive growth rate, with the population increasing by approximately 1.5% in the decade from 2009 to 2019.
+
+Overall, Cambodia's population growth has fluctuated over the decade, with the most notable decline occurring in 2019. However, the overall trend remains positive, with the population increasing by approximately 1.5% in the decade from 2009 to 2019.

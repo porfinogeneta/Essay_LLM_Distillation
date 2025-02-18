@@ -1,0 +1,7 @@
+ The line chart illustrates the decline in U.S. album sales over time from 2004 to 2008. The data is presented in millions of units, with a linear scale from 0 to 700 on the y-axis.
+
+From 2004 to 2005, album sales increased, peaking at approximately 650 million units. However, from 2005 to 2006, sales began to decline, reaching a low of around 550 million units in 2006. This decline continued throughout the period, with sales dropping to around 450 million units in 2007 and further to 400 million units in 2008.
+
+Overall, the data shows a consistent decline in U.S. album sales over the five-year period, with the most significant drop occurring from 2005 to 2006. The decline continued throughout the period, with sales reaching their lowest point in 2008 at approximately 400 million units.
+
+The source of the data is Nielsen Soundscan, as indicated by the legend. This source is recognized for its accurate and reliable music industry data, making it suitable for analyzing trends in album sales.

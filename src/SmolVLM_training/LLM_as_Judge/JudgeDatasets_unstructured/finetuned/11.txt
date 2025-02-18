@@ -1,0 +1,7 @@
+ The chart shows the share of foreign-born population in the United States from 1850 to 2050, with projections up until 2060. The data is presented as a line graph, with the x-axis showing the years from 1850 to 2050, and the y-axis showing the percentage of the total population.
+
+The share of foreign-born population in the US has fluctuated over the years, with peaks in the 1850s and 1900s. In 1850, the share of foreign-born population was 9.7%, and it increased to 14.8% in 1880. However, it then declined to 12% in 1920, before rising again to 14.8% in 1980.
+
+The projections for the future show a continued increase in the share of foreign-born population in the US. By 2000, the share of foreign-born population was 12%, and it is projected to increase to 19% by 2060.
+
+Overall, the data shows that the share of foreign-born population in the US has been increasing over the years, with projections indicating that this trend will continue in the future.

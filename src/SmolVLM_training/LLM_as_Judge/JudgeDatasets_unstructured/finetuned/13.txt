@@ -1,0 +1,7 @@
+ The bar chart illustrates the rate of fatal crashes in the United States by month in 2018, measured per 100 million vehicle miles traveled.
+
+The data reveals that the highest rate of fatal crashes occurred in September, with 1.13 crashes per 100 million miles traveled. This was followed by August, with 1.05 crashes per 100 million miles traveled. Conversely, the lowest rate of fatal crashes was observed in February, with 0.93 crashes per 100 million miles traveled.
+
+Overall, the rate of fatal crashes in the United States was relatively consistent throughout the year, with the highest rates occurring in September and August. The lowest rates were observed in February and February.
+
+The data suggests that the rate of fatal crashes in the United States is not significantly influenced by the month of the year. However, there is a slight trend towards higher rates in the months of September and August, which may be attributed to seasonal factors such as increased travel and holiday activities.

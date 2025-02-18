@@ -1,0 +1,1 @@
+ This statistic shows the volume of container traffic handled by Japan's largest container-handling ports in 2012. In that year, the port of Yokohama handled the most container traffic, with 3.05 million TEUs.

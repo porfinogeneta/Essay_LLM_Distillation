@@ -1,0 +1,9 @@
+ The chart illustrates the youth unemployment rate in Nepal from 1999 to 2020. The data reveals a fluctuating trend over the years, with a notable decline in the rate from 2000 to 2005.
+
+In 2000, the youth unemployment rate in Nepal was 2.84%, which gradually decreased to 2.46% in 2006. However, the rate saw a sharp increase from 2006 to 2009, reaching 2.31%. This upward trend continued until 2010, where the rate peaked at 2.53%.
+
+From 2010 to 2014, the youth unemployment rate in Nepal experienced a slight decline, with a rate of 2.45% in 2014. Subsequently, the rate increased again, reaching 2.53% in 2015. The rate then decreased to 2.41% in 2016, followed by a further decline to 2.25% in 2017.
+
+From 2017 to 2020, the youth unemployment rate in Nepal saw a significant increase, reaching 2.42% in 2020. This indicates a concerning trend, with the rate increasing by 0.03% from 2019.
+
+Overall, the data shows a fluctuating trend in the youth unemployment rate in Nepal from 1999 to 2020. The rate peaked in 2009 and 2010, with a subsequent decline until 2017. However, the rate increased again in 2020, indicating a concerning trend.

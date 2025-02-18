@@ -1,0 +1,9 @@
+ The bar chart illustrates the impact of the coronavirus (COVID-19) outbreak on the functioning of small and medium-sized enterprises (SMEs) in Poland in 2020, as measured by the percentage of respondents.
+
+The data reveals that the most significant impact on SMEs in Poland was the decrease in turnover, with 87% of respondents indicating this as a major concern. This was followed by freezing increases and bonuses, with 75% of respondents citing this as a major issue. Problems with maintaining financial liquidity, at 71%, also emerged as a major concern.
+
+Delays in orders and deliveries were reported by 67% of respondents, highlighting the challenges faced by SMEs in fulfilling customer orders. Stronger action in debt collection was identified as a concern by 47% of respondents, reflecting the financial strain on businesses. Suspension of credit and leasing instalments was reported by 45% of respondents, indicating the difficulties faced by SMEs in obtaining credit and leasing necessary equipment.
+
+Redundancy of some workers was reported by 43% of respondents, highlighting the impact of job losses on SMEs. Suspension of salary was reported by 38% of respondents, reflecting the financial burden on businesses due to reduced income.
+
+Overall, the data indicates that the coronavirus (COVID-19) outbreak had a significant impact on the functioning of SMEs in Poland, with the most notable concerns being the decrease in turnover, freezing increases and bonuses, problems with maintaining financial liquidity, delays in orders and deliveries, stronger action in debt collection, suspension of credit and leasing instalments, redundancy of some workers, and suspension of salary.

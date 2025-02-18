@@ -1,0 +1,11 @@
+ The bar chart illustrates the annual expenditure on clothing and footwear in the United Kingdom (UK) from 2005 to 2019, measured in million British pounds (GBP).
+
+The expenditure on clothing and footwear in the UK has shown a consistent upward trend over the past decade. In 2005, the expenditure was at 35,877 million GBP, which gradually increased to 38,888 million GBP in 2006.
+
+From 2007 to 2010, the expenditure on clothing and footwear in the UK experienced a slight decline, with the expenditure dropping to 41,352 million GBP in 2007. However, the expenditure rebounded in 2011, reaching 53,703 million GBP.
+
+From 2012 to 2015, the expenditure on clothing and footwear in the UK continued to rise, with the expenditure increasing to 58,729 million GBP in 2013. The expenditure further rose to 59,914 million GBP in 2014, and then to 62,597 million GBP in 2015.
+
+In 2016, the expenditure on clothing and footwear in the UK reached its highest point, with the expenditure amounting to 64,769 million GBP. This was followed by a slight decrease in 2017, with the expenditure dropping to 65,309 million GBP.
+
+The expenditure on clothing and footwear in the UK has shown a significant increase from 2005 to 2019, with the highest expenditure recorded in 2019 at 70,255 million GBP. This indicates a growing consumer demand for clothing and footwear, possibly driven by factors such as increasing disposable income and changing fashion trends.

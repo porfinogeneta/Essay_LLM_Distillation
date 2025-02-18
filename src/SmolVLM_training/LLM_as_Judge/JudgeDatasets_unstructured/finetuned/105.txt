@@ -1,0 +1,3 @@
+ The bar chart illustrates the most popular alcoholic beverage types among consumers in Canada as of May 2015. Beer was the most popular beverage, with 57% of respondents choosing it. Wine came in second place, with 42% of respondents preferring it. Spirits were the least popular, with 32% of respondents choosing this type of beverage.
+
+Overall, beer was the most popular alcoholic beverage, with wine and spirits being the least popular. The data suggests that beer is the most preferred alcoholic beverage among Canadians, followed by wine and spirits. This trend indicates a preference for beer over other alcoholic beverages, possibly due to its availability and affordability.

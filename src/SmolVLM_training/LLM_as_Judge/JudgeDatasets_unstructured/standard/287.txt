@@ -1,0 +1,1 @@
+ This statistic shows the number of crowdfunding projects on Kickstarter.com from 2010 to 2014. In 2014, there were 22,252 crowdfunding projects on Kickstarter.com.

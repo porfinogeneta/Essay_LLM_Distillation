@@ -1,0 +1,9 @@
+ The bar chart illustrates the percentage of adults who own each of the following gadgets, namely cell phone, desktop, laptop, DVR, MP3 player, e-reader, and tablet, as of April 26-May 22, 2011.
+
+The data reveals that the ownership of cell phones is significantly higher than other devices, with 83% of adults owning one. Desktop computers follow closely, with 57% of adults owning one. Laptops, on the other hand, are owned by 56% of adults, making them the third most popular gadget.
+
+The ownership of DVD players and MP3 players is relatively similar, with 52% and 44% of adults owning one, respectively. E-readers are the least popular, with only 12% of adults owning one. Tablets are the least popular among the listed gadgets, with only 8% of adults owning one.
+
+Overall, cell phones and desktop computers are the most prevalent gadgets among adults, with ownership rates of 83% and 57%, respectively. Laptops and DVD players are also relatively common, with ownership rates of 56% and 52%, respectively. E-readers and tablets are the least popular, with ownership rates of 12% and 8%, respectively.
+
+This data suggests that while cell phones and desktop computers are the most common gadgets among adults, laptops and DVD players are also widely owned. E-readers and tablets are the least popular, indicating a growing preference for digital devices over traditional ones.

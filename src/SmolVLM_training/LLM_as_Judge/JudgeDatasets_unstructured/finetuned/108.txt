@@ -1,0 +1,7 @@
+ The bar chart titled Afghanistan-Related Coverage Tops the Week PEJ News Coverage Index shows the percentage of news coverage devoted to various topics in the week of July 26-August 1, 2010.
+
+The data is presented in a bar chart format, with each bar representing a different topic. The topics are immigration, WikiLeaks, oil spill, economic crisis, and Afghanistan. The y-axis measures the percentage of news coverage, while the x-axis shows the week of July 26-August 1, 2010.
+
+The data reveals that immigration was the most covered topic, with a percentage of 14. This was followed by WikiLeaks, with a percentage of 13. Oil spill and economic crisis were also covered, with percentages of 12 and 11 respectively. Afghanistan was the least covered topic, with a percentage of 5.
+
+Overall, the data indicates that immigration and WikiLeaks were the most prominent news topics in the week of July 26-August 1, 2010, while Afghanistan was the least covered. The oil spill and economic crisis were also significant, but to a lesser extent than immigration and WikiLeaks.

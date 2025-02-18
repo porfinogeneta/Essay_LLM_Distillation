@@ -1,0 +1,7 @@
+ The bar chart illustrates the gross advertiser expenditures for network TV evening news programs from 2013 to 2018. The data is presented in millions of British pounds (M).
+
+In 2013, the gross advertiser expenditure for network TV evening news programs was approximately 500 million British pounds. This expenditure gradually increased over the years, reaching approximately 550 million British pounds in 2014. The expenditure continued to rise, peaking at around 600 million British pounds in 2015.
+
+From 2015 to 2017, the expenditure remained relatively stable, hovering around 600 million British pounds. However, in 2017, there was a slight decline, with the expenditure dropping to around 550 million British pounds. This trend continued in 2018, with the expenditure decreasing to around 500 million British pounds.
+
+Overall, the gross advertiser expenditures for network TV evening news programs have fluctuated over the years, with a notable increase from 2013 to 2015, followed by a slight decline in 2016 and 2017. The expenditure remained relatively stable in 2018, with a slight decrease to around 500 million British pounds.

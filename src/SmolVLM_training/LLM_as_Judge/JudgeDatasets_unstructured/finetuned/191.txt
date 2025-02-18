@@ -1,0 +1,9 @@
+ The chart illustrates the gross domestic product (GDP) of the United States from 1994 to 2021, measured in billion international dollars.
+
+The GDP of the United States has experienced a steady increase over the past three decades. In 1994, the GDP was approximately 8.44 billion international dollars. By 2021, the GDP had risen to 28.28 billion international dollars, indicating a significant growth in the country's economic output.
+
+The GDP growth was particularly pronounced in the early 2000s, with a significant increase from 8.44 billion international dollars in 1994 to 16.1 billion international dollars in 2008. This period also saw a sharp decline in the GDP, likely due to the global financial crisis of 2008, which resulted in a drop from 16.1 billion international dollars in 2008 to 12.83 billion international dollars in 2009.
+
+However, the GDP recovered quickly, and by 2011, it had rebounded to 17.85 billion international dollars. The growth continued, with the GDP reaching 27.29 billion international dollars in 2019.
+
+Overall, the GDP of the United States has shown a positive trend from 1994 to 2021, with notable fluctuations due to economic events such as the global financial crisis of 2008. The recovery from the crisis and the subsequent growth in the GDP indicate the resilience of the U.S. economy.

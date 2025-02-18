@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of registered cases of murder and manslaughter in Belgium from 2008 to 2019. The data reveals a general upward trend in the number of cases over the decade, with a notable increase from 2010 onwards.
+
+In 2008, the number of registered cases of murder and manslaughter in Belgium was 886, which marked the lowest point in the decade. However, the numbers steadily rose, reaching 935 in 2009 and 951 in 2010. From 2011 onwards, the numbers continued to increase, peaking at 1,216 in 2018.
+
+The most significant increase occurred between 2017 and 2018, with the number of cases rising from 1,168 to 1,216. This upward trend continued in 2019, with the number of cases reaching 1,146, indicating a slight decrease compared to the previous year.
+
+Overall, the data suggests a consistent increase in the number of registered cases of murder and manslaughter in Belgium from 2008 to 2019, with the most significant rise occurring between 2017 and 2018. The most recent year, 2019, saw a slight decrease, indicating a potential stabilization or a shift in the trend.

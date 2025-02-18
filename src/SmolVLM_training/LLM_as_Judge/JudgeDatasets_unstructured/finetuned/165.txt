@@ -1,0 +1,7 @@
+ The bar chart illustrates the most-watched TV programs in the United Kingdom (UK) in 2019, based on the viewing audience in millions. The data is presented in a categorical scale from Gavin and Stacey to Rugby World Cup Final 2019, with Gavin and Stacey at the top and Rugby World Cup Final 2019 at the bottom.
+
+The most-watched program was Gavin and Stacey, with a viewing audience of 17,920,650 million. This was followed by I'm a Celebrity... with a viewing audience of 13,175,930 million. Strictly Come Dancing ranked third with a viewing audience of 12,759,020 million.
+
+The least-watched program was Rugby World Cup Final 2019, with a viewing audience of 9,452,400 million. This was followed by Britain's Got Talent with a viewing audience of 10,298,940 million. The Great British Bake Off ranked fourth with a viewing audience of 10,053,730 million.
+
+Overall, the most-watched TV programs in the UK in 2019 were Gavin and Stacey, I'm a Celebrity... Strictly Come Dancing, and Strictly Come Dancing: The Results. The least-watched program was Rugby World Cup Final 2019.

@@ -1,0 +1,10 @@
+Net income of Sonic Corporation in the United States from 2009 to 2018 ( in million U.S. dollars )
+
+The bar chart illustrates the net income of Sonic Corporation in the United States from 2009 to 2018, measured in million U.S. dollars.
+
+The data reveals significant fluctuations in Sonic Corporations net income over the decade. In 2009, the net income stood at 49.44 million dollars, but it plummeted to 21.21 million dollars in 2010. The downward trend continued, reaching a low of 19.23 million dollars in 2011. However, a gradual recovery began in 2012, with the net income rising to 36.09 million dollars.
+
+From 2013 onwards, the corporation experienced a more consistent upward trajectory. The net income increased to 36.7 million dollars in 2013 and saw substantial growth in subsequent years. By 2015, it had surged to 64.49 million dollars, maintaining a similar level in 2016 and 2017. The most remarkable increase occurred in 2018, with the net income reaching 71.21 million dollars, the highest in the given period.
+
+Overall, Sonic Corporations net income demonstrated a volatile pattern from 2009 to 2011, followed by a steady recovery and growth from 2012 to 2018. The corporations financial performance improved significantly over the decade, culminating in the highest net income in 2018.
+<FIRST>

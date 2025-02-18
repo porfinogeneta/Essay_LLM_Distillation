@@ -1,0 +1,9 @@
+ The bar chart illustrates the operating revenue of Waste Management Inc. from fiscal year 2007 to fiscal year 2019, measured in million U.S. dollars.
+
+The data reveals a fluctuating trend in the operating revenue over the years. In fiscal year 2007, the revenue was at its highest, reaching 13,310 million U.S. dollars. Subsequently, it declined to 13,388 million U.S. dollars in fiscal year 2008, followed by a slight increase to 11,791 million U.S. dollars in fiscal year 2009.
+
+From fiscal year 2010 onwards, the revenue experienced a consistent decline, reaching 12,515 million U.S. dollars in fiscal year 2010, and further decreasing to 12,961 million U.S. dollars in fiscal year 2015. However, there was a slight recovery in fiscal year 2016, with the revenue reaching 13,609 million U.S. dollars.
+
+From fiscal year 2017 onwards, the revenue again started to increase, reaching 14,914 million U.S. dollars in fiscal year 2018 and culminating at 15,455 million U.S. dollars in fiscal year 2019.
+
+Overall, the operating revenue of Waste Management Inc. has fluctuated over the years, with a notable decline from fiscal year 2007 to 2010, followed by a recovery and subsequent increase in fiscal years 2017 to 2019. The highest revenue was recorded in fiscal year 2007, while the lowest was in fiscal year 2010.

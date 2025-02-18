@@ -1,0 +1,7 @@
+ The chart shows the percentage of Facebook news consumers who regularly see news on Facebook about different categories of news.
+
+The data reveals that entertainment news is the most frequently seen category on Facebook, with 73% of consumers regularly seeing news about it. Sports news comes in second at 57%, followed by national government and politics at 55%. Crime news is seen by 51% of consumers, while health and medicine news is seen by 46%. Local government and politics news is seen by 44%, and local weather and traffic news is seen by 42%.
+
+International news is seen by 39% of consumers, while science and technology news is seen by 37%. Business news is seen by 31% of consumers.
+
+Overall, entertainment news is the most frequently seen category on Facebook, followed by sports and national government and politics. Crime news is seen by a slightly higher percentage than health and medicine news, and local government and politics news is seen by a slightly lower percentage. International news is seen by a lower percentage than entertainment news, and science and technology news is seen by a lower percentage than health and medicine news. Business news is seen by a lower percentage than entertainment news and entertainment news.

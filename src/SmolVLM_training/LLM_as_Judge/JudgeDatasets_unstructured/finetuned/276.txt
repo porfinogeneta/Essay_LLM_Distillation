@@ -1,0 +1,5 @@
+ The bar chart illustrates the total number of Bitcoin ATM installations in Belgium and the Netherlands as of June 2020, by city. The data is presented in a categorical scale from 1 to 22, with Amsterdam (NL) at the top with 22 installations and Venlo (NL) at the bottom with 1 installation.
+
+The cities with the highest number of Bitcoin ATM installations are Amsterdam (NL) and Rotterdam (NL), both with 22 installations. The cities with the lowest number of Bitcoin ATM installations are Utrecht (NL) and Venlo (NL), both with 1 installation.
+
+Overall, the majority of cities in Belgium and the Netherlands have a relatively low number of Bitcoin ATM installations, with the exception of Amsterdam (NL) and Rotterdam (NL). Amsterdam (NL) has the highest number of installations, followed by Rotterdam (NL), while Venlo (NL) has the lowest number of installations.

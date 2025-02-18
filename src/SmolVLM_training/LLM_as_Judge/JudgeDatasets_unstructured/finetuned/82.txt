@@ -1,0 +1,7 @@
+ The bar chart illustrates the turnover from retail sale of decorating and DIY supplies in the United Kingdom (UK) from 2008 to 2018, measured in million GBP.
+
+The data reveals a fluctuating trend in the turnover over the years. In 2008, the turnover was at its lowest, reaching 6,176 million GBP. This figure gradually increased from 2008 to 2011, peaking at 7,528 million GBP. Subsequently, the turnover decreased, reaching 5,580 million GBP in 2012.
+
+From 2013 onwards, the turnover started to rise again, reaching 6,952 million GBP in 2014. The turnover continued to increase, peaking at 7,421 million GBP in 2016. However, it then declined, reaching 6,623 million GBP in 2017.
+
+In 2018, the turnover experienced a slight increase, reaching 7,143 million GBP. Overall, the data indicates a fluctuating trend in the turnover from retail sale of decorating and DIY supplies in the UK, with peaks in 2014 and 2016, followed by a decline in 2017 and 2018.

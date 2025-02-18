@@ -1,0 +1,5 @@
+ The bar chart titled "Number of refugees admitted to the U.S., by fiscal year" illustrates the number of refugees admitted to the U.S. from fiscal year 1975 to 2018. The x-axis represents the fiscal year, ranging from 1975 to 2018, while the y-axis shows the number of refugees in thousands.
+
+The data reveals a significant decline in refugee admissions in 2018, compared to previous years. In fiscal year 2018, the number of refugees admitted was only 15,000, a sharp decrease from the previous year. This trend is consistent with the overall decline in refugee admissions over the past few years, with the exception of a slight increase in fiscal year 2015.
+
+Overall, the data indicates a decrease in refugee admissions to the U.S. from fiscal year 2018 onwards, with the most significant drop occurring in fiscal year 2018. This trend is likely influenced by various factors, including political climate, immigration policies, and global events.

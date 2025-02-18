@@ -1,0 +1,9 @@
+Weekly broadcast audience for top 20 NPR-affiliated radio stations
+The chart illustrates the average weekly terrestrial listenership for the top 20 NPR-affiliated radio stations from 2015 to 2018. The units are measured in millions.
+
+In 2015, the average weekly listenership was approximately 10 million. This figure saw a notable increase in 2016, reaching around 15 million. The upward trend continued in 2017, with listenership rising to about 20 million. However, in 2018, the listenership slightly declined to just under 20 million.
+
+The data indicates a consistent growth in listenership from 2015 to 2017, reflecting a growing interest in NPR-affiliated radio stations. The slight dip in 2018 suggests a potential plateau or minor fluctuation in audience engagement.
+
+Overall, the average weekly terrestrial listenership for the top 20 NPR-affiliated radio stations demonstrated a significant increase from 2015 to 2017, peaking at around 20 million in 2017 before experiencing a slight decline in 2018. This trend highlights a growing audience base for NPR-affiliated content during this period.
+The first essay is more accurate and detailed in its description of the plot. It provides specific data points for each year from 2015 to 2018, describes the trend of listenership, and offers an analysis of the data. The second essay is less detailed and does not provide a comprehensive description of the plot. Therefore, the correct choice is <FIRST>.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020, measured in millions.
+
+The data reveals a declining trend in mobile customer numbers over the ten-year period. Starting at 35.45 million customers in 2008/09, the number gradually decreased to 30.05 million customers in 2019/2020. Notably, the most significant drop occurred between 2010/11 and 2011/12, with a decrease of 1.41 million customers.
+
+Despite the overall decline, there were some minor fluctuations in the data. For instance, the number of customers increased slightly from 34.54 million in 2009/10 to 32.41 million in 2012/13. However, the subsequent years saw a consistent decline, with the lowest number of customers recorded in 2019/2020 at 30.05 million.
+
+Overall, the data indicates a steady decline in the number of mobile customers of Vodafone in Germany from 2008/09 to 2019/2020. The most significant decrease occurred between 2010/11 and 2011/12, with a subsequent decrease in the following years. The lowest number of customers was recorded in 2019/2020, indicating a continued trend of declining customer numbers.

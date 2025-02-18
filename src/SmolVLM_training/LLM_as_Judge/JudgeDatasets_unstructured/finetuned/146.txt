@@ -1,0 +1,7 @@
+ The bar chart illustrates the average age of ocean cruise passengers in the United Kingdom (UK) from 2005 to 2018.
+
+The data reveals a consistent trend of increasing average age over the years. In 2005, the average age of ocean cruise passengers was 54 years, which gradually rose to 57 years in 2018. The age range from 50 to 59 years was the most common, accounting for approximately 30% of the total passengers.
+
+Interestingly, the age group of 55 to 59 years was the second most common, accounting for about 25% of the passengers. The age group of 60 to 69 years was the third most common, with approximately 15% of the passengers falling into this category.
+
+Overall, the data indicates a gradual increase in the average age of ocean cruise passengers in the UK from 2005 to 2018. The most common age groups were 50 to 59 years, 55 to 59 years, and 60 to 69 years, with the age group of 55 to 59 years being the most common.

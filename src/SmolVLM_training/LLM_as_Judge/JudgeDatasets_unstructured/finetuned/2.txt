@@ -1,0 +1,19 @@
+ The bar chart illustrates the Premier League TV broadcasting rights revenue from 1992 to 2019, measured in million British pounds (GBP). The data is presented in a categorical scale from 1992 to 2019, with each year represented by a separate bar.
+
+The revenue from 1992 to 1997 is represented by a blue bar, starting at 191 million GBP in 1992 and increasing to 670 million GBP in 1997. This indicates a significant increase in revenue over the first five years.
+
+From 1997 to 2001, the revenue remained relatively stable, with a slight increase from 670 million GBP to 1,200 million GBP in 2001.
+
+From 2001 to 2004, the revenue experienced a sharp increase, reaching 1,200 million GBP in 2001, followed by a further increase to 1,200 million GBP in 2004. This indicates a consistent growth trend during this period.
+
+From 2004 to 2007, the revenue continued to rise, reaching 1,024 million GBP in 2004 and 1,024 million GBP in 2007. This indicates a consistent growth trend during this period.
+
+From 2007 to 2010, the revenue experienced a slight decrease, with a decrease from 1,024 million GBP in 2007 to 1,706 million GBP in 2010. This indicates a slight decline in revenue during this period.
+
+From 2010 to 2013, the revenue increased again, reaching 1,773 million GBP in 2010 and 1,773 million GBP in 2013. This indicates a consistent growth trend during this period.
+
+From 2013 to 2016, the revenue experienced a significant increase, reaching 3,018 million GBP in 2013 and 3,018 million GBP in 2016. This indicates a consistent growth trend during this period.
+
+From 2016 to 2019, the revenue continued to increase, reaching 5,136 million GBP in 2016 and 5,136 million GBP in 2019. This indicates a consistent growth trend during this period.
+
+Overall, the data shows a consistent and significant increase in Premier League TV broadcasting rights revenue from 1992 to 2019, with the exception of a slight decline from 2007 to 2010. The revenue has consistently increased over the years, reaching its highest point in 2019.

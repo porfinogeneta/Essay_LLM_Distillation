@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of adults who researched a product or service on different dates, from February 2004 to September 2010.
+
+The data reveals a consistent trend of decreasing percentages of adults who researched a product or service over the years. In February 2004, 9% of adults researched a product or service, which gradually decreased to 13% in February 2005. This decline continued, with 15% of adults researching a product or service in September 2007.
+
+However, the most significant drop in the percentage of adults who researched a product or service occurred between September 2007 and September 2010. By September 2010, the percentage had dropped to 21%, indicating a substantial decrease in the proportion of adults who researched a product or service.
+
+Overall, the data suggests a decline in the percentage of adults who researched a product or service over the years, with the most significant drop occurring between September 2007 and September 2010. This trend highlights a potential shift in consumer behavior or accessibility to information regarding products and services.

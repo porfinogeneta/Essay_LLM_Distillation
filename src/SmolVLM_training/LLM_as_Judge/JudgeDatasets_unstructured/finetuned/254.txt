@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of asylum applications filed in Canada each year from 1996 to 2017. The data reveals a significant increase in asylum applications in recent years, particularly in 2017, where the number of applications surpassed 50,000.
+
+In 1996, the number of asylum applications filed in Canada was approximately 20,000. This number gradually increased over the years, reaching 30,000 in 2001. The trend continued, with the number of applications peaking at 44,640 in 2001.
+
+Following a slight decline in the early 2000s, the number of asylum applications began to rise again, reaching 30,000 in 2006. This upward trend continued, with the number of applications surpassing 40,000 in 2007. The highest number of applications was recorded in 2017, with over 50,000 applications filed.
+
+Overall, the data indicates a significant increase in asylum applications filed in Canada from 1996 to 2017. The most notable spike occurred in 2017, with the number of applications exceeding 50,000, marking a significant increase from the previous years.

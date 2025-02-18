@@ -1,0 +1,9 @@
+ The bar chart illustrates the relationship between the number of internet-connected devices a person owns and their likelihood to use Twitter or another service to update their status. The data is based on a survey conducted from August 18 to September 14, 2009, with a sample size of 1,698 internet users.
+
+The chart reveals a clear trend: the more internet-connected devices a person owns, the more likely they are to use Twitter or another service to update their status.
+
+For instance, only 10% of internet users with one device use Twitter, whereas 39% of those with four or more devices use Twitter. This indicates a significant increase in Twitter usage as the number of devices increases.
+
+Similarly, 19% of internet users with two devices use Twitter, while 28% of those with three devices use Twitter. This further supports the trend of increased Twitter usage with more devices.
+
+Overall, the data suggests that the more internet-connected devices a person owns, the more likely they are to use Twitter or another service to update their status. This trend is particularly pronounced among those with four or more devices, where the likelihood of using Twitter is significantly higher.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the corruption perception index score of Brazil from 2012 to 2019. The index score ranges from 0 to 100, with 0 indicating the highest level of corruption and 100 indicating the lowest level.
+
+In 2012, Brazil's corruption perception index score was 43, indicating a moderate level of corruption. This score increased to 42 in 2013, but then decreased to 43 in 2014. The score further decreased to 38 in 2015, and then further to 40 in 2016.
+
+In 2017, the corruption perception index score increased to 37, indicating a slight improvement. However, the score decreased again to 35 in 2018. In 2019, the score remained at 35, indicating a minimal improvement.
+
+Overall, the corruption perception index score of Brazil has fluctuated over the years, with a general downward trend from 2012 to 2019. The score decreased significantly in 2014 and 2015, but then slightly improved in 2017 and 2018. However, the score remained at a low level in 2019, indicating that Brazil still faces significant challenges in combating corruption.

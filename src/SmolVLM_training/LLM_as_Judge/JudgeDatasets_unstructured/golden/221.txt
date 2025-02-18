@@ -1,0 +1,12 @@
+Number of reported burglary cases in the United States from 1990 to 2019
+
+The bar chart illustrates the number of reported burglary cases in the United States from 1990 to 2019. The data is presented in descending order, with the highest number of cases reported in 1990 and the lowest in 2019.
+
+The chart reveals a significant decline in burglary cases over the three-decade period. In 1990, the number of reported cases was approximately 3,157,200, the highest in the dataset. By 2019, this figure had plummeted to 1,117,696, marking a substantial reduction.
+
+Throughout the 1990s, burglary cases remained relatively high, consistently exceeding 2.5 million annually. However, a noticeable downward trend began in the early 2000s. By 2005, the number of cases had dropped to around 2,144,446, and continued to decrease steadily in subsequent years.
+
+The decline persisted into the 2010s, with burglary cases falling below 2 million by 2011. The trend continued, and by 2019, the number of reported cases had reached its lowest point in the dataset, at 1,117,696. This represents a reduction of nearly two-thirds from the 1990 figure.
+
+Overall, the data indicates a dramatic decrease in burglary cases in the United States from 1990 to 2019. The number of reported cases has more than halved over this period, reflecting a significant improvement in crime rates. The most substantial declines were observed in the early 2000s and continued steadily through the 2010s, culminating in the lowest number of cases in 2019.
+The first essay is more accurate and resembles the plot description provided. It correctly identifies the trend of burglary cases in the United States from 1990 to 2019, noting a significant decline over this period. The second essay, on the other hand, incorrectly suggests an upward trend and includes a numerical value that does not fit the context of the description. Therefore, the correct choice is <FIRST>.

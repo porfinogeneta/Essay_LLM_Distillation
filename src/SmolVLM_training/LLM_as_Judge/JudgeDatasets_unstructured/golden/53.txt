@@ -1,0 +1,10 @@
+Registered cases of murder and manslaughter in Belgium from 2008 to 2019
+
+The bar chart illustrates the number of reported cases of murder and manslaughter in Belgium from 2008 to 2019. The data is presented in terms of the number of cases per million inhabitants.
+
+The chart reveals a fluctuating trend in the number of murder and manslaughter cases over the given period. Starting at 886 cases in 2008, there was a noticeable increase to 951 cases by 2010. The number peaked at 1,072 cases in 2011 before experiencing a slight decline to 1,042 cases in 2012.
+
+From 2013 onwards, the number of cases generally increased, reaching a high of 1,216 cases in 2018. This peak was followed by a slight decrease to 1,146 cases in 2019. The data indicates that the number of murder and manslaughter cases per million inhabitants has generally risen over the decade, with some fluctuations.
+
+Overall, the number of reported cases of murder and manslaughter in Belgium has shown an upward trend from 2008 to 2019, despite some yearly fluctuations. The data suggests a growing concern regarding violent crimes in the country, with the highest number of cases recorded in 2018.
+<SECOND>

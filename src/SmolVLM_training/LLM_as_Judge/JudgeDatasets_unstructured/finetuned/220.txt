@@ -1,0 +1,9 @@
+ The graph shows the median duration of unemployment in the United States from January 2003 to December 2013. The data is presented in a line chart, with the x-axis labeled "Month" and the y-axis labeled "Median duration of unemployment, in months."
+
+The median duration of unemployment fluctuated over the period, with a noticeable increase in the early 2000s. The median duration of unemployment was relatively stable in the late 1990s, ranging from 5 to 7 months. However, it began to rise significantly in 2001, reaching a peak of 15 months in early 2003.
+
+From 2003 to 2005, the median duration of unemployment remained high, hovering around 15 months. It then gradually decreased, reaching a low of 10 months in 2005. The median duration of unemployment then began to rise again, peaking at 25 months in early 2007.
+
+From 2007 to 2010, the median duration of unemployment declined, reaching a low of 10 months in 2010. However, it then began to rise again, reaching a high of 25 months in early 2011. The median duration of unemployment then decreased again, reaching a low of 10 months in 2012.
+
+From 2012 to 2013, the median duration of unemployment remained relatively stable, with a slight increase in 2013. Overall, the median duration of unemployment in the United States fluctuated over the period, with peaks in 2003, 2007, and 2011. However, the median duration of unemployment generally decreased from 2003 to 2013, with a slight increase in 2013.

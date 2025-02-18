@@ -1,0 +1,11 @@
+CHART 
+The pie charts illustrate the distribution of the Hispanic population across various states in the United States, based on data from the 2000 Census.
+
+California and Texas each host the largest Hispanic populations, each accounting for 31% of the total. These two states combined represent a significant majority of the Hispanic population in the U.S.
+
+New York and Florida each have 8% of the Hispanic population, while Texas, with 19%, has the third-largest share. New Jersey, with 3%, has the smallest share among the states listed.
+
+The remaining states collectively account for 11% of the Hispanic population, indicating a more dispersed distribution across other areas.
+
+Overall, California and Texas dominate in terms of Hispanic population, together making up 62% of the total. New York and Florida also have notable shares, while New Jersey has the smallest among the states listed. The rest of the states collectively hold a smaller, yet significant portion of the Hispanic population.
+<FIRST>

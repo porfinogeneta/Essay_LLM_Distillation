@@ -1,0 +1,7 @@
+ The bar chart illustrates the voter turnout in the European Parliament Elections in the European Union (EU) from 1979 to 2019. The data is presented in percentage terms, with the years on the x-axis and the voter turnout on the y-axis.
+
+The chart reveals a general downward trend in voter turnout over the years. In 1979, the voter turnout was at its highest, reaching 61.99%. However, this figure has steadily declined since then, with the lowest turnout recorded in 2019 at 50.62%.
+
+The most significant drop in voter turnout occurred between 1979 and 1984, where the turnout decreased from 61.99% to 58.98%. This decline continued in subsequent years, with the turnout dropping to 56.67% in 1994 and further to 49.51% in 1999. The most notable increase in turnout was observed in 2004, where the turnout rose to 45.47%.
+
+Overall, the voter turnout in the European Parliament Elections in the EU has been declining since 1979, with the exception of a slight increase in 2004. The most significant decline in turnout was observed between 1979 and 1984, followed by a more gradual decline in subsequent years. The highest turnout was recorded in 1979, while the lowest turnout was observed in 2019.

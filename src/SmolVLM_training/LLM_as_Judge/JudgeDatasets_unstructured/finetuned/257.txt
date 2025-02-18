@@ -1,0 +1,11 @@
+ The bar chart illustrates the proportion of the population of Scotland with some weaknesses in English in 2011, categorized by skill level. The data reveals that the majority of the population, 3%, speaks but does not read or write English. This indicates a significant challenge in literacy and language proficiency among the Scottish population.
+
+Furthermore, 1.9% of the population understands but does not speak or read English, highlighting the need for effective communication and language support. Additionally, 0.7% of the population speaks and reads English but does not write, emphasizing the importance of both oral and written communication skills.
+
+A notable 0.4% of the population has other combinations of skills in English, indicating a diverse range of abilities. This suggests that while some individuals may have strong reading and writing skills, others may struggle with comprehension or writing.
+
+A small percentage of the population, 0.2%, has no skills in English, emphasizing the need for language education and support. This highlights the importance of providing resources and opportunities for language learning to ensure that all individuals can communicate effectively in English.
+
+Lastly, 0.1% of the population reads but does not speak or write English, indicating the need for literacy support and language acquisition programs. This underscores the importance of addressing both reading and writing skills to ensure effective communication and integration into society.
+
+Overall, the data reveals a significant challenge in English proficiency among the Scottish population, with a notable proportion of individuals struggling with literacy and language skills. The data highlights the need for targeted language education and support to address these challenges and ensure effective communication and integration.

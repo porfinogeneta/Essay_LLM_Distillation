@@ -1,0 +1,13 @@
+ The bar chart illustrates the percentage of LinkedIn users in the United States who have 1st level connections as of March 2016, categorized by the number of connections they have.
+
+The data reveals that 28% of LinkedIn users have 0-300 connections, indicating a significant portion of users with limited social networks. This percentage is further increased to 27% for users with 301-499 connections, highlighting a gradual increase in the number of connections.
+
+The trend continues with 15% of users having 500-999 connections, and 17% having 1,000-2,999 connections. This indicates a steady rise in the number of connections, reaching 10% for users with 3,000+ connections.
+
+Interestingly, the percentage of users with 1,000-2,999 connections is the highest among the categories, suggesting a significant middle ground in LinkedIn user connections.
+
+Further, only 1% of users have 10,000+ connections, indicating a very small portion of users with extremely large networks.
+
+Overall, the data shows a clear trend of increasing connections among LinkedIn users, with the majority falling within the 1,000-2,999 connections category. The smallest percentage of users have 0-300 connections, while the largest percentage have 1,000-2,999 connections.
+
+This information can be valuable for understanding the social network dynamics among LinkedIn users and the distribution of connections across different user groups.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the global OEM automotive parts sales of Faurecia from 2001 to 2019, measured in million U.S. dollars.
+
+The data reveals a fluctuating trend in Faurecia's OEM automotive parts sales over the years. In 2001, the sales were at 7,500 million U.S. dollars, gradually increasing to 15,000 million U.S. dollars by 2005. The sales peaked in 2014, reaching 25,000 million U.S. dollars, before declining to 20,000 million U.S. dollars in 2015.
+
+From 2015 to 2019, the sales experienced a slight upward trend, reaching 22,000 million U.S. dollars in 2019. Despite the overall increase, the sales remained relatively stable, hovering around 20,000 million U.S. dollars throughout the period.
+
+Overall, Faurecia's global OEM automotive parts sales have fluctuated over the years, with a notable increase in 2014, followed by a decline in 2015 and 2016. The sales stabilized around 20,000 million U.S. dollars from 2017 to 2019, indicating a more consistent market performance.

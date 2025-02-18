@@ -1,0 +1,11 @@
+ The bar chart illustrates the leading countries based on Facebook audience size as of October 2020, measured in millions of Facebook users.
+
+The data reveals that India leads the ranking with a staggering 310 million Facebook users, followed by the United States with 190 million users. Indonesia ranks third with 140 million users, closely followed by Brazil with 130 million users. Mexico and the Philippines are tied at 92 million and 81 million users respectively.
+
+Vietnam and Thailand are the next most popular countries, with 65 million and 50 million users respectively. Egypt and Bangladesh are tied at 44 million and 39 million users, respectively. Pakistan and the United Kingdom are tied at 38 million and 38 million users, respectively. Turkey and Colombia are tied at 37 million and 36 million users, respectively.
+
+France, Argentina, Italy, Germany, and Nigeria are tied at 32 million and 31 million users, respectively. Colombia, France, Argentina, Italy, and Germany are tied at 36 million and 36 million users, respectively. Turkey and Colombia are tied at 37 million and 36 million users, respectively.
+
+The remaining countries, including Bangladesh, Pakistan, the United Kingdom, and Turkey, are tied at 39 million and 38 million users, respectively. France, Argentina, Italy, Germany, and Nigeria are tied at 36 million and 36 million users, respectively. Colombia, France, Argentina, Italy, and Germany are tied at 36 million and 36 million users, respectively. Turkey and Colombia are tied at 37 million and 36 million users, respectively.
+
+Overall, India, the United States, Indonesia, Brazil, and Mexico are the top five countries with the largest Facebook user populations, followed by Vietnam, Thailand, Egypt, Bangladesh, Pakistan, the United Kingdom, and Turkey. The remaining countries are tied at 39 million and 38 million users, with France, Argentina, Italy, Germany, and Nigeria tied at 36 million and 36 million users, respectively.

@@ -1,0 +1,5 @@
+ The bar chart illustrates the percentage of Fortune 500 board members who are women from 1995 to 2015.
+
+The data reveals a gradual increase in the percentage of women on Fortune 500 boards over the years. In 1995, the percentage of women on the boards was around 10%, which gradually increased to approximately 15% by 2005. This trend continued, with the percentage rising to 20% by 2010 and reaching 25% by 2015.
+
+Overall, the data indicates a positive trend in the representation of women on Fortune 500 boards, with a steady increase in their presence over the decade. This suggests a growing awareness and commitment to gender diversity in corporate leadership roles.

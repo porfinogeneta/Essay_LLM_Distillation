@@ -1,0 +1,9 @@
+Circulation at The New Republic Average newsstand salesper issue 5 523
+The bar chart illustrates the average newsstand sales per issue of The New Republic magazine over four periods: the 4th quarter of 2012, the 1st half of 2013, the 2nd half of 2013, and the 1st half of 2014.
+
+The data reveals a significant fluctuation in the average newsstand sales of The New Republic magazine over the specified periods. In the 4th quarter of 2012, the sales were relatively low at 1,942 copies. However, there was a dramatic increase in the 1st half of 2013, with sales peaking at 5,523 copies, marking the highest point in the given timeframe.
+
+Following this peak, the sales experienced a notable decline in the 2nd half of 2013, dropping to 2,376 copies. This downward trend continued into the 1st half of 2014, where the sales further decreased to 1,904 copies, almost returning to the initial level observed in the 4th quarter of 2012.
+
+Overall, the average newsstand sales of The New Republic magazine showed a volatile pattern between 2012 and 2014. The most striking feature is the sharp rise in sales during the 1st half of 2013, followed by a steady decline in the subsequent periods. This suggests that while there was a temporary surge in interest or distribution effectiveness, the magazine struggled to maintain this momentum in the following years.
+<FIRST>

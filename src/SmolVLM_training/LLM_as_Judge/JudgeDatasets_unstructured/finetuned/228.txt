@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of teens who regularly spend time with their closest friend at various locations. The data is presented as a percentage of teens who regularly spend time with their closest friend at each location.
+
+The most common location for teens to spend time with their closest friend is school, with 83% of teens engaging in this activity. This is followed by someone's house, where 58% of teens spend time with their closest friend. Online platforms, such as social media or gaming sites, are also popular, with 55% of teens spending time with their closest friend in this setting.
+
+Sports, clubs, hobbies, and other extracurricular activities are less common, with only 45% of teens engaging in this activity. Neighborhoods are the least common location, with 42% of teens spending time with their closest friend in this setting. Coffee shops, mall stores, and other religious institutions are also relatively uncommon, with 23% of teens spending time with their closest friend in these locations.
+
+Overall, the data suggests that school, someone's house, and online platforms are the most popular locations for teens to spend time with their closest friend. Sports, clubs, hobbies, and other extracurricular activities are less common, while neighborhoods and coffee shops, mall stores, and other religious institutions are the least common locations.

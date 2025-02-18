@@ -1,0 +1,9 @@
+ The bar chart illustrates Barrick Gold's net income from 2008 to 2019, measured in million U.S. dollars.
+
+The data reveals a fluctuating trend in Barrick Gold's net income over the years. In 2008, the company experienced a significant decline, with a net income of -4,274 million U.S. dollars. This was followed by a sharp increase in 2011, reaching 4,666 million U.S. dollars. However, the net income gradually decreased in the subsequent years, reaching 3,954 million U.S. dollars in 2012.
+
+From 2013 onwards, the net income stabilized, with minor fluctuations. In 2013, the net income was 2,569 million U.S. dollars, and it remained relatively stable until 2016, with net incomes of 818 million U.S. dollars in 2016 and 876 million U.S. dollars in 2017.
+
+From 2018 onwards, the net income experienced a slight increase, reaching 409 million U.S. dollars in 2018. However, it decreased again in 2019, with a net income of 902 million U.S. dollars.
+
+Overall, Barrick Gold's net income fluctuated over the years, with notable declines in 2008 and 2011, followed by a period of recovery and stabilization. The net income in 2019 was the lowest among the given years, indicating a continued downward trend.

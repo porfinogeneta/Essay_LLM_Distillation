@@ -1,0 +1,10 @@
+Most popular outdoor activities in the United States from 2009 to 2018 , by number of participants ( in millions )
+
+The bar chart illustrates the number of participants in various outdoor activities in the United States from 2009 to 2018, measured in millions. The activities include running, jogging, and trail running; freshwater, saltwater, and fly fishing; road biking, mountain biking, and BMX; hiking; and car, backyard, and RV camping.
+
+The most popular outdoor activity among Americans during the period was running, jogging, and trail running, with 57.83 million participants in 2018. This activity saw a consistent level of participation, maintaining its top position throughout the years. Freshwater, saltwater, and fly fishing followed, with 49.42 million participants, indicating a strong interest in fishing activities.
+
+Road biking, mountain biking, and BMX had 47.88 million participants, showcasing a significant interest in biking sports. Hiking, with 47.86 million participants, was also a highly favored activity, reflecting a growing trend towards nature-based recreation. Car, backyard, and RV camping had the lowest participation rate at 41.67 million, yet it remained a popular choice for outdoor enthusiasts.
+
+Overall, the data indicates a robust engagement in outdoor activities among Americans, with running, jogging, and trail running being the most popular. Fishing and biking also attracted substantial participation, while hiking and camping remained favored pastimes. The consistent participation rates across these activities highlight the enduring appeal of outdoor recreation in the United States.
+<FIRST>

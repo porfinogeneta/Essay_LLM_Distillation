@@ -1,0 +1,11 @@
+Smartphone job seekers encounter a range of problems navigating online employment resources Among Americans who have used a smartphone as part ofajob search, % who have experienced problems Accessing content
+The bar chart illustrates the percentage of Americans who have encountered various problems while using a smartphone for job searching, based on a survey conducted from June 10 to July 12, 2015.
+
+The most prevalent issues faced by smartphone job seekers were related to accessing content and reading non-mobile optimized job content, with 47% of respondents experiencing difficulties in both areas. This indicates a significant challenge in navigating job search resources that are not optimized for mobile devices.
+
+Other notable problems included entering a large amount of text on a smartphone (38%), submitting required files or supporting documents (37%), and saving or bookmarking jobs for later (23%). These issues highlight the limitations of using smartphones for more complex job application tasks, which often require more detailed input and document handling.
+
+Overall, the data suggests that while smartphones are widely used for job searching, there are substantial barriers related to content accessibility and the usability of job search platforms on mobile devices. Addressing these issues could significantly improve the job search experience for smartphone users.
+The first essay is more accurate and detailed in its description of the plot image provided. It includes specific percentages and a clear categorization of the problems faced by smartphone job seekers, which aligns closely with the data presented in the bar chart. The second essay, while mentioning some of the issues, lacks the detailed breakdown and specific percentages found in the first essay. Therefore, the first essay is the better choice.
+
+Answer: <FIRST>

@@ -1,0 +1,7 @@
+ The bar chart illustrates the usage of electronic medical records (EMR) among primary care physicians in Canada from 2004 to 2018. The data is presented as a percentage of physicians using EMR.
+
+In 2004, the percentage of physicians using EMR was 16%, which gradually increased to 23% in 2005. The percentage further rose to 24% in 2007, followed by a slight increase to 37% in 2009. The percentage then increased significantly to 41% in 2010, and continued to rise to 56% in 2012.
+
+The percentage of physicians using EMR continued to rise, reaching 64% in 2013. This trend continued, with the percentage increasing to 77% in 2014 and 73% in 2015. The percentage further increased to 85% in 2017, and finally, it reached 84% in 2018.
+
+Overall, the usage of EMR among primary care physicians in Canada has shown a consistent upward trend from 2004 to 2018. The percentage of physicians using EMR has increased by over 20% in the last decade, indicating a significant adoption of digital medical records in the healthcare sector.

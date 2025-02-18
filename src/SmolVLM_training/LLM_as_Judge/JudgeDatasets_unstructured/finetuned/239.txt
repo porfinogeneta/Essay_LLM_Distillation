@@ -1,0 +1,9 @@
+ The bar chart illustrates the major producers of cow milk worldwide in 2019, by country. The data is presented in million metric tons.
+
+The EU-28 is the leading producer of cow milk, with a production volume of 155.3 million metric tons in 2019. The United States follows closely, with a production volume of 99.16 million metric tons. India is the third largest producer, with a production volume of 91.3 million metric tons.
+
+Russia and China are the next largest producers, with production volumes of 30.56 million metric tons and 31 million metric tons, respectively. Brazil, New Zealand, and Mexico follow, with production volumes of 24.45 million metric tons, 21.86 million metric tons, and 12.62 million metric tons, respectively. Argentina, Canada, and Ukraine are also significant producers, with production volumes of 10.64 million metric tons, 9.95 million metric tons, and 9.9 million metric tons, respectively.
+
+The remaining countries, including Australia, Belarus, Japan, South Korea, and Taiwan, have relatively lower production volumes, ranging from 8.75 million metric tons to 0.42 million metric tons.
+
+Overall, the EU-28, the United States, and India are the top three major producers of cow milk worldwide in 2019, with production volumes of 155.3 million metric tons, 99.16 million metric tons, and 91.3 million metric tons, respectively.

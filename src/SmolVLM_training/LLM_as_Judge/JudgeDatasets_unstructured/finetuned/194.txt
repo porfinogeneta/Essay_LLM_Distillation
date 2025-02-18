@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of Mercedes cars sold in Turkey from 2012 to 2019. The data is presented in thousands.
+
+The number of Mercedes cars sold in Turkey has fluctuated over the years. In 2012, the number of units sold was 12,730, which increased to 23,100 in 2014. The sales peaked in 2016, with 32,666 units sold, followed by a slight decline in 2017, with 25,588 units sold.
+
+The sales further decreased in 2018, reaching 14,445 units, and further declined in 2019, with only 9,862 units sold.
+
+Overall, the number of Mercedes cars sold in Turkey has shown a downward trend from 2012 to 2019, with the most significant decrease occurring in 2019.

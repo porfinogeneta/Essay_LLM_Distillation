@@ -1,0 +1,7 @@
+ The bar chart illustrates the Bachelor's Degree Attainment Rates Among Hispanic Adults in the United States in 2011, broken down by state. The data is presented as a percentage of Hispanic adults aged 25 and older.
+
+The highest Bachelor's Degree Attainment Rate among Hispanic adults is observed in the District of Columbia, with 36.2% of Hispanic adults aged 25 and older attaining a Bachelor's Degree. This is followed by Virginia, where 24.1% of Hispanic adults aged 25 and older have attained a Bachelor's Degree.
+
+In contrast, the lowest Bachelor's Degree Attainment Rate among Hispanic adults is found in Nevada, with 8.1% of Hispanic adults aged 25 and older having attained a Bachelor's Degree.
+
+Overall, the data reveals significant variations in Bachelor's Degree Attainment Rates among Hispanic adults across different states in the United States in 2011. The highest rates are observed in the District of Columbia and Virginia, while the lowest rates are found in Nevada.

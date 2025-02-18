@@ -1,0 +1,12 @@
+Average length of stay for U.S. students studying abroad in 2018/19
+
+The bar chart illustrates the average length of stay for U.S. students studying abroad in the academic year 2018/19, categorized into short-term (8 weeks or less), mid-length (1 or 2 terms/a semester), and long-term (1 year) durations.
+
+The majority of U.S. students opted for short-term study abroad programs, with 64.9% choosing this duration. This preference indicates a trend towards shorter, more intensive educational experiences overseas.
+
+Conversely, only 2.2% of students chose long-term programs lasting one year. This significantly lower percentage suggests that extended stays abroad are less popular, possibly due to factors such as cost, time commitment, or personal circumstances.
+
+Mid-length programs, lasting one or two terms, were chosen by 32.9% of students. This middle-ground option provides a balance between the immersive experience of long-term study and the brevity of short-term programs.
+
+Overall, the data reveals a clear preference among U.S. students for short-term study abroad programs, with a notable minority opting for mid-length durations and a very small percentage choosing long-term stays. This trend highlights the growing popularity of shorter educational exchanges, likely driven by their flexibility and accessibility.
+The first essay is more accurate and detailed in describing the plot of the bar chart. It provides a comprehensive analysis of the data, categorizing the lengths of stay into short-term, mid-length, and long-term, and explaining the percentages for each category. It also discusses possible reasons for the preferences shown in the data. The second essay is too brief and lacks the detailed analysis and categorization present in the first essay. Therefore, the answer is <FIRST>.

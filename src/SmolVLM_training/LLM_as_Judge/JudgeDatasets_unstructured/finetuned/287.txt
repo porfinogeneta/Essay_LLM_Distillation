@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of successfully crowdfunded projects on Kickstarter.com from 2010 to 2014.
+
+The data reveals a significant increase in the number of crowdfunded projects over the four-year period. In 2010, there were only 3,910 projects, but by 2014, this number had risen to 22,252. This represents a remarkable 14-fold increase in the number of successful projects.
+
+The most notable growth occurred between 2010 and 2012, with the number of projects increasing from 3,910 to 18,109. However, the most dramatic rise occurred between 2012 and 2014, with the number of projects increasing from 18,109 to 22,252. This indicates a consistent and substantial increase in the number of crowdfunded projects over the years.
+
+Overall, the data shows a significant and consistent growth in the number of crowdfunded projects on Kickstarter.com from 2010 to 2014, with the most notable increase occurring between 2012 and 2014. This trend highlights the increasing popularity and success of crowdfunding as a means of funding various projects and initiatives.

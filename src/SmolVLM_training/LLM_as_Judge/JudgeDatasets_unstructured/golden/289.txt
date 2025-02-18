@@ -1,0 +1,10 @@
+Portugal : Infant mortality rate from 2009 to 2019 ( in deaths per 1,000 live births )
+
+The bar chart illustrates the infant mortality rate in Portugal from 2009 to 2019, measured in deaths per 1,000 live births.
+
+The data reveals a consistent trend in infant mortality rates over the decade, with the rate remaining stable at 3.1 deaths per 1,000 live births from 2009 to 2010. This figure slightly decreased to 3 deaths per 1,000 live births from 2011 to 2018, indicating a minor improvement in infant health outcomes.
+
+In 2019, the infant mortality rate saw a slight increase back to 3.1 deaths per 1,000 live births, matching the rate observed in 2009 and 2010. Despite this uptick, the overall trend over the ten-year period suggests a relatively stable and low infant mortality rate in Portugal.
+
+Overall, Portugal has maintained a low and stable infant mortality rate from 2009 to 2019, with minor fluctuations. The rate remained at 3.1 deaths per 1,000 live births in 2009, 2010, and 2019, while it was slightly lower at 3 deaths per 1,000 live births from 2011 to 2018. This stability reflects the countrys consistent efforts in improving infant health care and outcomes.
+<SECOND>

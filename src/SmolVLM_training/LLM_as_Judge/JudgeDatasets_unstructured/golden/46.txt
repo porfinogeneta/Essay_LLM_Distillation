@@ -1,0 +1,12 @@
+Number of active physicians in Wyoming in 2020 , by specialty area
+
+The table provides a detailed breakdown of the number of active physicians in Wyoming in 2020, categorized by their specialty area.
+
+The data reveals that the specialty area with the highest number of physicians is All other specialties, accounting for 213 out of the total 540 physicians. This is followed by Emergency medicine with 74 physicians and Surgery with 68 physicians.
+
+Specialties with fewer physicians include Cardiology (16), Oncology (cancer) (8), and Endocrinology, diabetes, & metabolism (3). Psychiatry and Anesthesiology have a moderate number of physicians, with 54 and 58 respectively.
+
+The total number of physicians across all listed specialties is 540, indicating a diverse but relatively small pool of medical professionals in Wyoming.
+
+Overall, the distribution of physicians in Wyoming shows a significant concentration in general and emergency medical care, with fewer specialists in more specific fields such as cardiology and oncology.
+The first essay is more accurate and detailed compared to the second essay. The first essay provides a comprehensive breakdown of the number of active physicians in Wyoming in 2020, categorized by their specialty area. It includes specific numbers for each specialty, such as All other specialties (213), Emergency medicine (74), Surgery (68), Cardiology (16), Oncology (8), Endocrinology, diabetes, & metabolism (3), Psychiatry (54), and Anesthesiology (58). The first essay also highlights the total number

@@ -1,0 +1,5 @@
+ The line chart illustrates the percentage of Americans aged 12 and older who listen to terrestrial (AM/FM) radio in a given week from 2009 to 2018.
+
+The data reveals a consistent decline in terrestrial radio listenership over the years. In 2009, the percentage was around 90%, but by 2018, it had dropped to approximately 85%. The most significant decrease occurred between 2010 and 2011, where the percentage dropped by about 5%.
+
+Overall, the data indicates a steady decline in terrestrial radio listenership among Americans aged 12 and older from 2009 to 2018. This trend suggests a shift towards digital or streaming platforms for music consumption.

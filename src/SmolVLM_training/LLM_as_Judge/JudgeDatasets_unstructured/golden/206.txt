@@ -1,0 +1,9 @@
+Most adults who grew up in rural areas say there was a gun in the house when they were growing jup % saying there were guns in their household when they were growing up
+The bar chart illustrates the percentage of adults who reported having guns in their household during their upbringing, categorized by the type of area they grew up in. The data is sourced from a survey conducted by the Pew Research Center in 2017.
+
+The chart reveals a significant disparity in the prevalence of guns in households based on the type of area where individuals grew up. A striking 72% of adults who were raised in rural areas reported the presence of guns in their homes during their childhood, which is the highest percentage among all categories.
+
+In contrast, adults who grew up in small towns reported a notably lower percentage, with 52% indicating that there were guns in their households. This figure is followed by those who grew up in suburbs and cities, where the percentages are 37% and 39% respectively. The overall average for all adults is 48%, indicating that nearly half of the surveyed population had guns in their homes during their upbringing.
+
+Overall, the data indicates a clear trend where individuals raised in rural areas are significantly more likely to have been exposed to guns in their households compared to those from urban or suburban backgrounds. The rural-urban divide is evident, with rural areas showing the highest prevalence of household guns, while cities and suburbs report lower percentages. This disparity highlights the varying cultural and social norms related to gun ownership across different types of communities.
+<FIRST>

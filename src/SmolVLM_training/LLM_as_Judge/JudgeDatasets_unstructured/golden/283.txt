@@ -1,0 +1,9 @@
+Public's voice rarely heard in stories about Trump administration % of Trump administration stories that cited each source type
+The bar chart illustrates the percentage of Trump administration stories that cited various source types, based on a content analysis of news stories from January 21 to April 30, 2017.
+
+The most frequently cited source type in stories about the Trump administration was the Trump administration itself, accounting for 74% of the stories. This was followed by news media, which was cited in 35% of the stories. Congressional Republicans and Democrats were also significant sources, cited in 26% and 21% of the stories respectively.
+
+Expert opinions and interest groups were less frequently cited, appearing in 16% and 13% of the stories. Citizen voices were notably rare, cited in only 5% of the stories. Polls and Trump organizations or family members were the least cited sources, appearing in 4% and 1% of the stories respectively.
+
+Overall, the data indicates that the publics voice was rarely heard in stories about the Trump administration, with only 5% of stories citing citizen sources. In contrast, the Trump administration and news media were the dominant sources, cited in 74% and 35% of the stories respectively. This suggests a significant imbalance in the sources of information presented to the public in news stories about the Trump administration.
+The correct answer is <FIRST>.

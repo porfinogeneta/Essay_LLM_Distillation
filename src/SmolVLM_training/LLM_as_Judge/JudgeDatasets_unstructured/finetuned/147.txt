@@ -1,0 +1,7 @@
+ The bar chart illustrates the change in population from 2010 to 2019 in the 25 fastest growing counties in the United States. The data is presented as a percentage change in population.
+
+The chart reveals that Williams County, North Dakota experienced the highest growth rate, with a 67.8% increase in population from 2010 to 2019. Following closely behind was Hays County, Texas, with a 46.5% increase. Wasatch County, Utah, also saw a significant increase, with a 44.9% rise in population over the decade.
+
+Other notable counties with significant growth include Comal County, Texas, Kendall County, Texas, and Sumter County, Florida. These counties all saw increases of over 40%, indicating a substantial population growth.
+
+Overall, the chart highlights the rapid population growth in several counties across the United States, particularly in North Dakota, Texas, Utah, and Florida. This trend suggests a strong demographic shift, possibly driven by factors such as immigration, birth rates, and urbanization.

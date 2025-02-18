@@ -1,0 +1,11 @@
+ The bar chart illustrates the ratio of government expenditure to gross domestic product (GDP) in Switzerland from 2015 to 2025.
+
+In 2015, the ratio of government expenditure to GDP in Switzerland was 33.15%. This figure has remained relatively stable over the subsequent years, with slight fluctuations. In 2016, the ratio increased to 33.23%, and it further increased to 33.18% in 2017. However, it slightly decreased in 2018, reaching 32.67%.
+
+From 2019 to 2021, the ratio of government expenditure to GDP in Switzerland remained relatively stable, hovering around 33%. In 2020, the ratio increased to 37.33%, and it further increased to 34.04% in 2021.
+
+In 2022, the ratio of government expenditure to GDP in Switzerland slightly decreased to 33.57%. This trend continued in subsequent years, with the ratio decreasing to 33.2% in 2023 and 2024.
+
+From 2025 onwards, the ratio of government expenditure to GDP in Switzerland is projected to remain relatively stable, with a slight decrease in 2025 to 32.9%.
+
+Overall, the ratio of government expenditure to GDP in Switzerland has fluctuated over the years, with a slight increase in 2016 and 2017, followed by a decrease in 2018 and 2019. The ratio is projected to remain relatively stable in the future, with a slight decrease in 2025 to 32.9%. This indicates a gradual decline in government expenditure relative to GDP, which may be attributed to economic factors and policy changes.

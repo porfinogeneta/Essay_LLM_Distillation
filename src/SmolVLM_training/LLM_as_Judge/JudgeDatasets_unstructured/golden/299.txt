@@ -1,0 +1,10 @@
+Have you watched Shark Week in the past ?
+
+The bar chart illustrates the responses of individuals regarding their viewership of Shark Week, with data collected on whether they watch it every year, sometimes, at least once, or never.
+
+The data reveals that a significant majority, 55.5%, have never watched Shark Week. In contrast, 19.5% of respondents indicated that they watch it sometimes, while 15.2% have watched it at least once. A smaller fraction, 9.7%, reported watching it every year.
+
+The responses indicate a varied level of engagement with Shark Week among the population. The highest percentage of respondents have never engaged with the program, suggesting either a lack of interest or awareness. Conversely, the minority who watch it every year demonstrate a consistent interest.
+
+Overall, the data indicates that while a portion of the population regularly watches Shark Week, the majority have never participated in this viewing experience. This suggests that while the program has a dedicated audience, it may not have broad appeal across the general population.
+<FIRST>

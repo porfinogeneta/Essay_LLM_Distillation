@@ -1,0 +1,5 @@
+ The bar chart illustrates the number of social network users in the Philippines from 2017 to 2019, with a forecast until 2025. The data is presented in millions.
+
+In 2017, the number of social network users in the Philippines was 67.2 million. This number increased to 72.38 million in 2018 and further to 76.29 million in 2019. The forecast for 2025 predicts a significant increase, with the number of users expected to reach 90.04 million.
+
+Overall, the number of social network users in the Philippines has been steadily increasing from 2017 to 2025, with a projected increase of over 20 million users by 2025. This indicates a growing trend in social media adoption in the country, driven by factors such as technological advancements, increased internet penetration, and evolving consumer behavior.

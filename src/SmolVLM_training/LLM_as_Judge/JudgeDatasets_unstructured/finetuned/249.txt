@@ -1,0 +1,7 @@
+ The pie chart illustrates the level of confidence that Investigative Reporters and Editors (IRE) journalists have in their Internet Service Providers (ISPs) to protect their data. The data is based on a survey conducted in December 2014, with a sample size of 28 journalists.
+
+The chart reveals that a significant majority of IRE journalists (71%) have not much or no confidence in their ISPs to protect their data. This is followed by those who have a lot of confidence (2%), indicating a very small proportion of journalists who trust their ISPs.
+
+On the other hand, a notable 27% of IRE journalists have some confidence in their ISPs, while 2% have a lot of confidence. This suggests that a substantial portion of journalists have a moderate level of trust in their ISPs, albeit not overwhelming.
+
+Overall, the data indicates that most IRE journalists have little confidence in their ISPs to protect their data. This lack of confidence is particularly pronounced, with 71% of journalists expressing no confidence at all. However, a minority (2%) have a lot of confidence, while 2% have a lot of confidence.

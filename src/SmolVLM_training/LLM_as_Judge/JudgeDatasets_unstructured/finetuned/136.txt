@@ -1,0 +1,7 @@
+ The pie chart illustrates the distribution of silicon imports to the United States between 2015 and 2018, by country of origin.
+
+In 2018, the majority of silicon imports to the United States came from Russia, accounting for 20% of the total imports. Other countries, including Brazil and Canada, also contributed significantly to the imports, with Brazil contributing 17% and Canada contributing 15%.
+
+Meanwhile, the remaining 48% of imports originated from other countries, with the largest share coming from the "Other" category, indicating a diverse range of sources.
+
+Overall, the data reveals that Russia was the leading supplier of silicon imports to the United States in 2018, followed by Brazil and Canada. The "Other" category represented a diverse range of countries, indicating a global supply chain for silicon imports.

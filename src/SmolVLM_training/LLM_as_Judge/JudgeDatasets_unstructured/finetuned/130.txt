@@ -1,0 +1,9 @@
+ The bar chart illustrates the average viewers of Apex Legends on Twitch worldwide from February 2019 to November 2020. The data is presented in thousands.
+
+The chart reveals a significant decline in average viewers from February 2019 to November 2020. In February 2019, the average viewers were at their highest, reaching approximately 220,000. However, this number steadily decreased over the following months, reaching a low of 30,000 in November 2020.
+
+The most notable drop in viewers occurred between February and April 2020, where the average viewers dropped by over 100,000. This decline was further exacerbated by the COVID-19 pandemic, which led to widespread lockdowns and social distancing measures. As a result, the average viewers continued to decrease throughout the year, reaching their lowest point in November 2020.
+
+Despite the initial decline, the average viewers began to recover in the latter half of 2020. By October 2020, the average viewers had rebounded to around 50,000, and by November 2020, they had reached approximately 60,000. This recovery trend suggests that the game's popularity may have rebounded after the initial impact of the pandemic.
+
+Overall, the chart indicates a significant decline in average viewers of Apex Legends on Twitch worldwide from February 2019 to November 2020. However, the recovery trend in the latter half of 2020 suggests that the game's popularity may have rebounded after the initial impact of the pandemic.

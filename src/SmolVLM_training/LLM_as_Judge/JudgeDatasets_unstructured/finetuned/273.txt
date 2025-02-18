@@ -1,0 +1,7 @@
+ The bar chart illustrates Halliburton's total assets from 2009 to 2019, measured in billion U.S. dollars.
+
+The data reveals a significant increase in Halliburton's total assets over the decade. Starting at 16.54 billion U.S. dollars in 2009, the assets rose steadily to 27.41 billion U.S. dollars in 2012. This upward trend continued, reaching 32.17 billion U.S. dollars in 2014, and further increasing to 36.94 billion U.S. dollars in 2015.
+
+In 2016, the assets dipped slightly to 27 billion U.S. dollars, but rebounded in 2017, reaching 25.09 billion U.S. dollars. The assets continued to rise, peaking at 36.94 billion U.S. dollars in 2015, before declining to 25.38 billion U.S. dollars in 2019.
+
+Overall, Halliburton's total assets have shown a consistent upward trajectory from 2009 to 2019, with notable fluctuations in the years 2016 and 2019. The most significant increase occurred between 2014 and 2015, indicating a period of rapid growth. However, the decline in 2019 suggests a potential shift in market conditions or corporate strategy.

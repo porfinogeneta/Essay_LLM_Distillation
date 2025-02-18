@@ -1,0 +1,9 @@
+ The bar chart illustrates the worldwide vehicle sales of Skoda from FY 2013 to FY 2019, measured in 1,000 units.
+
+The data reveals a steady increase in Skoda's vehicle sales over the years. In FY 2013, Skoda sold 719 thousand units, which rose to 796 thousand units in FY 2014. This upward trend continued in FY 2015, with sales reaching 800 thousand units.
+
+However, the sales figures dipped slightly in FY 2016, with 814 thousand units sold. The following year, sales rebounded to 937 thousand units, indicating a positive trend.
+
+In FY 2018, Skoda's sales increased again, reaching 957 thousand units. This was followed by a further increase in FY 2019, with sales reaching 1,062 thousand units.
+
+Overall, Skoda's vehicle sales have shown a consistent upward trajectory from FY 2013 to FY 2019, with notable increases in FY 2018 and FY 2019. This indicates a positive market position for Skoda, with a growing consumer base and increasing demand for its vehicles.

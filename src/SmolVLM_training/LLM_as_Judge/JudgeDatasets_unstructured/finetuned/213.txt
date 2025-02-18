@@ -1,0 +1,7 @@
+ The bar chart illustrates the public perception of own social class in Brazil in 2018, based on a survey conducted by Ipsos. The data is presented as a share of respondents, with the highest share of respondents identifying as belonging to the lower middle class (38.2%).
+
+The survey revealed that 25.7% of respondents identified as belonging to the middle class, making it the second most common social class. Conversely, only 1.4% of respondents identified as belonging to the high class, indicating a relatively low proportion compared to other classes.
+
+Furthermore, 3.2% of respondents identified as belonging to the higher middle class, while 2.5% identified as belonging to the lower middle class. Notably, 29.1% of respondents did not know their social class, highlighting the lack of awareness or self-identification among some individuals.
+
+Overall, the data suggests that the majority of Brazilians perceive themselves to belong to the lower middle class, with a smaller proportion identifying as belonging to the higher middle class or the high class. The lowest proportion of respondents identified as belonging to the high class, indicating a potential gap in self-awareness or social class identification among certain segments of the population.

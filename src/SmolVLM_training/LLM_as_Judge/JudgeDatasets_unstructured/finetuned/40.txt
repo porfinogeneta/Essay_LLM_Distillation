@@ -1,0 +1,7 @@
+ The chart illustrates the share of K-12 students with unauthorized immigrant parents in the United States from 1995 to 2012. The data is presented as a line graph, with the y-axis representing the share of K-12 students with unauthorized immigrant parents and the x-axis marked with years.
+
+The chart reveals a significant increase in the share of K-12 students with unauthorized immigrant parents from 1995 to 2012. In 1995, the share was at 3.2%, but by 2012, it had risen to 6.9%. This upward trend indicates a growing proportion of K-12 students with unauthorized immigrant parents over the observed period.
+
+The data shows a gradual increase from 1995 to 2005, with the share rising from 3.2% to 4.6%. However, the most dramatic increase occurred between 2005 and 2012, where the share jumped from 4.6% to 6.9%. This sharp increase suggests a significant change in the demographics of K-12 students in the United States during this time.
+
+Overall, the data indicates a substantial rise in the share of K-12 students with unauthorized immigrant parents from 1995 to 2012. The most significant increase occurred between 2005 and 2012, highlighting a notable shift in the demographics of K-12 students in the United States during this period.

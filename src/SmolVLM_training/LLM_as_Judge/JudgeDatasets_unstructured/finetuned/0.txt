@@ -1,0 +1,9 @@
+ The bar chart illustrates the volume of container-handling ports in Japan in 2012, measured in TEUs (Twenty-foot Equivalent Units).
+
+The data reveals that Tokyo was the largest container-handling port in Japan in 2012, with a volume of 4,751,653 TEUs. This was significantly higher than the volume of Yokohama, which was 3,052,775 TEUs. Nagoya and Kobe followed, with volumes of 2,655,225 and 2,567,540 TEUs respectively.
+
+Osaka ranked fourth with a volume of 2,409,754 TEUs, while Nagoya and Kobe were tied for fifth with 2,655,225 and 2,567,540 TEUs, respectively.
+
+Overall, Tokyo was the dominant container-handling port in Japan in 2012, with a volume significantly higher than other ports. Yokohama, Nagoya, Kobe, and Osaka followed, with varying but notable volumes.
+
+This data highlights the importance of Tokyo as a major container-handling port in Japan, with a substantial volume compared to other ports. The data also indicates the relative importance of Nagoya and Kobe, while Osaka and Nagoya were tied for fifth place.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the per capita real Gross Domestic Product of New Jersey from 2000 to 2019, measured in chained 2012 U.S. dollars.
+
+The data reveals a fluctuating trend in the per capita real GDP of New Jersey over the observed period. Starting at 56,109 chained 2012 U.S. dollars in 2000, the GDP experienced a sharp decline in the subsequent years, reaching a low of 58,095 chained 2012 U.S. dollars in 2003. Subsequently, the GDP recovered, reaching a peak of 63,492 chained 2012 U.S. dollars in 2019.
+
+The most significant increase in the per capita real GDP occurred between 2015 and 2019, with the GDP rising from 60,363 chained 2012 U.S. dollars in 2015 to 63,492 chained 2012 U.S. dollars in 2019. This upward trend suggests a positive economic recovery in New Jersey after the initial decline.
+
+Overall, the per capita real GDP of New Jersey experienced a decline in the early years, followed by a gradual recovery and a subsequent increase in the later years. The most notable increase occurred between 2015 and 2019, indicating a positive economic recovery.

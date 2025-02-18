@@ -1,0 +1,5 @@
+ The bar chart illustrates the share of consumers who bought school supplies in Mexico for the school year 2017/18, by category.
+
+The data reveals that notebooks were the most popular category, with 41% of respondents purchasing them. This was followed by colored pencils or crayons, with 34%, and glue, also with 34%. Pens and markers or highlighters were chosen by 32% and 31% of consumers, respectively. Geometry sets were the least popular, with only 24% of respondents purchasing them.
+
+Overall, notebooks, colored pencils or crayons, and glue were the most popular school supplies, while geometry sets were the least popular. The data suggests that notebooks and colored pencils or crayons are essential items for students, while glue and markers or highlighters are also important for various tasks. Geometry sets, however, are less frequently purchased, indicating a lower demand for these tools.

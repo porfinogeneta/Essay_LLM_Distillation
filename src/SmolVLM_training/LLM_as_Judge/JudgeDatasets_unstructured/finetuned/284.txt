@@ -1,0 +1,7 @@
+ The bar chart illustrates the gross non-performing asset value of Canara Bank from financial year 2018 to 2020, measured in billion Indian rupees.
+
+The data reveals that the gross non-performing asset value of Canara Bank experienced a significant decline from FY 2018 to FY 2020. In FY 2018, the value was at 474.68 billion Indian rupees, whereas in FY 2020, it dropped to 370.41 billion Indian rupees. This indicates a substantial reduction in non-performing assets over the three-year period.
+
+The most notable decrease in the value was observed in FY 2020, where the value decreased by approximately 200 billion Indian rupees compared to FY 2018. This sharp decline suggests a positive trend in the bank's performance, potentially due to improved financial management or reduced non-performing assets.
+
+Overall, the data indicates a significant reduction in the gross non-performing asset value of Canara Bank from FY 2018 to FY 2020. This trend suggests a positive change in the bank's financial performance, with a notable decrease in non-performing assets.

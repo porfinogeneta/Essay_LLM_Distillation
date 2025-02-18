@@ -6,11 +6,13 @@ from dotenv import load_dotenv
 import os
 import re
 import random
-from transformers import Idefics3ForConditionalGeneration, AutoProcessor
-from ..utils import load_data_huggingface, format_data
-from ...Logger.logger import setup_logger
 from tqdm import tqdm
-from ...prompts.judge.judge_decide import prompt as decide_prompt
+from transformers import Idefics3ForConditionalGeneration, AutoProcessor
+from src.SmolVLM_training.utils import load_data_huggingface, format_data, process_essay
+from src.prompts.judge.judge_decide import prompt as decide_prompt
+from src.Logger.logger import setup_logger
+
+
 
 logger = setup_logger()
 load_dotenv("/root/Essay_LLM_Distillation/.env")
@@ -32,7 +34,7 @@ class LLmAsJudge():
 
     def __init__(self, essays_output_path, adapter_path):
         self.client = OpenAI(
-            api_key=os.getenv('OPENAI_API_KEY'),
+            api_key=os.getenv('API_KEY'),
             base_url="https://api.minimaxi.chat/v1",
         )
         self.essays_path = essays_output_path
@@ -171,9 +173,11 @@ class LLmAsJudge():
     def judge_sample_MiniMax(self, idx, sample):
 
         try:
-            essay = sample['essay']
+            # get rid of essay structure for better judgment
+            essay = process_essay(sample['essay'])
             image = sample['image']
             title = sample['title']
+
 
             formatted_sample = format_data(sample)
             
@@ -259,8 +263,8 @@ class LLmAsJudge():
         return scores
 
 if __name__ == "__main__":
-    judge = LLmAsJudge(essays_output_path="/root/Essay_LLM_Distillation/src/SmolVLM_training/LLM_as_Judge/JudgeDatasets_inc_batch",
-                       adapter_path="/home/user/Essay_LLM_Distillation/src/SmolVLM_training/smolvlm-instruct-trl-sft-ChartQA_trained_unstructured")
+    judge = LLmAsJudge(essays_output_path="/root/Essay_LLM_Distillation/src/SmolVLM_training/LLM_as_Judge/JudgeDatasets_unstructured",
+                       adapter_path="/root/Essay_LLM_Distillation/src/SmolVLM_training/smolvlm-instruct-trl-sft-ChartQA_trained_unstructured")
     print(judge.judge_smolVLM(data_repo_id="szymmon/SmolVLM_Essay_Database"))
     # judge.generate_all("finetuned")
     # _, test, _ = load_data_huggingface()

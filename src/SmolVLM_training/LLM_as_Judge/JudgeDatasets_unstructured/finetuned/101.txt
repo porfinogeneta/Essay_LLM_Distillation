@@ -1,0 +1,11 @@
+ The pie chart shows the frequency with which Twitter users check for material posted by others. The data is based on a survey of 2,257 adult internet users aged 18 and older, conducted in November 2010.
+
+The most common frequency of checking for material posted by others was several times a day, with 21% of users reporting this behavior. This was followed by once a day, with 24% of users checking for material posted by others at this frequency.
+
+A significant portion of users checked for material posted by others on a daily basis, with 12% of users reporting this behavior. This was followed by users who checked for material posted by others 1-2 days per week, with 12% of users reporting this frequency.
+
+Interestingly, a smaller percentage of users checked for material posted by others on a weekly basis, with only 12% of users reporting this frequency. However, a notable number of users checked for material posted by others every few weeks, with 12% of users reporting this frequency.
+
+The least frequent frequency of checking for material posted by others was never, with 7% of users reporting this behavior. This was followed by users who checked for material posted by others less often, with 5% of users reporting this frequency.
+
+Overall, the data suggests that a significant portion of Twitter users check for material posted by others several times a day, with a notable minority checking for material posted by others on a daily basis. The frequency of checking for material posted by others varies widely, with some users checking multiple times a day while others never check.

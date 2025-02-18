@@ -1,0 +1,9 @@
+ The chart illustrates the response rate of telephone surveys conducted in the United States from 1997 to 2018. The response rate is defined as the percentage of landlines sampled in each year.
+
+The response rate has been declining steadily over the years, with a notable drop from 36% in 1997 to 6% in 2018. The rate of decline has been more pronounced in recent years, with a significant drop from 28% in 2001 to 9% in 2018.
+
+The response rate has fluctuated over the years, with some years showing higher rates than others. However, the overall trend is downward, indicating a decline in the participation of landlines in telephone surveys.
+
+The data suggests that the use of landlines for telephone surveys has significantly decreased over the years, likely due to the rise of mobile phones and the increasing preference for digital communication. This decline in response rates is a significant challenge for survey researchers, as it may impact the accuracy and reliability of survey data.
+
+Overall, the response rate of telephone surveys has fallen dramatically since 1997, with the most significant decline occurring in recent years. This decline is likely due to the increasing use of mobile phones and the decreasing reliance on landlines for communication.

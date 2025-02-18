@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of K-12 students with at least one parent who is an unauthorized immigrant in the United States in 2014, broken down by state.
+
+The data reveals that Nevada had the highest percentage of K-12 students with unauthorized immigrant parents, at 17.6%. This is significantly higher than the other states, with Texas and California following closely at 13.4% and 12.3% respectively.
+
+Other states with notable percentages include Arizona (12.2%), Colorado (10.2%), and New Mexico (10.1%). Notably, the percentage of K-12 students with unauthorized immigrant parents is relatively lower in the Midwest and Northeast, with Iowa, Illinois, and New York having the lowest percentages at 10.1%, 10.2%, and 10.1% respectively.
+
+Overall, the data indicates that Nevada, Texas, and California have the highest shares of K-12 students with unauthorized immigrant parents in 2014, with Nevada having the highest percentage at 17.6%. This trend suggests that the issue of unauthorized immigrant parents in K-12 education is more prevalent in certain states compared to others.

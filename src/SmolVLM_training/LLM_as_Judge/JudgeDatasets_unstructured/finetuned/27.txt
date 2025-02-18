@@ -1,0 +1,7 @@
+ The bar chart illustrates the distribution of the population in Germany in 2019, by migration background. The data is categorized into four groups: population without migration background, population with migration background (in the wider sense), population with migration background (in the more narrow sense), and among these: Germans with own migration experience, Germans without own migration experience, foreigners with own migration experience, and foreigners without own migration experience.
+
+The data reveals that the majority of the population in Germany in 2019 was population without migration background, accounting for 74%. This is followed by the population with migration background (in the wider sense), which made up 26% of the total population. The population with migration background (in the more narrow sense) represented 6.3% of the total population.
+
+Among Germans with own migration experience, 7.3% of the population were migrants, while 10.5% of Germans without own migration experience were migrants. In contrast, 1.9% of foreigners with own migration experience and 24.5% of foreigners without own migration experience were migrants.
+
+Overall, the data indicates that the majority of the population in Germany in 2019 was population without migration background, with the highest proportion of migrants being among Germans with own migration experience. The data also highlights the increasing proportion of migrants among Germans without own migration experience and foreigners without own migration experience.

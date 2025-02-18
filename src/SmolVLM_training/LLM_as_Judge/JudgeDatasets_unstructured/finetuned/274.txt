@@ -1,0 +1,7 @@
+ The chart illustrates the trends in incarceration rates in the United States from 1980 to 2016, focusing on the number of people incarcerated and the incarceration rate per 100,000 U.S. adults.
+
+The first part of the chart shows the number of people incarcerated in the U.S. from 1980 to 2016, measured in millions. The data reveals a significant increase in incarceration rates over the period. Starting at approximately 0.5 million in 1980, the number of people incarcerated rose steadily, reaching 2.3 million in 2016. This indicates a sharp increase in incarceration, particularly in the latter years of the period.
+
+The second part of the chart depicts the incarceration rate per 100,000 U.S. adults from 1980 to 2016. The data shows a decline in the incarceration rate, from 1,000 in 1980 to 860 in 2016. This trend suggests a reduction in the overall incarceration rate, despite the increasing number of incarcerated individuals.
+
+Overall, the data indicates a sharp increase in incarceration rates in the U.S. from 1980 to 2016, while the incarceration rate per 100,000 U.S. adults has declined over the same period. This suggests a complex relationship between the number of incarcerated individuals and the overall incarceration rate, with the former increasing significantly while the latter shows a downward trend.

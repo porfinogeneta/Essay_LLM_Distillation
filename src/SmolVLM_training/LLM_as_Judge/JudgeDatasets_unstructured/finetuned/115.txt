@@ -1,0 +1,9 @@
+ The bar chart illustrates the military expenditure as a percentage of gross domestic product (GDP) in Singapore from 2000 to 2019.
+
+In 2000, Singapore's military expenditure amounted to 4.5% of its GDP. This figure increased to 4.8% in 2001, and further rose to 4.9% in 2002. By 2003, the expenditure had decreased to 4.9%, but then rose again to 4.4% in 2004.
+
+From 2005 to 2007, the expenditure decreased to 3.9% in 2005, 3.6% in 2006, and 3.6% in 2007. In 2008, the expenditure increased to 3.9%, and then to 3.9% in 2009. From 2010 to 2012, the expenditure remained relatively stable at 3.4% and 3.2%, respectively.
+
+In 2013, the expenditure decreased to 3.1%, and then to 3.1% in 2014. The expenditure remained stable at 3.1% in 2015 and 2016, before increasing slightly to 3.2% in 2017. The expenditure further increased to 3.1% in 2018 and 3.2% in 2019.
+
+Overall, Singapore's military expenditure as a percentage of GDP fluctuated over the years, with a general downward trend from 2000 to 2010. However, it has increased slightly in recent years, reaching 3.2% in 2019.

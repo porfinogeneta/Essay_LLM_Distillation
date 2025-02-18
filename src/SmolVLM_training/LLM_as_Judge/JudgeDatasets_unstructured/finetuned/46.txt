@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of active physicians in Wyoming in 2020, by specialty area. The data is presented in a categorical scale, ranging from "Psychiatry" to "Total specialty," with the number of physicians listed on the y-axis.
+
+The chart reveals that the majority of active physicians in Wyoming specialize in surgery, with 68 physicians. This is followed by anesthesiologists, with 58 physicians, and emergency medicine, with 74 physicians. Radiology and cardiology also have a significant number of active physicians, with 46 and 16 physicians respectively.
+
+In contrast, the specialty area of oncology (cancer) has only 8 physicians, and the category "All other specialties" has 213 physicians. The total number of active physicians in Wyoming in 2020 is 540.
+
+Overall, the chart indicates that the majority of active physicians in Wyoming specialize in surgery, anesthesiology, and emergency medicine. Radiology and cardiology also have a significant number of active physicians, while oncology and other specialties have a relatively lower number.

@@ -1,0 +1,5 @@
+ The bar chart illustrates the number of adults in England who were physically active in 2018/2019, categorized by frequency. The data is presented in millions.
+
+The chart reveals that the majority of adults in England were physically active less than 30 minutes a week, with a total of 11.22 million individuals. This is followed by those who were physically active 30-149 minutes a week, with a total of 5.45 million individuals. The third category, 150+ minutes a week, had the highest number of individuals, with a total of 28.57 million.
+
+Overall, the data indicates that a significant portion of the adult population in England was physically active at a low frequency, with the majority being less than 30 minutes a week. The data also highlights a notable increase in the number of individuals who were physically active for 150+ minutes a week, indicating a trend towards higher frequency of physical activity.

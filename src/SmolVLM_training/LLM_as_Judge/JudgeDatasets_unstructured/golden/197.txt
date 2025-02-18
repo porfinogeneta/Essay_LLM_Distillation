@@ -1,0 +1,10 @@
+Percentage distribution of total luxury tax payments  by Major League Baseball teams from 2003 to 2010
+
+The bar chart illustrates the percentage distribution of total luxury tax payments by Major League Baseball teams from 2003 to 2010. The teams included are the New York Yankees, Boston Red Sox, Detroit Tigers, and Los Angeles Angels.
+
+The New York Yankees had the highest percentage of total luxury tax payments, accounting for a staggering 91.6%. This is significantly higher than the other teams, indicating their substantial financial outlay in this period. In contrast, the Boston Red Sox had a much lower percentage, at just 7.3%, reflecting a more modest contribution to the luxury tax pool.
+
+The Detroit Tigers and Los Angeles Angels had minimal contributions, with the Tigers at 0.6% and the Angels at 0.4%. These figures are negligible compared to the Yankees, highlighting the disparity in financial commitments among the teams. The data suggests that the Yankees were far more aggressive in their spending, likely to maintain a competitive edge.
+
+Overall, the New York Yankees dominated the luxury tax payments, contributing over 90% of the total. The other teams had minimal contributions, with the Boston Red Sox being the next highest at 7.3%. This disparity underscores the financial strategies and priorities of the teams during this period.
+<SECOND>

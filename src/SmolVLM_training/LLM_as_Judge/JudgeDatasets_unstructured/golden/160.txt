@@ -1,0 +1,10 @@
+Number of Polo Ralph Lauren 's Club Monaco stores as of 2020 , by region 
+
+The bar chart illustrates the expenditure on five consumer goods (cars, computers, books, perfume, and cameras) in France and the UK in 2010. The values are measured in pounds sterling.
+
+In terms of expenditure on cars, the UK surpassed France, with spending reaching approximately £450,000 compared to Frances £400,000. Similarly, the UK outspent France on books, with expenditures around £400,000 and £300,000 respectively. The disparity was even more pronounced in the case of cameras, where the UKs expenditure was just over £350,000, more than double Frances £150,000.
+
+Conversely, France exhibited higher spending on computers and perfume. The French spent slightly more than £350,000 on computers, marginally exceeding the UKs £350,000. Although neither country allocated substantial funds to perfume, Frances expenditure was around £200,000, whereas the UKs was under £150,000.
+
+Overall, the UK demonstrated higher expenditure on consumer goods compared to France in 2010. Both nations allocated the largest portion of their budgets to cars, while perfume received the least investment in the UK and cameras in France. The most significant difference in spending between the two countries was observed in the category of cameras.
+<SECOND>

@@ -1,0 +1,11 @@
+ The image presents data on the most common pathways to online news consumption, specifically focusing on the percentage of times individuals accessed news through various channels.
+
+The data is presented in a bar chart format, with the most common pathway being social media at 35%. This is followed by news organizations' websites and apps, with 36% of respondents accessing news through these channels. Search engines and search engine results are the third most common pathway, with 20% of respondents accessing news through them.
+
+News organizations' emails and text alerts are the fourth most common pathway, with 15% of respondents accessing news through these channels. Family or friend emails and text messages are the fifth most common pathway, with 7% of respondents accessing news through these channels. The remaining pathways, including other methods, are relatively less common, with 9% of respondents accessing news through these channels.
+
+Overall, social media and news organizations' websites and apps are the most common pathways to online news consumption, with search engines and search engine results being the third most common. News organizations' emails and text alerts are the fourth most common pathway, while family or friend emails and text messages are the fifth most common. The remaining pathways are relatively less common.
+
+The data suggests that social media and news organizations' websites and apps are the primary channels for accessing news online. Search engines and search engine results are also significant, while news organizations' emails and text alerts are less popular. Family or friend emails and text messages are the least common pathways.
+
+This data can be useful for understanding the habits and preferences of online news consumers. It highlights the importance of social media and news organizations' websites and apps in the digital news landscape.

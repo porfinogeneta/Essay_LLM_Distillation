@@ -1,0 +1,10 @@
+Average number of days waiting for gallstone surgery on the National Health Service in the United Kingdom ( UK ) from 2010 to 2015
+
+The bar chart illustrates the average number of days patients waited for gallstone surgery on the National Health Service (NHS) in the United Kingdom from 2010 to 2015.
+
+In 2010, the average waiting time for gallstone surgery was 73.2 days. This figure saw a notable increase in 2011, reaching 80.6 days, the highest recorded in the given period. However, the waiting time decreased slightly in 2012 to 73.8 days and remained relatively stable in 2013 at 73.1 days.
+
+A significant reduction in waiting times was observed in 2014, with the average dropping to 90.7 days. This positive trend continued into 2015, where the waiting time further decreased to 89.9 days, the lowest in the six-year span.
+
+Overall, the data indicates fluctuations in the average waiting time for gallstone surgery on the NHS between 2010 and 2015. While there was an initial increase in 2011, the subsequent years saw a general decline, culminating in the lowest waiting time in 2015. This suggests an improvement in the efficiency of NHS services over the period.
+<SECOND>

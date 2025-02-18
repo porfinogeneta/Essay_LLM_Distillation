@@ -1,0 +1,7 @@
+ The bar chart illustrates the market volume of big data from 2011 to 2016, measured in million euros. The data reveals a steady increase in market volume over the years, with a notable surge from 2015 onwards.
+
+In 2011, the market volume of big data was approximately 3,377 million euros. This figure rose to 4,564 million euros in 2012, indicating a significant growth in the market during this period. The volume continued to increase in subsequent years, reaching 6,304 million euros in 2013.
+
+From 2014 onwards, the market volume of big data experienced a more pronounced increase. In 2014, the volume was 8,830 million euros, and by 2015, it had risen to 11,957 million euros. This upward trend continued in 2016, with the market volume reaching 15,732 million euros.
+
+Overall, the data indicates a consistent and substantial growth in the market volume of big data from 2011 to 2016. The most significant increase occurred from 2015 to 2016, with the market volume increasing by over 3,000 million euros in just one year. This upward trajectory highlights the increasing importance and adoption of big data solutions in various industries.

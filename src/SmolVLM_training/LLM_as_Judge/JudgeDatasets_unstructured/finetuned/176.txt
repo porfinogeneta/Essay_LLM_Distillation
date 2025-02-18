@@ -1,0 +1,5 @@
+ The bar chart illustrates the results of votes for the electoral college in the 2016 presidential elections in the United States, comparing the votes of Hillary Clinton and Donald Trump.
+
+The data reveals that Hillary Clinton received 232 electoral votes, while Donald Trump received 306 electoral votes. This indicates a significant difference in the votes received by the two candidates, with Trump garnering a larger number of electoral votes.
+
+Overall, the chart highlights a clear disparity in the electoral college votes between Hillary Clinton and Donald Trump, with Trump securing a larger majority of votes.

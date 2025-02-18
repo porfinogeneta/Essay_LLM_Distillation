@@ -1,0 +1,7 @@
+ The line chart illustrates the number of U.S. employees for U.S. affiliates of foreign multinational enterprises in the U.S. from 2007 to 2015.
+
+The data shows a significant increase in the number of U.S. employees for U.S. affiliates of foreign multinational enterprises from 2007 to 2015. In 2007, the number of employees was approximately 5,588,200, whereas in 2015, it had risen to 6,820,700.
+
+The trend indicates a steady increase in the number of employees from 2007 to 2011, with a slight dip in 2012. However, from 2013 onwards, the number of employees began to rise again, reaching a peak of 6,820,700 in 2015.
+
+Overall, the data suggests a positive trend in the number of U.S. employees for U.S. affiliates of foreign multinational enterprises in the U.S. from 2007 to 2015, with a notable increase in the number of employees from 2013 onwards.

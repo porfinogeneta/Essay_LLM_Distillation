@@ -1,0 +1,10 @@
+Average movie ticket price in India in 2013 , by theater type ( in Indian rupees )
+
+The bar chart illustrates the average movie ticket prices in India for different types of theaters in 2013. The prices are categorized into four types: high-end multiplex, multiplex, single screen, and low-end single screen, measured in Indian rupees.
+
+The chart reveals a significant disparity in ticket prices across various types of theaters. High-end multiplexes command the highest prices, averaging ₹239 per ticket. This is followed by regular multiplexes, where the average ticket price is ₹127. Single screen theaters have a considerably lower average ticket price at ₹95.
+
+The most affordable option is the low-end single screen theaters, with an average ticket price of just ₹56. This stark contrast highlights the varying levels of affordability and accessibility of movie-going experiences in India, catering to different economic segments of the population.
+
+Overall, the data indicates a clear trend where the more upscale the theater, the higher the ticket price. High-end multiplexes are the most expensive, while low-end single screen theaters offer the most economical option. This pricing strategy reflects the diverse economic landscape of India, providing entertainment options across different income levels.
+<SECOND>

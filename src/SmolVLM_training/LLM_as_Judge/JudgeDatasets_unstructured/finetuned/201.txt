@@ -1,0 +1,7 @@
+ The bar chart illustrates the share of social media visits in the United States from 4th quarter 2017 to 4th quarter 2019. The data is presented in percentage terms, with the highest share of visits in Q4 2019 at 83%.
+
+Overall, the share of social media visits in the United States has increased consistently from 69% in Q4 2017 to 83% in Q4 2019. The most significant increase was observed in Q4 2019, where the share of visits increased by 14 percentage points compared to the previous quarter.
+
+The data indicates a growing trend in social media usage among Americans, with a notable rise in visits during the latter part of the period. This upward trend suggests an increasing reliance on social media platforms for various activities, including communication, entertainment, and information dissemination.
+
+In conclusion, the data reveals a consistent increase in the share of social media visits in the United States from 4th quarter 2017 to 4th quarter 2019. The most significant increase was observed in Q4 2019, indicating a growing trend in social media usage among Americans.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of adults in Great Britain who have friends over instead of going to a pub or restaurant from 2009 to 2017.
+
+The data reveals a steady increase in the percentage of adults engaging in this activity over the years. In 2009, 76% of respondents stated that they had friends over, which rose to 79% in 2015. However, this trend reversed in 2017, with the percentage dropping to 75%.
+
+Overall, the data indicates a slight decline in the popularity of having friends over for meals in Great Britain from 2009 to 2017. The highest percentage was observed in 2015, with 79%, followed by 77% in 2013. The lowest percentage was recorded in 2017, with 75%.
+
+This trend suggests that while the practice of having friends over for meals remains popular, there is a noticeable decrease in its popularity over the years. The most significant decline was observed in 2017, indicating a potential shift in social habits or preferences among British adults.

@@ -1,0 +1,9 @@
+ The bar chart illustrates the share of urban population in the total population of Laos from 2009 to 2019.
+
+The data reveals a consistent upward trend in the urban population share over the decade. Starting at 29.48% in 2009, the share gradually increased to 30.06% in 2010. This upward trend continued, reaching 31.26% in 2012 and 31.87% in 2013.
+
+From 2014 onwards, the urban population share continued to rise, peaking at 33.11% in 2015. This was followed by a slight decline, with the share dropping to 33.74% in 2016. However, the trend reversed again, with the urban population share increasing to 34.37% in 2017 and 35% in 2018.
+
+In 2019, the urban population share reached its highest point, at 35.65%. This indicates a significant increase in urbanization in Laos over the past decade, with the urban population share projected to continue rising in the future.
+
+Overall, the data shows a consistent upward trend in the urban population share in Laos from 2009 to 2019. This trend is likely driven by factors such as economic development, urbanization, and migration from rural areas to urban centers.

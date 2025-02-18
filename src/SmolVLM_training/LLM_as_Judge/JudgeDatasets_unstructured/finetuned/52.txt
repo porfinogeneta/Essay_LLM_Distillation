@@ -1,0 +1,7 @@
+ The bar chart illustrates the revenue of the tourism and services sector in Brazil during Carnival from 2012 to 2020, measured in billion Brazilian reals.
+
+The data reveals a general upward trend in revenue over the years, with notable peaks in 2013 and 2014, reaching 9.35 billion reals and 9.07 billion reals, respectively. However, the revenue decreased in the subsequent years, reaching 7.91 billion reals in 2016 and 7.75 billion reals in 2018.
+
+From 2019 onwards, the revenue gradually increased, reaching 7.99 billion reals in 2020. This indicates a recovery in the tourism sector after the initial decline in 2016 and 2018.
+
+Overall, the revenue of the tourism and services sector in Brazil during Carnival from 2012 to 2020 fluctuated, with peaks in 2013 and 2014, followed by a decline in subsequent years. However, the sector experienced a recovery in 2019 and 2020, with revenue increasing to 7.99 billion reals in 2020.

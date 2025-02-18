@@ -1,0 +1,9 @@
+ The chart illustrates the percentage of individuals who perceive serving on a jury as a part of good citizenship, broken down by age group and educational attainment.
+
+Overall, the data reveals that younger individuals (ages 18-29) are less likely to view jury duty as a part of good citizenship compared to older age groups. This trend is consistent across all educational attainment levels, with the exception of those with a college degree, who are more likely to see jury duty as a civic duty.
+
+Specifically, 50% of individuals aged 18-29 perceive jury duty as a part of good citizenship, compared to 71% of those aged 30-49 and 78% of those aged 65 and above. Similarly, 59% of individuals with a high school education or less perceive jury duty as a civic duty, while 72% of those with some college education and 72% of those with a college degree view it as such.
+
+The data suggests that higher levels of education are associated with a greater likelihood of perceiving jury duty as a civic duty. Conversely, younger age groups are less likely to view jury duty in this light.
+
+In summary, the data indicates that younger individuals (ages 18-29) are less likely to perceive jury duty as a part of good citizenship compared to older age groups. This trend is consistent across all educational attainment levels, with the exception of those with a college degree.

@@ -1,0 +1,9 @@
+ The bar chart illustrates the percentage of Americans with favorable views of state and local governments, broken down by political affiliation. The data is collected from Pew Research Center's March 13-17, 2013 survey.
+
+Overall, the data shows that Republicans have a more favorable view of state and local governments compared to Democrats. While Democrats have a higher percentage of favorable views for both state and local governments, Republicans have a significantly higher percentage of favorable views for state governments, with 57% expressing a favorable opinion.
+
+In contrast, Democrats have a higher percentage of favorable views for local governments, with 63% expressing a favorable opinion. This difference in views is particularly evident in the local government category, where Democrats have a 10 percentage point advantage over Republicans.
+
+Interestingly, the gap between Republicans and Democrats is narrower for state governments. While Republicans have a 16 percentage point advantage, Democrats have a 13 percentage point advantage. This suggests that the partisan divide in views of state governments is less pronounced than in views of local governments.
+
+In summary, the data indicates that Republicans have a more favorable view of state and local governments compared to Democrats. The gap in views is particularly evident in state governments, with Republicans having a 16 percentage point advantage, while Democrats have a 13 percentage point advantage. However, the gap is narrower in local governments, with Democrats having a 10 percentage point advantage.

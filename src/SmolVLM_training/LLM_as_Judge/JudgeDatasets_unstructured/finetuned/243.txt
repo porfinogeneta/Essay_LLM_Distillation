@@ -1,0 +1,7 @@
+ The bar chart illustrates the state minimum wage rates in the United States as of January 1, 2020, by state. The data is presented in U.S. dollars.
+
+The chart reveals that the highest minimum wage rate is in Washington, at $13.50 per hour, followed by California at $13. The lowest minimum wage rate is in Wyoming, at $5.15 per hour.
+
+Overall, the minimum wage rates vary significantly across states, with some states offering higher rates than others. The highest minimum wage rates are found in the West, while the lowest rates are in the South and Midwest.
+
+The data indicates that the minimum wage rates in the United States are not uniform across all states. Some states have higher minimum wage rates than others, reflecting regional economic conditions and labor market dynamics.

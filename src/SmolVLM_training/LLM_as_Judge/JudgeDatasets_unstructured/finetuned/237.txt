@@ -1,0 +1,9 @@
+ The bar chart illustrates the U.S. domestic production of Portland and masonry cement from 2007 to 2019, measured in 1,000 metric tons.
+
+The data reveals a consistent upward trend in cement production over the decade. In 2007, the production was at approximately 100,000 metric tons, which increased to 110,000 metric tons in 2008. The production further rose to 110,000 metric tons in 2009, followed by a slight decline to 100,000 metric tons in 2010.
+
+From 2011 onwards, the production steadily increased, reaching 110,000 metric tons in 2011 and 120,000 metric tons in 2012. The production continued to rise, peaking at 130,000 metric tons in 2013. Subsequently, it fluctuated slightly, reaching 120,000 metric tons in 2014 and 130,000 metric tons in 2015.
+
+From 2016 to 2019, the production remained relatively stable, with the highest production in 2017 at 130,000 metric tons. The production decreased slightly in 2018 to 120,000 metric tons, and further decreased in 2019 to 110,000 metric tons.
+
+Overall, the data indicates a consistent upward trend in U.S. domestic production of Portland and masonry cement from 2007 to 2019, with the production peaking in 2013 at 130,000 metric tons. The production fluctuated slightly in subsequent years, but overall, it remained relatively stable.

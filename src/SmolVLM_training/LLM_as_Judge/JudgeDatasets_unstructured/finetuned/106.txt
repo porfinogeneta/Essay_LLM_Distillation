@@ -1,0 +1,9 @@
+ The chart illustrates the gross domestic product (GDP) per capita in current prices in Zimbabwe from 1994 to 2024, measured in U.S. dollars.
+
+The GDP per capita in Zimbabwe has experienced a fluctuating trend over the years. In 1994, the GDP per capita was at 714.03 U.S. dollars. It gradually increased from 1994 to 2000, reaching a peak of 969.82 U.S. dollars in 2000. Subsequently, the GDP per capita declined, reaching a low of 553.38 U.S. dollars in 2008.
+
+From 2008 to 2010, the GDP per capita experienced a sharp decline, falling to 975.85 U.S. dollars in 2010. However, it rebounded in the subsequent years, reaching a peak of 1,516.28 U.S. dollars in 2017. Subsequently, the GDP per capita declined again, reaching a low of 859.95 U.S. dollars in 2020.
+
+From 2020 to 2024, the GDP per capita has shown a gradual recovery, albeit at a slower pace compared to the previous years. It increased from 859.95 U.S. dollars in 2020 to 934.97 U.S. dollars in 2024.
+
+Overall, the GDP per capita in Zimbabwe has fluctuated over the years, with notable peaks and troughs. The most significant increases occurred in the early 2000s, followed by a decline in the late 2000s and early 2010s. The recovery in recent years suggests a positive trend, although at a slower pace compared to the previous decades.

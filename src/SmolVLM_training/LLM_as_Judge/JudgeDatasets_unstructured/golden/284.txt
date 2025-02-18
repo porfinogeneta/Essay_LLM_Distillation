@@ -1,0 +1,10 @@
+Gross non-performing asset value at Canara Bank from financial year 2018 to 2020 ( in billion Indian rupees )
+
+The bar chart illustrates the gross non-performing asset (NPA) value at Canara Bank over three financial years: 2018, 2019, and 2020. The values are measured in billion Indian rupees.
+
+In the financial year 2018, Canara Bank reported the highest gross NPA value at 474.68 billion Indian rupees. This figure represents the peak of non-performing assets within the given timeframe. The subsequent year, 2019, saw a notable decline in the gross NPA value, dropping to 392.24 billion rupees. This reduction indicates an improvement in the banks asset quality and potentially more effective risk management strategies.
+
+By the financial year 2020, the gross NPA value further decreased to 370.41 billion rupees. This downward trend suggests a continued effort by the bank to address and mitigate the issue of non-performing assets. The consistent reduction over the three-year period highlights the banks proactive measures in managing its asset portfolio and enhancing financial stability.
+
+Overall, the data indicates a positive trend in the reduction of gross non-performing assets at Canara Bank from 2018 to 2020. The banks gross NPA value decreased significantly from 474.68 billion rupees in 2018 to 370.41 billion rupees in 2020, reflecting effective asset management and risk mitigation strategies.
+<FIRST>

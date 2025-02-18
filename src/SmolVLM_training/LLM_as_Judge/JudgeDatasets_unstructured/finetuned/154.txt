@@ -1,0 +1,9 @@
+ The line chart illustrates the percentage of adults ages 18 and older who are married in the United States from 1960 to 2016.
+
+The data reveals a significant decline in the percentage of married adults over the past six decades. In 1960, approximately 72% of adults were married, whereas in 2016, this figure dropped to 50%. This trend indicates a substantial decrease in marriage rates over the years, with the most notable decline occurring between 1960 and 1980.
+
+The data also highlights a gradual increase in the percentage of married adults from 1980 to 2000, reaching a peak of 70% in 1980. However, this upward trend reversed after 2000, and the percentage of married adults fell again, reaching 50% by 2016.
+
+Overall, the data suggests a declining trend in marriage rates among adults in the United States, with the most significant decrease occurring between 1960 and 1980. The data also indicates a gradual increase in marriage rates from 1980 to 2000, followed by a decline again after 2000.
+
+The data is sourced from Pew Research Center analysis of decennial censuses, 2006-2015 American Community Surveys (IPUMS) and U.S. Census Bureau’s 2016 American Community Survey 1-Year estimates.

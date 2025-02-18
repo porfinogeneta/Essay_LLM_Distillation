@@ -1,0 +1,9 @@
+ The bar chart illustrates the revenue of the mechanical engineering industry in India from 2006 to 2015, measured in billion U.S. dollars.
+
+The revenue of the mechanical engineering industry in India has shown a fluctuating trend over the years. In 2006, the revenue was at 21.27 billion U.S. dollars, which increased to 28.37 billion U.S. dollars in 2007. However, the revenue decreased to 29.55 billion U.S. dollars in 2008, followed by a slight increase to 30.73 billion U.S. dollars in 2009.
+
+From 2010 onwards, the revenue of the mechanical engineering industry in India experienced a significant rise. In 2010, the revenue was at 43.73 billion U.S. dollars, and it continued to increase in subsequent years. By 2011, the revenue had reached 46.09 billion U.S. dollars, and it further increased to 41.37 billion U.S. dollars in 2012.
+
+In 2013, the revenue of the mechanical engineering industry in India experienced a slight decline, reaching 34.27 billion U.S. dollars. However, it rebounded in 2014, with the revenue reaching 37.82 billion U.S. dollars. The revenue further increased in 2015, reaching 40.18 billion U.S. dollars.
+
+Overall, the revenue of the mechanical engineering industry in India has shown a positive trend from 2006 to 2015, with a notable increase in revenue from 2010 onwards. The revenue peaked in 2011, followed by a slight decline in 2013, but it rebounded in subsequent years, reaching the highest value in 2015.

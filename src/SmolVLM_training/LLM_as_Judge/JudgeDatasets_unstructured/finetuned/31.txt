@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of Latin-American air traffic passengers traveling to or from the United States from 2006 to 2020, measured in millions of passengers.
+
+The data reveals a steady and consistent upward trend in air traffic passengers from Latin-American countries to the United States from 2006 to 2020. In 2006, the number of passengers was 47 million, which increased to 91 million in 2020.
+
+The most significant increase in air traffic passengers occurred between 2015 and 2017, with the number of passengers rising from 75 million in 2015 to 82 million in 2017. This upward trend continued in subsequent years, with the number of passengers reaching 91 million in 2020.
+
+Overall, the data indicates a significant increase in air traffic passengers from Latin-American countries to the United States from 2006 to 2020, with the most notable growth occurring between 2015 and 2017. The continued increase in passengers from 2017 to 2020 suggests a sustained positive trend in air travel between the two regions.

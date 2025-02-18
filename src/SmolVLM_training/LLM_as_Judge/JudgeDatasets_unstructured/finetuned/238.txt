@@ -1,0 +1,5 @@
+ The bar chart illustrates the number of pharmacies in Spain from 2007 to 2019. The data reveals a steady increase in the number of pharmacies over the years, with a notable rise from 2010 onwards.
+
+In 2007, there were approximately 20,941 pharmacies in Spain. This number gradually increased to 21,057 in 2008, followed by a slight decline in 2009 to 21,164. From 2010 onwards, the number of pharmacies has consistently increased, reaching 22,102 in 2019.
+
+Overall, the data indicates a consistent upward trend in the number of pharmacies in Spain from 2007 to 2019, with the most significant growth occurring from 2010 to 2019. This suggests an expanding healthcare infrastructure and increased demand for pharmacy services in the country.

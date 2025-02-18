@@ -1,0 +1,7 @@
+ The bar chart illustrates the national debt of Ireland from 2014 to 2024, measured in billion U.S. dollars.
+
+The data reveals a consistent upward trend in Ireland's national debt over the period. Starting at approximately 223.78 billion U.S. dollars in 2014, the debt steadily increased to 224.31 billion U.S. dollars in 2024. This indicates a gradual but consistent rise in the country's debt burden.
+
+The most notable increase in the national debt occurred between 2018 and 2019, where it rose from 226.92 billion U.S. dollars to 229.83 billion U.S. dollars. This sharp rise suggests a potential economic challenge or policy change that impacted the country's financial situation.
+
+Overall, the national debt of Ireland has shown a consistent upward trajectory from 2014 to 2024, with notable increases in 2018 and 2019. This trend indicates a growing financial burden on the country, which may be influenced by economic factors or policy changes.

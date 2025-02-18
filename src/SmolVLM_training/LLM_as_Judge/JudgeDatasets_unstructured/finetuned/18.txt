@@ -1,0 +1,13 @@
+ The bar chart illustrates the number of wholesale shipments of motorhomes in the United States from 2007 to 2019, measured in thousands.
+
+The data reveals a fluctuating trend in the number of motorhome shipments over the years. In 2007, the number of shipments peaked at 55.4 thousand, marking the highest point in the period. Subsequently, there was a decline, with shipments dropping to 28.3 thousand in 2008. However, the trend reversed in 2009, with shipments rising to 13.2 thousand, indicating a recovery.
+
+From 2010 to 2012, the number of shipments remained relatively stable, fluctuating between 25.2 thousand and 24.8 thousand. In 2013, the number of shipments increased to 38.3 thousand, marking another significant increase. This trend continued in 2014, with shipments reaching 43.9 thousand, the highest point in the period.
+
+Following the peak in 2014, the number of shipments decreased again, reaching 47.31 thousand in 2015. However, the trend reversed in 2016, with shipments increasing to 54.74 thousand, the second highest point in the period.
+
+In 2017, the number of shipments reached a new peak, with shipments totaling 62.64 thousand. This trend continued in 2018, with shipments reaching 57.59 thousand, the third highest point in the period.
+
+Finally, in 2019, the number of shipments decreased again, reaching 46.63 thousand, the lowest point in the period.
+
+Overall, the data indicates a fluctuating trend in the number of wholesale shipments of motorhomes in the United States from 2007 to 2019. The highest point in the period was in 2014, with shipments reaching 62.64 thousand, followed by 2017, with shipments reaching 62.64 thousand. The lowest point in the period was in 2019, with shipments reaching 46.63 thousand.

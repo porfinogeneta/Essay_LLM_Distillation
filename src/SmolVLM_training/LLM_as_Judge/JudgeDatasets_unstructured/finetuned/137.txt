@@ -1,0 +1,7 @@
+ The bar chart illustrates the monthly number of long-term unemployed persons in the U.S. from November 2019 to November 2020, adjusted to millions. The data is presented in a bar chart format, with each bar representing a month from November 2019 to November 2020.
+
+The chart reveals a significant increase in the number of long-term unemployed persons from November 2019 to November 2020. In November 2019, the number of long-term unemployed persons was at 1.22 million. This number gradually increased over the following months, reaching 1.19 million in December 2019.
+
+From January 2020, the number of long-term unemployed persons began to rise sharply. By January 2020, the number had increased to 1.17 million. This trend continued throughout the year, with the number peaking at 3.94 million in November 2020.
+
+Overall, the data indicates a substantial increase in the number of long-term unemployed persons in the U.S. from November 2019 to November 2020. The most significant increase was observed in the months of November 2020, with the number of long-term unemployed persons reaching a peak of 3.94 million. This trend highlights the impact of the COVID-19 pandemic on the labor market, with a notable rise in long-term unemployment.

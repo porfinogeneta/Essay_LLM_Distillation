@@ -1,0 +1,5 @@
+ The bar chart illustrates the global prevalence of chronic respiratory diseases as of 2007, with estimates provided in millions. The data is categorized by disease type, with the most prevalent being allergic rhinitis (1996-2006) at 400 million persons.
+
+The prevalence of asthma (2004) is also significant, with 300 million persons affected. Chronic obstructive pulmonary disease (2000) ranks third, with 210 million individuals experiencing this condition. Sleep apnea syndrome (1986-2002) and other respiratory diseases (2006) are relatively lower, with 100 million and 50 million persons affected, respectively.
+
+Overall, the data indicates a substantial global prevalence of chronic respiratory diseases, with allergic rhinitis and asthma being the most prevalent. The prevalence of chronic obstructive pulmonary disease and sleep apnea syndrome is also significant, while other respiratory diseases are relatively less prevalent.

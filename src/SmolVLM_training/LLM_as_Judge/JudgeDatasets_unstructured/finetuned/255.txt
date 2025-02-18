@@ -1,0 +1,7 @@
+ The chart illustrates the policy outlays by category in 2011, with a breakdown by category. The data is presented as a pie chart, where each slice represents a specific category.
+
+The largest category is Net Interest, which accounts for the largest portion of the total outlays. This category is followed by Social Security, Medicare, Medicaid, and Non-Security Discretionary, which also contribute significantly to the total outlays. Other Mandatory Programs and Disaster Costs are the smallest category, accounting for a relatively small portion of the total outlays.
+
+The chart highlights the dominance of Net Interest and Social Security in the policy outlays, while other categories contribute a smaller but still notable share. The data suggests that Net Interest and Social Security are the primary drivers of policy outlays, while other categories are relatively less significant.
+
+Overall, the chart provides a clear visual representation of the policy outlays by category in 2011, with Net Interest and Social Security being the largest contributors and other categories contributing a smaller but still notable share.

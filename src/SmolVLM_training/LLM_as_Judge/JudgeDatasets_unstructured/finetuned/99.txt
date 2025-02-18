@@ -1,0 +1,9 @@
+ The bar chart illustrates the infant mortality rate in Cote d'Ivoire from 2009 to 2019, measured in deaths per 1,000 live births.
+
+The data reveals a consistent decline in infant mortality rates over the decade. In 2009, the rate stood at 76.7 deaths per 1,000 live births, which gradually decreased to 58.6 deaths per 1,000 live births in 2019.
+
+The most significant decrease was observed between 2009 and 2010, with a drop of 10.8 deaths per 1,000 live births. This trend continued, with a further decrease of 10.1 deaths per 1,000 live births between 2010 and 2011.
+
+From 2011 onwards, the infant mortality rate stabilized, with minor fluctuations. Notably, the rate remained relatively stable between 2011 and 2013, with a slight decrease of 0.8 deaths per 1,000 live births.
+
+Overall, the infant mortality rate in Cote d'Ivoire has shown a downward trend from 2009 to 2019, indicating improvements in healthcare and living conditions. The most significant decrease was observed between 2009 and 2010, followed by a period of relative stability. The most recent data indicates a continued decline, with the infant mortality rate in 2019 being the lowest recorded in the decade.

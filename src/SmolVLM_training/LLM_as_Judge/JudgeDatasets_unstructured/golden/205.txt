@@ -1,0 +1,9 @@
+The Last 100 Million: Percent Distribution
+The bar chart illustrates the percent distribution by race and ethnicity of the last 100 million people in the United States, categorized into four groups: Hispanic, White, Black, and Asian and Pacific Islander (API).
+
+The Hispanic population constitutes the largest group, accounting for 36% of the last 100 million people. This is closely followed by the White population, which makes up 34% of the total. The Black population represents 16%, while the API group forms the smallest segment at 13%.
+
+The data indicates a significant representation of Hispanic and White populations in the recent demographic changes. The Hispanic populations share is slightly higher than that of the White population, suggesting a growing influence of Hispanic communities. The Black and API populations, while smaller in comparison, still represent notable portions of the demographic landscape.
+
+Overall, the Hispanic and White populations dominate the recent demographic changes, together making up 70% of the last 100 million people. The Black and API populations, though smaller, contribute significantly to the diversity of the population. This distribution highlights the multicultural nature of the United States and the shifting demographic trends over recent years.
+<FIRST>

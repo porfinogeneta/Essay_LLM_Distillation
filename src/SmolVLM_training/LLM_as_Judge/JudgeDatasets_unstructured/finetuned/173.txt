@@ -1,0 +1,7 @@
+ The chart illustrates the percentage of social networking site users who have engaged in various activities related to news sharing and discussion. The data is based on a survey conducted by the Pew Research Center from February 27 to March 2, 2014.
+
+The most common activity among social networking site users is sharing or reposting news stories, images, or videos, with 50% of respondents engaging in this behavior. This is followed by discussing a news issue or event, with 46% of respondents engaging in this activity.
+
+The least common activity is posting videos they took of a news event, with only 12% of respondents engaging in this behavior. This is significantly lower than the other activities, indicating that users are more likely to share or discuss news content rather than create their own videos.
+
+Overall, the data suggests that social networking site users are more likely to share or discuss news content than to create their own videos. This highlights the role of social media in facilitating news dissemination and engagement, with users primarily focusing on sharing and discussing rather than producing original content.

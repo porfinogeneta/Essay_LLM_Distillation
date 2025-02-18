@@ -1,0 +1,11 @@
+ The bar chart illustrates the gross domestic product (GDP) growth rate in Central and Eastern European countries in the 2nd quarter of 2020, with a focus on the EU and Euro area. The data is presented in volume terms, with a negative value indicating a decline in GDP.
+
+The chart reveals that the EU and Euro area experienced the most significant decline in GDP growth rate, with a negative value of -14.1% and -15%, respectively. This indicates a substantial contraction in economic activity within these regions during the specified period.
+
+Poland, Bulgaria, and Latvia also witnessed a notable decline in GDP growth, with values of -7.9%, -8.2%, and -9.6%, respectively. These figures suggest a moderate contraction in economic activity, albeit less severe than in the EU and Euro area.
+
+In contrast, Lithuania, Romania, and Czechia experienced a more moderate decline in GDP growth, with values of -3.7%, -10.5%, and -10.7%, respectively. These figures indicate a less severe contraction compared to the EU and Euro area, but still a significant impact on their economies.
+
+Slovakia and Hungary also experienced a decline in GDP growth, with values of -12.1% and -13.5%, respectively. These figures suggest a moderate contraction in economic activity, similar to the other countries, but with a slightly higher rate of decline.
+
+Overall, the chart highlights the significant impact of the COVID-19 pandemic on GDP growth in Central and Eastern European countries. The EU and Euro area experienced the most severe decline, with the EU and Euro area experiencing the most significant contraction in GDP growth. Poland, Bulgaria, and Latvia also witnessed a notable decline, while Lithuania, Romania, and Czechia experienced a more moderate contraction. Slovakia and Hungary also experienced a decline, with Slovakia experiencing the most severe contraction.

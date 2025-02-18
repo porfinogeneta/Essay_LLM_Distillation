@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of assists of the leading players of the Serie A soccer league in Italy in the season 2020/2021, by number of assists.
+
+The data reveals that Federico Chiesa and Henrik Mkhitaryan were the top two players with 4 assists each, followed by Nicolò Barella with 3 assists. Cristiano Biraghi and Dries Mertens also had 3 assists each, while Rafael LeÃ§Ã£o and Roberto Soriano had 3 assists each.
+
+Overall, the top three players in terms of assists were Federico Chiesa, Henrik Mkhitaryan, and NicolÃ© Barella, with each player contributing 4 assists. The remaining players, Cristiano Biraghi, Dries Mertens, Rafael LeÃ§Ã£o, and Roberto Soriano, all contributed 3 assists each.
+
+This data highlights the significant contributions of these players to their teams' success in the Serie A soccer league in the season 2020/2021.

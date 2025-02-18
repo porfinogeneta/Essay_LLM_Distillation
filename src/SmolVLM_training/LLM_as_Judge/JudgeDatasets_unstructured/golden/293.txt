@@ -1,0 +1,10 @@
+Number of physicians in Mexico from 2006 to 2018 ( in 1,000s )
+
+The bar chart illustrates the number of physicians in Mexico from 2006 to 2018, measured in thousands.
+
+The data reveals a consistent upward trend in the number of physicians in Mexico over the given period. Starting at 202.32 thousand in 2006, the number steadily increased each year, reaching 305.99 thousand by 2018.
+
+The most notable increments occurred between 2013 and 2014, and again between 2016 and 2017, where the number of physicians rose by approximately 10 thousand each year. This consistent growth indicates a positive trend in the medical workforce in Mexico.
+
+Overall, the number of physicians in Mexico has shown a steady and significant increase from 2006 to 2018, reflecting a growing medical workforce in the country. The data suggests a positive development in the healthcare sector, with the number of physicians rising from just over 200 thousand to nearly 306 thousand over the 12-year period.
+<SECOND>

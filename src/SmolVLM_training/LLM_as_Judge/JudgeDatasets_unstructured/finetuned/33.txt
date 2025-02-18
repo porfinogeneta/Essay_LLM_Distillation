@@ -1,0 +1,9 @@
+ The bar chart illustrates the global revenue of LVMH Group's selective retailing segment from 2008 to 2019, measured in million euros.
+
+The data reveals a steady upward trend in revenue over the years. Starting at 4,376 million euros in 2008, the revenue gradually increased to 5,378 million euros in 2010. This upward trajectory continued, with the revenue reaching 6,436 million euros in 2011 and 7,843 million euros in 2012.
+
+From 2013 onwards, the revenue experienced a more significant increase, with the revenue rising to 8,903 million euros in 2013, 9,534 million euros in 2014, and 11,233 million euros in 2015. The revenue further increased to 11,973 million euros in 2016, 13,311 million euros in 2017, and 13,646 million euros in 2018.
+
+In 2019, the revenue of LVMH Group's selective retailing segment reached its highest point, with a revenue of 14,791 million euros. This represents a substantial increase from the previous year, indicating a strong growth trajectory in the segment.
+
+Overall, the data shows a consistent upward trend in the revenue of LVMH Group's selective retailing segment from 2008 to 2019, with the highest revenue recorded in 2019 at 14,791 million euros. This indicates a robust and expanding business model, likely driven by factors such as increased consumer demand, product innovation, and strategic expansion.

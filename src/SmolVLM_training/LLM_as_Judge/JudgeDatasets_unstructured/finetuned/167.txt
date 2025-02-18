@@ -1,0 +1,7 @@
+ The chart illustrates the distribution of global PC sales in 2010, broken down by distribution channel. The data reveals that the majority of PC sales were through local dealers, accounting for 17% of the total. PC stores, valued at 12%, also played a significant role in PC sales.
+
+Value-added resellers contributed to 11% of the total PC sales, highlighting their importance in the distribution chain. Consumer electronics stores, with 10%, were another notable channel, indicating their role in the market. Direct sales from the manufacturer or reseller, at 9%, were also significant.
+
+The remaining channels, including dealer chains, indirect sales, direct retail, and remaining channels, contributed a combined 13% to the total PC sales. Notably, mass merchants and indirect sales channels, such as fax, phone, and web, accounted for 4% and 3% respectively.
+
+Overall, the data indicates that local dealers, PC stores, and value-added resellers were the most prominent channels for PC sales in 2010. PC stores, valued at 12%, and value-added resellers, at 11%, were the most significant contributors to the total PC sales. The remaining channels, including consumer electronics stores, direct sales from manufacturers or resellers, dealer chains, indirect sales, direct retail, and remaining channels, contributed a combined 13% to the total.

@@ -1,0 +1,32 @@
+Real Gross Domestic Product ( GDP ) of the federal state of Virginia from 2000 to 2019 ( in billion U.S. dollars )
+
+The graph illustrates the changes in the population of India and China from 2000 to 2050, with projections extending to 2050.
+
+In 2000, Chinas population was approximately 1.25 billion, which increased gradually to about 1.35 billion by 2020. However, the graph predicts a peak in Chinas population around 2025 at 1.45 billion, followed by a gradual decline, reaching approximately 1.4 billion by 2050.
+
+In contrast, Indias population in 2000 was around one billion and has been rising steadily, reaching just under 1.25 billion by 2020. The projections indicate that Indias population will continue to grow, surpassing Chinas around 2030 and reaching a peak of approximately 1.6 billion by 2050.
+
+Overall, the graph highlights a significant demographic shift, with Indias population expected to grow continuously, while Chinas population is projected to decline after 2025. This trend underscores the differing demographic trajectories of the two most populous countries in the world.
+
+Sales of the three most commonly purchased items in a particular bakery for the year 2014.
+
+The graph shows the value of sales of popular baked goods in an individual bakery in 2014
+
+In January, sales of bread were valued at $80,000 but this figure fell to around $45,000 in March and fluctuated between $40,000 and $65,000 until September. The last quarter, however, saw a jump in the value of bread sales to finish where it was at the beginning of the year.
+
+The sales of buns followed quite a different pattern. In January, bun sales stood at $40,000 but quickly rose to $70,000 in May and remained stable until August, after which they plunged to just $30,000 in December.
+
+The sales of buns followed quite a different pattern. In January, bun sales stood at $40,000 but quickly rose to $70,000 in May and remained stable until August, after which they plunged to just $30,000 in December.
+
+The value of pies sold slowly increased from $10,000 in January to reach $20,000 in August. Sales then levelled off but went up sharply in the last two months of the year to close just ahead of buns at $40,000. Pies were the only item where sales figures in December exceeded those in January.
+
+Real Gross Domestic Product ( GDP ) of the federal state of Virginia from 2000 to 2019 ( in billion U.S. dollars )
+
+The graph illustrates the changes in the Real Gross Domestic Product (GDP) of Virginia from 2000 to 2019, measured in billion U.S. dollars.
+
+In 2000, Virginias GDP was $346.16 billion, and it experienced a steady increase over the next two decades. By 2019, the GDP had risen to $486 billion, reflecting consistent economic growth.
+
+The growth trajectory shows a notable upward trend, with the GDP surpassing $400 billion in 2005 and continuing to climb steadily. The most significant increases occurred between 2009 and 2019, where the GDP grew from $423.74 billion to $486 billion.
+
+Overall, the graph highlights Virginias robust economic performance over the 19-year period, with the GDP more than doubling from 2000 to 2019. This consistent growth underscores the states strong economic foundation and potential for future development.
+<SECOND>

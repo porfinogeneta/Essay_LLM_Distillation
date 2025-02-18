@@ -1,0 +1,1 @@
+ The number shown is the difference in the probability of not participating between selected groups within each demographic. For example, the probability of not participating is .18 for those age 18-29, compared with .04 for those 50 and older, a difference of .14.

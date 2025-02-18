@@ -1,0 +1,5 @@
+ The bar chart illustrates the number of items and percentage point difference between weighted full sample vs. cellphone sample estimates when landline interviews are excluded.
+
+The data shows that the number of items is significantly higher when landline interviews are excluded, reaching a peak of 140 items. Conversely, the percentage point difference between weighted full sample vs. cellphone sample estimates is minimal, with a value of just 1 percent.
+
+Overall, the data indicates that excluding landline interviews has a minimal impact on the number of items and a substantial effect on the percentage point difference. The most significant difference is the number of items, with a 140-item difference, while the percentage point difference is minimal, with a value of 1 percent.

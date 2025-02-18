@@ -1,0 +1,5 @@
+ The bar chart illustrates the average weekly terrestrial listenership of NPR-affiliated radio stations from 2015 to 2018. The data is presented in millions of listeners.
+
+In 2015, the average weekly terrestrial listenership of NPR-affiliated radio stations was approximately 10 million listeners. This figure remained relatively stable over the following years, with a slight increase in 2016 to around 11 million listeners. In 2017, the average weekly listenership increased to 12 million listeners, indicating a slight upward trend. However, in 2018, the average weekly listenership stabilized at around 11 million listeners, suggesting no significant change in the past three years.
+
+Overall, the average weekly terrestrial listenership of NPR-affiliated radio stations has remained relatively stable over the past three years, with a slight increase in 2016 and a slight decrease in 2018. The data indicates a slight upward trend in listenership from 2015 to 2016, followed by a stabilization in 2017 and 2018.

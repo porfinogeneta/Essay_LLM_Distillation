@@ -1,0 +1,11 @@
+ The line chart illustrates the average number of TVs tuned to Sunday morning political talk shows for ABC's This Week, CBS's Face the Nation, Fox News Sunday, and NBC's Meet the Press from 2016 to 2018.
+
+The data reveals a consistent decline in the average audience for Sunday morning political talk shows over the three-year period. In 2016, the average audience for ABC's This Week was approximately 2 million viewers, which slightly decreased to 1.9 million in 2017. By 2018, the average audience had further decreased to 1.8 million viewers.
+
+CBS's Face the Nation also experienced a decline in the average audience, with a decrease from 2 million viewers in 2016 to 1.7 million in 2017. The audience further decreased to 1.6 million viewers in 2018.
+
+Fox News Sunday also saw a decline in the average audience, from 2 million viewers in 2016 to 1.6 million in 2017, and 1.5 million in 2018.
+
+NBC's Meet the Press maintained a relatively stable audience, with a slight decrease from 2 million viewers in 2016 to 1.9 million in 2017, and a further decrease to 1.8 million in 2018.
+
+Overall, the data indicates a consistent decline in the average audience for Sunday morning political talk shows from 2016 to 2018. The most significant decreases were observed for ABC's This Week and CBS's Face the Nation, while NBC's Meet the Press and Fox News Sunday experienced smaller declines.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the U.S. machine tool manufacturing gross output from 2008 to 2018, measured in billion U.S. dollars.
+
+The data reveals a steady increase in gross output over the decade, with notable fluctuations. In 2008, the gross output was at 7.2 billion U.S. dollars, which rose to 8.1 billion U.S. dollars in 2012. The output continued to increase, reaching 8.5 billion U.S. dollars in 2014.
+
+However, there were some dips in the gross output. In 2016, the output decreased to 7.2 billion U.S. dollars, and further decreased to 7.7 billion U.S. dollars in 2017. The gross output recovered in 2018, reaching 7.9 billion U.S. dollars.
+
+Overall, the U.S. machine tool manufacturing gross output has shown a positive trend from 2008 to 2018, with notable fluctuations. The output increased significantly from 2008 to 2012, followed by a slight decline in 2016 and 2017. However, the gross output recovered in 2018, indicating a positive outlook for the industry.

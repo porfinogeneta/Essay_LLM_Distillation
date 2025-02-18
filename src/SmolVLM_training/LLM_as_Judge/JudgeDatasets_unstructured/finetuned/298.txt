@@ -1,0 +1,7 @@
+ The bar chart illustrates the leading passenger electric vehicle models by fleet size in the European Union as of May 12, 2020. The data is presented in thousands units.
+
+Renault Zoe leads the pack with the largest fleet size at 166,01 thousand units, followed by Mitsubishi Outlander (PHEV) with 87.88 thousand units. Nissan Leaf and Tesla Model 3 are the third and fourth largest models, with 83.42 thousand and 77.1 thousand units respectively.
+
+The remaining models, including BMW i3, Tesla Model S, Volkswagen e-Golf, Volkswagen Golf GTE, smart fortwo ED, and Volvo V60 (PHEV), have significantly smaller fleet sizes, ranging from 34.21 thousand to 54.85 thousand units.
+
+Overall, the chart highlights the dominance of Renault Zoe and Mitsubishi Outlander (PHEV) in the European Union's electric vehicle market, with Tesla Model 3 and Nissan Leaf trailing behind. The remaining models have relatively smaller fleet sizes, indicating a less widespread adoption of electric vehicles in this region.

@@ -3,8 +3,8 @@ import pandas as pd
 import re
 from datasets import Dataset, Features, Image, Value
 from huggingface_hub import login
-from Logger.logger import setup_logger
-# from .system_message import system_message
+from src.Logger.logger import setup_logger
+from src.SmolVLM_training.system_message import system_message
 from datasets import load_dataset
 
 logger = setup_logger()

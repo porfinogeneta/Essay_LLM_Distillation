@@ -1,0 +1,9 @@
+Bachelor's Degree Attainment Rates Among Hispanic Adults, by State, 2011 % among Hispanics ages 25 and older District of Columbia Virginia Maryland Florida
+The bar chart illustrates the Bachelors Degree attainment rates among Hispanic adults aged 25 and older in various states across the United States in 2011. The data is presented as percentages.
+
+The District of Columbia leads with the highest attainment rate at 36.2%, followed by Virginia at 24.1%. Maryland and Florida also show relatively high rates at 21.2% and 20.4% respectively. These states demonstrate a significant commitment to higher education among Hispanic adults.
+
+In contrast, states such as Nevada, Arkansas, and Mississippi report the lowest attainment rates, with Nevada at 8.1%, Arkansas at 8.5%, and Mississippi at 8.6%. These figures highlight a considerable disparity in educational attainment among Hispanic populations across different states.
+
+Overall, the data reveals a wide variation in Bachelors Degree attainment rates among Hispanic adults across the United States. While some states exhibit high levels of educational achievement, others lag significantly behind, indicating a need for targeted educational policies and support in lower-performing regions.
+<SECOND>

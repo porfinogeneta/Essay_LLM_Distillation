@@ -1,0 +1,9 @@
+ The bar chart illustrates the percentage of Americans who followed the debt limit deal and the government shutdown debate very closely, from February to August 2011.
+
+The data is presented in a categorical scale from February to August, with each month marked on the x-axis. The y-axis represents the percentage of Americans who followed the debate very closely, measured on a scale from 20 to 47.
+
+The data reveals a significant increase in interest in the debt limit deal and the government shutdown debate from February to April. In April, 47% of Americans followed the debate very closely, a notable increase from the 27% in February. This trend continues into May, with 25% of Americans following the debate very closely, a further increase from the 21% in April.
+
+However, the interest in the debt limit deal wanes in June, with only 23% of Americans following the debate very closely. This decline is followed by a sharp increase in the government shutdown debate in July, with 29% of Americans following the debate very closely. The interest in the debt limit deal then rises again in August, with 41% of Americans following the debate very closely.
+
+Overall, the data indicates a fluctuating interest in the debt limit deal and the government shutdown debate throughout the months of 2011. The interest peaks in April and June, with the highest percentage of Americans following the debate very closely. However, the interest declines in May and July, before rising again in August.

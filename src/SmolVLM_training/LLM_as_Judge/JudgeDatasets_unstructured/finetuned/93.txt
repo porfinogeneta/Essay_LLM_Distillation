@@ -1,0 +1,7 @@
+ The bar chart illustrates the number of words spoken by Democratic Party candidates on the first televised debate of the 2020 election campaign in the United States on June 26 and 27 , 2019. The data is presented in a categorical scale starting with Joe Biden and ending with Andrew Yang, with each candidate's name listed vertically on the y-axis.
+
+The chart reveals that Joe Biden, the Democratic Party candidate, spoke the most words, with a total of 2,475 words. This is followed by Cory Booker, who spoke 2,181 words. Kamala Harris, Pete Buttigieg, and Bernie Sanders also spoke a significant number of words, with 2,147, 1,932, and 1,676 words respectively. Elizabeth Warren, Amy Klobuchar, and Julián Castro also spoke a considerable amount of words, with 1,637, 1,614, and 1,588 words respectively.
+
+The remaining candidates, including Pete Buttigieg, Bernie Sanders, Elizabeth Warren, Amy Klobuchar, Julián Castro, Michael Bennet, Kirsten Gillibrand, Tim Ryan, Tulsi Gabbard, John Delaney, Marianne Williamson, Eric Swalwell, John Hickenlooper, Bill de Blasio, Jay Inslee, and Andrew Yang, all spoke fewer words, with the lowest being Andrew Yang at 594 words.
+
+Overall, the chart indicates that Joe Biden and Cory Booker spoke the most words during the first televised debate, while Andrew Yang spoke the least. The data suggests a trend where candidates with higher speaking positions, such as Biden and Booker, spoke more words compared to those with lower positions, such as Yang.

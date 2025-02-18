@@ -1,0 +1,11 @@
+ The bar chart illustrates the usage of mobile phones for various activities among adult mobile phone owners in sub-Saharan Africa, with data collected from Ghana, Kenya, Nigeria, Senegal, South Africa, and Tanzania.
+
+The data is presented in a categorical scale from "Social and entertainment" to "Get consumer information such as prices or availability of products," with percentages indicating the frequency of engagement in each activity.
+
+The most common activity among mobile phone owners in sub-Saharan Africa is sending text messages, with 78% of respondents engaging in this practice. This is followed by taking pictures or videos, with 59% of respondents using their phones for this purpose.
+
+Social and entertainment activities, such as sending text messages and taking pictures or videos, are the most prevalent among mobile phone owners in sub-Saharan Africa. This suggests that mobile phones are primarily used for personal and leisure activities, rather than professional or financial tasks.
+
+In contrast, the least common activities are accessing a social networking site and making or receiving payments. Only 42% of respondents use their phones for accessing social networking sites, and 59% use them for making or receiving payments. This indicates that mobile phones are less frequently used for professional or financial tasks in sub-Saharan Africa.
+
+Overall, the data reveals that mobile phone owners in sub-Saharan Africa tend to use their phones for social and entertainment activities, with a significant portion also engaging in personal and leisure activities. However, the use of mobile phones for professional or financial tasks is relatively less frequent, indicating a more limited role for mobile phones in these contexts.

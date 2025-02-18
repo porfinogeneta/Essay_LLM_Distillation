@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of the public who followed the Iraq news very closely from January 2004 to December 2004.
+
+The data reveals a fluctuating trend in public interest in Iraq news over the given period. Initially, in January 2004, the percentage of the public following Iraq news very closely was at 48%, which gradually decreased to 47% by February. Subsequently, the percentage increased to 54% in April, followed by a sharp decline to 39% in May. June saw a slight increase to 43%, but this was followed by a further drop to 39% in July.
+
+The percentage of the public following Iraq news very closely then rose to 47% in August, before declining again to 42% in September. October saw a slight increase to 43%, but this was followed by a further drop to 39% in November. December witnessed a further decrease to 34%, indicating a significant decline in public interest in Iraq news.
+
+Overall, the data suggests a decline in public interest in Iraq news from January to December 2004. The percentage of the public following Iraq news very closely peaked in April at 54%, but this was followed by a sharp decline to 39% in May. The interest gradually increased in June and July, but then declined again in August and September. The interest further decreased in October and November, with the lowest percentage of 34% in December.

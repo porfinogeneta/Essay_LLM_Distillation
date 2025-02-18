@@ -1,0 +1,10 @@
+Number of BMW cars sold in Italy from 2012 to 2019
+
+The bar chart illustrates the number of BMW cars sold in Italy from 2012 to 2019. The units are measured in thousands.
+
+The data reveals a consistent upward trend in the sales of BMW cars in Italy over the given period. Starting at 42,476 units in 2012, the sales figures gradually increased each year, reaching a peak of 60,894 units in 2017. This represents a significant growth of approximately 43% over five years.
+
+Although there was a slight decline in sales in 2018, with 57,145 units sold, the numbers rebounded in 2019 to 58,127 units. This indicates a resilient market for BMW cars in Italy, despite minor fluctuations. The overall trend suggests a strong and growing demand for BMW vehicles in the Italian market.
+
+Overall, the number of BMW cars sold in Italy increased steadily from 2012 to 2019, with a notable peak in 2017. Despite a slight dip in 2018, the sales figures remained robust, reflecting the enduring popularity of BMW cars among Italian consumers.
+<SECOND>

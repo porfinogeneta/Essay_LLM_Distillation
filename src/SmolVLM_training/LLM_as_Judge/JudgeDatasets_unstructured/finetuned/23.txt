@@ -1,0 +1,5 @@
+ The chart illustrates the share of the population using mobile broadband in Eastern Europe as of February 2014. The data is presented in a bar chart format, with each country represented by a vertical bar.
+
+Finland leads the region with the highest share of the population using mobile broadband, at 106%. Estonia follows closely with 73%, while Russia and Croatia are tied at 53%. Latvia, Poland, and the European average all have a share of 52%, while the Czech Republic, Greece, Bulgaria, and Serbia have shares of 44% each. Slovenia and Slovakia have shares of 37% and 35%, respectively, while Cyprus and Belarus have shares of 33% each. Montenegro has the lowest share at 27%.
+
+Overall, the data reveals that mobile broadband usage is relatively high in Eastern Europe, with Finland and Estonia leading the way. However, there are significant variations across countries, with some countries having higher usage rates than others. The European average and the Czech Republic stand out as having the lowest usage rates, while Finland and Estonia have the highest.

@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of births to unmarried women in the United States from 1980 to 2018. The data is presented in a categorical scale from 1980 to 2018, with 1980 on one end and 2018 at the other. The y-axis shows the percentage of births, ranging from 0% to 50%, while the x-axis plots the year of birth.
+
+The data reveals a significant increase in the percentage of births to unmarried women from 1980 to 2018. In 1980, the percentage was 18.4%, whereas in 2018, it rose to 39.6%. This trend indicates a growing trend of non-marital births over the past four decades.
+
+From 1980 to 2018, the percentage of births to unmarried women has consistently increased, with notable jumps in 1990, 2000, and 2018. The most significant increase was observed in 2018, where the percentage of births to unmarried women rose by 10.6 percentage points compared to 1980.
+
+Overall, the data shows a consistent upward trend in the percentage of births to unmarried women in the United States from 1980 to 2018. This trend highlights the changing social and demographic landscape of the country, with more women choosing to have children outside of marriage.

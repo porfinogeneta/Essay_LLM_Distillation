@@ -1,0 +1,12 @@
+Usage of electronic medical records ( EMR ) among primary care physicians in Canada from 2004 to 2018 
+
+The bar chart illustrates the usage of electronic medical records (EMR) among primary care physicians in Canada from 2004 to 2018. The data is represented as a percentage of physicians.
+
+The chart reveals a significant upward trend in the adoption of EMR among primary care physicians in Canada over the 14-year period. In 2004, only 16% of physicians used EMR, but this figure rose steadily each year, reaching 84% by 2018.
+
+The most notable increases occurred between 2004 and 2010, where the percentage of physicians using EMR jumped from 16% to 56%. This period saw the most rapid adoption, with an average annual increase of approximately 6.7 percentage points. From 2010 onwards, the growth rate slowed but continued to rise steadily, reaching 84% by 2018.
+
+The data indicates a clear trend towards the widespread adoption of EMR technology among primary care physicians in Canada. The increase in usage suggests a growing acceptance and integration of digital health records in medical practice, reflecting broader trends in healthcare technology adoption.
+
+Overall, the usage of EMR among primary care physicians in Canada has increased dramatically from 2004 to 2018. Starting at just 16% in 2004, the adoption rate climbed steadily, reaching 84% by 2018. This trend highlights the significant shift towards digital record-keeping in the Canadian healthcare system over the past decade and a half.
+The golden standard essay provides a detailed and comprehensive description of the usage of electronic medical records (EMR) among primary care physicians in Canada from 2004 to 2018. It includes specific data points, trends, and analysis of the adoption rate over the 14-year period. The essay highlights the significant increase in EMR usage, starting from 16% in 2004 to 84% in 2018, and discusses the periods of rapid adoption and the overall trend towards digital record-keeping

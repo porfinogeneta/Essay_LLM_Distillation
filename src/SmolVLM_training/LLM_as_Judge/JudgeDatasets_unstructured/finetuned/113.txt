@@ -1,0 +1,7 @@
+ The pie chart illustrates the distribution of U.S. adult Facebook users based on the number of categories they have listed on their ad preferences page. The data is categorized into four groups: those with 10 or more categories, those with fewer than 10 categories, and those with 21 or more categories.
+
+The majority of Facebook users (33%) have 21 or more categories listed on their ad preferences page. This is followed by those with fewer than 10 categories (27%), indicating that a significant portion of users have a relatively high number of categories. Conversely, a smaller percentage of users have 10 to 20 categories (27%), suggesting that a moderate number of categories is also common.
+
+Interestingly, a notable portion of users (11%) have not assigned any categories to their ad preferences page. This indicates that a significant minority of users do not actively manage their ad preferences, potentially leading to less targeted advertising.
+
+Overall, the data reveals that a majority of Facebook users have a substantial number of categories listed on their ad preferences page, with 21 or more categories being the most common. This suggests that users are actively managing their ad preferences, but a significant portion is not assigning any categories, indicating a potential area for improvement in user engagement and targeting.

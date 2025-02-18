@@ -1,0 +1,9 @@
+ The bar chart illustrates the most popular beach vacation activities worldwide as of July 2014, with a focus on the percentage of respondents who engaged in each activity.
+
+The data reveals that walking and swimming were the most popular activities, with 70% and 65% of respondents respectively engaging in these activities. Sunbathing and reading were also highly favored, with 53% and 53% of respondents engaging in these activities, respectively.
+
+Interestingly, napping and people-watching were also popular activities, with 48% and 47% of respondents engaging in these activities, respectively. Listening to music and drinking alcohol were also popular activities, with 45% and 39% of respondents engaging in these activities, respectively.
+
+Getting a massage or spa treatment and partying were the least popular activities, with only 30% and 25% of respondents engaging in these activities, respectively.
+
+Overall, the most popular beach vacation activities were walking, swimming, sunbathing, reading, napping, people-watching, listening to music, and drinking alcohol. The least popular activities were getting a massage or spa treatment and partying.

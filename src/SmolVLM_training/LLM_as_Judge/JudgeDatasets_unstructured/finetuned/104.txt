@@ -1,0 +1,5 @@
+ The bar chart illustrates the total assets of Citigroup from 2011 to 2019, measured in trillion U.S. dollars.
+
+The data reveals a consistent upward trend in Citigroup's total assets over the decade. Starting at 1.87 trillion U.S. dollars in 2011, the assets steadily increased to 1.95 trillion U.S. dollars in 2019. Notably, the most significant growth occurred between 2016 and 2017, with assets rising from 1.79 trillion to 1.84 trillion U.S. dollars.
+
+Overall, Citigroup's total assets have shown a positive trajectory, indicating a robust financial position and expanding market influence. The most substantial growth was observed between 2016 and 2017, highlighting the company's ability to adapt and expand its operations during a period of economic uncertainty.

@@ -1,0 +1,9 @@
+ The bar chart illustrates the total assets of MetLife from 2008 to 2019, measured in billion U.S. dollars.
+
+The data reveals a consistent upward trend in MetLife's total assets over the decade. Starting at 499.79 billion U.S. dollars in 2008, the assets steadily increased, reaching 885.3 billion U.S. dollars in 2013. This upward trajectory continued, with assets peaking at 902.34 billion U.S. dollars in 2014.
+
+Following a slight decline in 2015, the assets rebounded to 877.93 billion U.S. dollars in 2015. Subsequently, the assets rose again, peaking at 898.76 billion U.S. dollars in 2016. However, the assets decreased slightly in 2017, reaching 719.89 billion U.S. dollars.
+
+From 2018 onwards, the assets experienced a more pronounced increase, reaching 687.54 billion U.S. dollars in 2018. In 2019, the assets surged to 740.46 billion U.S. dollars, indicating a significant recovery from the previous year.
+
+Overall, MetLife's total assets have shown a consistent upward trend from 2008 to 2019, with notable increases in 2013, 2014, and 2016. The assets peaked in 2014 and 2016, followed by a slight decline in 2015 and 2017. However, the assets rebounded strongly in 2018 and 2019, indicating a robust recovery and a positive outlook for the company's financial performance in the future.

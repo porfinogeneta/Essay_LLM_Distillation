@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of U.S. adults who perceive the spread of infectious diseases as a major threat to the United States from March 3-12 and March 13-29, 2020.
+
+The data reveals a significant increase in the perception of infectious diseases as a major threat from March 3-12 to March 13-29. During the initial period, 73% of respondents considered the spread of infectious diseases a major threat, whereas this figure rose to 84% by the latter date. This indicates a substantial rise in public concern about infectious diseases over the course of the two weeks.
+
+The data suggests that the COVID-19 pandemic has significantly heightened public anxieties about infectious diseases. The sharp increase in the perception of a major threat from March 3-12 to March 13-29 reflects the growing awareness and concern about the spread of the virus, likely influenced by the rapid spread of the disease and the increasing number of cases reported.
+
+Overall, the data highlights a dramatic rise in public concern about infectious diseases as the COVID-19 pandemic progressed. By March 13-29, a majority of U.S. adults perceived the spread of infectious diseases as a major threat, reflecting the heightened public awareness and concern during this period.

@@ -1,0 +1,9 @@
+Fortune 500 board members
+The line graph illustrates the percentage of Fortune 500 board members who are women from 1995 to 2015.
+
+The graph reveals a gradual increase in the percentage of female board members over the 20-year period. Starting at just under 10% in 1995, the proportion of women on Fortune 500 boards has steadily risen.
+
+By 2005, the percentage had reached approximately 15%, indicating a slow but consistent growth. The upward trend continued, with the percentage surpassing 20% by 2015.
+
+Overall, the data indicates a positive trend in gender diversity on Fortune 500 boards, with the percentage of female members more than doubling over the two decades. Despite this progress, the representation of women remains relatively low, highlighting the need for continued efforts to achieve gender parity in corporate leadership.
+The first essay is more accurate and detailed in its description of the plot. It provides specific percentages and years, and it discusses the trend over the entire 20-year period. The second essay is less detailed and does not provide specific data points or a clear description of the trend. Therefore, the answer is <FIRST>.

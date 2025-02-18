@@ -1,0 +1,11 @@
+ The bar chart illustrates the number of reported burglary cases in the United States from 1990 to 2019. The data is presented in thousands, with a categorical scale starting with 1990 and ending with 2019 on the x-axis.
+
+The y-axis plots the number of reported burglary cases, measured in thousands, using a linear scale from 0 to 3,500,000.
+
+The chart reveals a significant upward trend in burglary cases from 1990 to 2019. The number of reported burglary cases has steadily increased over the years, with notable peaks in 2019 and 2016.
+
+In 2019, the number of burglary cases reached a peak of 1,117,696, a significant increase from the previous year. Similarly, in 2016, the number of burglary cases also saw a notable rise, reaching 1,516,405.
+
+Conversely, there were notable decreases in the number of burglary cases in 2008 and 2010, with 2,228,837 and 2,168,450 cases reported respectively. However, the trend of increasing cases resumed in 2011, with 2,185,140 cases reported.
+
+Overall, the data indicates a consistent upward trend in burglary cases from 1990 to 2019, with notable peaks in 2019 and 2016. The data also reveals a significant decrease in cases in 2008 and 2010, followed by a gradual increase in subsequent years.

@@ -1,0 +1,11 @@
+ The bar chart illustrates the distribution of hours spent on leisure activities by children in the United States as of June 2014. The data is categorized into five time intervals: 0 hours, 1-4 hours, 5-9 hours, 10-19 hours, and 20 or more hours.
+
+The majority of children (47%) spend 20 or more hours on leisure activities. This is significantly higher than the other time intervals, indicating a substantial amount of leisure time for these children. In contrast, only 1% of children spend 0 hours on leisure activities, highlighting the vast majority who engage in leisure activities.
+
+The second highest category is 10-19 hours, with 24% of children spending this amount of time on leisure activities. This category is slightly higher than the 10-19 hours category, suggesting that children in this age range may spend more time on leisure activities.
+
+The third highest category is 5-9 hours, with 15% of children spending this amount of time on leisure activities. This category is slightly lower than the 10-19 hours category, indicating that children in this age range may spend less time on leisure activities.
+
+The fourth highest category is 1-4 hours, with 13% of children spending this amount of time on leisure activities. This category is the lowest in terms of time spent on leisure activities, indicating that children in this age range may spend the least amount of time on leisure activities.
+
+Overall, the data reveals that children in the United States spend the most time on leisure activities, with 47% of children spending 20 or more hours on leisure activities. The second highest category is 10-19 hours, with 24% of children spending this amount of time on leisure activities. The lowest category is 0 hours, with only 1% of children spending this amount of time on leisure activities.

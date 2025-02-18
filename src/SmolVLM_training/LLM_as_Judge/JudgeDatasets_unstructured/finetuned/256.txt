@@ -1,0 +1,7 @@
+ The bar chart illustrates the projected gross domestic product (GDP) worldwide in 2030, by select megacities, in billion U.S. dollars.
+
+The data reveals that New York, U.S., Tokyo, Japan, and Beijing, China are projected to have the highest GDP in 2030, with figures of 44 billion U.S. dollars, 40 billion U.S. dollars, and 10 billion U.S. dollars respectively.
+
+In contrast, Delhi, India, is projected to have the lowest GDP in 2030, with a figure of 4 billion U.S. dollars.
+
+Overall, the chart indicates a significant disparity in projected GDP among select megacities worldwide in 2030, with New York, U.S., Tokyo, Japan, and Beijing, China projected to have the highest figures, while Delhi, India, is projected to have the lowest.

@@ -1,0 +1,5 @@
+ The chart illustrates the weekend box office revenue of the top movies in Taiwan from September 25 to 27, 2020, in U.S. dollars.
+
+The data reveals that the movie "Mulan" generated the highest revenue, amounting to 66,002 U.S. dollars. This was followed by "Antebellum," which earned 4,537 U.S. dollars. The movie "The New Mutants" generated the least revenue, with 1,164 U.S. dollars.
+
+Overall, the weekend box office revenue of the top movies in Taiwan during this period was dominated by "Mulan," with "Antebellum" and "The New Mutants" trailing significantly behind. The revenue from "Mulan" was more than double that of "Antebellum" and "The New Mutants," highlighting its popularity among Taiwanese audiences.

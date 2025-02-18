@@ -1,0 +1,7 @@
+ The bar chart illustrates the percentage of U.S. adults that use apps to track their sleep as of 2017, categorized by their frequency of use.
+
+The data reveals that a significant majority of U.S. adults (45%) use apps to track their sleep on a regular basis. This is followed by those who use apps occasionally, with 9% of respondents indicating this frequency. A notable minority (7%) use apps to track their sleep only once, while 31% do not use apps for this purpose.
+
+Interestingly, a smaller proportion of respondents (8%) use apps to track their sleep regularly, indicating a relatively low adoption rate for this method. This suggests that while many individuals recognize the potential benefits of sleep tracking, a significant portion still do not utilize apps for this purpose.
+
+Overall, the data highlights a trend where a majority of U.S. adults use apps to track their sleep on a regular basis, with a notable minority using it occasionally or not at all. This indicates a growing interest in sleep tracking technology among U.S. adults, but there is still a significant portion who do not utilize this method.

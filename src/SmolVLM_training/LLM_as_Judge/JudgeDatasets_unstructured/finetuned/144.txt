@@ -1,0 +1,7 @@
+ The bar chart illustrates the average newsstand sales per issue of The New Republic from the 4th quarter of 2012 to the 1st half of 2014.
+
+The data reveals a significant decline in newsstand sales over the four-year period. In the 4th quarter of 2012, the average sales per issue stood at 1,942, a substantial increase from the previous year. However, this figure dropped to 2,376 in the 2nd half of 2013, indicating a moderate decline.
+
+The most notable drop in sales occurred in the 1st half of 2014, with the average sales per issue falling to 1,904. This decline was further exacerbated in the 2nd half of 2014, where the average sales per issue dropped to 1,904, indicating a further decrease in readership.
+
+Overall, the data suggests a consistent decline in newsstand sales for The New Republic from the 4th quarter of 2012 to the 1st half of 2014. The most significant drop occurred in the 1st half of 2014, with the average sales per issue falling to 1,904, a substantial decrease from the previous year. This decline in sales may be attributed to various factors, including the rise of digital media and the changing reading habits of the public.

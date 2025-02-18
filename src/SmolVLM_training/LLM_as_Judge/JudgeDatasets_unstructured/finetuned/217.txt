@@ -1,0 +1,7 @@
+ The chart illustrates the regional breakdown of coronavirus COVID-19 cases in Vietnam as of April 23, 2020. The data is presented in a bar chart format, with each region represented by a vertical bar.
+
+The highest number of COVID-19 cases in Vietnam is reported in Ha Noi, with 123 cases. Ho Chi Minh City follows closely with 54 cases. The remaining regions, including Ninh Binh, Vinh Phuc, Binh Thuan, Quang Ninh, Da Nang, Dong Thap, Ha Nam, Hue, and Ha Tinh, have significantly fewer cases, ranging from 1 to 4 cases.
+
+The lowest number of cases is reported in Ha Giang, with only 1 case. The remaining regions, including Bac Giang, Tay Ninh, Thanh Hoa, Tra Vinh, Bac Lieu, Ninh Thuan, Can Tho, Lao Cai, Khanh Hoa, Dong Nai, Hai Duong, Ben Tre, Phu Tho, Thai Nguyen, Quang Nam, Lai Chau, Bac Ninh, and Ha Giang, have 1 to 2 cases.
+
+Overall, the data indicates that the majority of COVID-19 cases in Vietnam are concentrated in the capital cities of Ha Noi and Ho Chi Minh City, with the remaining regions having significantly fewer cases. The lowest number of cases is reported in Ha Giang, with only 1 case, highlighting the disparity in the spread of the virus across different regions.

@@ -1,0 +1,13 @@
+ The bar chart illustrates the percentage of Americans who have used a smartphone as part of a job search and the percentage of those who have experienced problems while using it. The data is categorized into different aspects of smartphone usage related to job searching.
+
+The chart reveals that 47% of Americans who have used a smartphone as part of a job search have encountered problems accessing content that did not display properly on their phone. This issue is the most prevalent, affecting 47% of the respondents.
+
+Another 47% of the respondents have experienced problems reading non-mobile optimized job content. This issue is also quite common, affecting 47% of the users.
+
+The third most common problem is entering a large amount of text on a smartphone, affecting 38% of the respondents. This issue is slightly less frequent than accessing content, but still significant.
+
+Submitting required files or supporting documents is the least common problem, affecting 37% of the users. This issue is less frequent than the previous two, but still noticeable.
+
+Saving or bookmarking jobs for later is the least common problem, affecting 23% of the respondents. This issue is the least frequent among the listed problems, indicating that most job seekers do not face this issue.
+
+Overall, the data suggests that smartphone job seekers encounter a range of problems navigating online employment resources. The most common issues are related to accessing content and reading non-mobile optimized job content. These issues are relatively frequent, affecting a substantial portion of the users. However, the least common problem is saving or bookmarking jobs for later, indicating that most job seekers do not face this issue.

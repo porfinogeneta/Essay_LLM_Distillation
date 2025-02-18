@@ -1,0 +1,7 @@
+ The pie chart illustrates the responses of individuals regarding the current state of affairs in their country, specifically focusing on the level of satisfaction with the current state of affairs. The data is based on a survey conducted in Spring 2014, and the responses are categorized into three main groups: Satisfied, Dissatisfied, and Don't Know.
+
+The majority of respondents, 81%, expressed dissatisfaction with the current state of affairs in their country. This high level of dissatisfaction is particularly noteworthy, as it indicates a widespread negative perception among the population. The second largest group, 17%, expressed dissatisfaction, highlighting the significant proportion of individuals who are not content with the current state of affairs.
+
+A smaller proportion of respondents, 2%, indicated that they were not familiar with the current state of affairs, which could be due to a lack of information or a deliberate choice to avoid addressing the issue.
+
+Overall, the data reveals a strong negative sentiment among the population, with a majority expressing dissatisfaction with the current state of affairs. This sentiment is particularly pronounced, with 81% of respondents dissatisfied, indicating a widespread dissatisfaction that requires attention and potential policy changes.

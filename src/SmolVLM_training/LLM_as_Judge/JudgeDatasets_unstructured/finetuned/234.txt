@@ -1,0 +1,7 @@
+ The bar chart illustrates the distribution forecast of global PC shipments in 2015, by device. The data is presented as a percentage of PC shipments.
+
+The most significant share of PC shipments in 2015 was predicted to be tablets, with a forecast of 41.8%. This was followed by notebooks, with a forecast of 32%. Desktop and netbook shipments were expected to account for a smaller percentage, with 24.6% and 1.6% respectively.
+
+Overall, the forecast indicates a strong dominance of tablets in the global PC market in 2015, with notebooks and desktops expected to have a relatively smaller share. Netbooks, on the other hand, were predicted to have the smallest share, at just 1.6%.
+
+This data highlights the growing popularity of tablets in the PC market, which is likely to continue in the future. The dominance of tablets suggests a shift towards mobile computing, with laptops and desktops becoming less prevalent.

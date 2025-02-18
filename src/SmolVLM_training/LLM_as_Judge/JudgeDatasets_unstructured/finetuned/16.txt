@@ -1,0 +1,5 @@
+ The bar chart illustrates the number of pet reptiles in the European Union in 2019, by country. The data is presented in thousands.
+
+France had the highest number of pet reptiles in 2019, with approximately 2,200,000. Italy followed closely with 1,361,000, while Spain had 1,241,000. Germany and the United Kingdom had 1,200,000 and 800,000, respectively. The Netherlands had 250,000, and Poland had 250,000. Austria, Denmark, Belgium, Sweden, Hungary, Portugal, Ireland, Romania, Finland, Bulgaria, Greece, and the Czech Republic had fewer than 100,000 pet reptiles. Slovenia had the lowest number, with only 3,000.
+
+Overall, France, Italy, and Spain had the highest number of pet reptiles in the European Union in 2019, with France having the highest number at 2,200,000. The Netherlands, Poland, and Austria had the lowest number, with Austria having the lowest at 3,000. The data suggests that the number of pet reptiles varies significantly across different countries in the EU.

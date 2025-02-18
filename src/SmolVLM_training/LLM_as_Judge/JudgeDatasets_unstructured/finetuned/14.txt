@@ -1,0 +1,3 @@
+ The pie chart illustrates the percentage of U.S. gun deaths by type in 2017. The data reveals that 60% of gun deaths were suicides, while 37% were murders. The remaining 3% were categorized as "other," which includes gun deaths that were unintentional, involved law enforcement, or had undetermined circumstances.
+
+This data highlights the significant role of suicides in U.S. gun deaths. The high percentage of suicides compared to murders underscores the importance of addressing mental health issues and promoting responsible gun ownership to reduce gun-related fatalities.

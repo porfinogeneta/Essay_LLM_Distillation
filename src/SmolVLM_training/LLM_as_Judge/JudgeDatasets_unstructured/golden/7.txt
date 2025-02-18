@@ -1,0 +1,10 @@
+Canada : Unemployment rate from 1999 to 2020
+
+The graph illustrates the unemployment rate in Canada from 1999 to 2020, highlighting fluctuations over the two-decade period.
+
+In 1999, the unemployment rate in Canada was 7.58%. It experienced a slight decline to 6.83% in 2000 but then rose to 7.67% in 2003. The rate saw a gradual decrease until 2007, reaching a low of 6.04%. However, the global financial crisis in 2008 caused a sharp spike, with the unemployment rate peaking at 8.34% in 2009.
+
+Post-2009, the unemployment rate began to decline steadily, dropping to 7.07% by 2014. Although there were minor fluctuations, the overall trend was downward. By 2019, the rate had decreased to 5.83%, the lowest in two decades. However, the onset of the COVID-19 pandemic in 2020 caused a slight increase to 5.41%.
+
+Overall, Canadas unemployment rate has shown significant volatility over the past two decades, influenced by global economic conditions and the recent pandemic. Despite periodic increases, the long-term trend indicates a gradual reduction in unemployment, reflecting economic resilience and recovery efforts.
+<SECOND>

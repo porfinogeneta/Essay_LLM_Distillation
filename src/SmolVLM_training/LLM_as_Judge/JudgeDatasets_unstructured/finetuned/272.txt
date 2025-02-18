@@ -1,0 +1,7 @@
+ The bar chart illustrates the average regular season attendance of selected sports leagues worldwide in 2019. The data is presented in thousands.
+
+The NFL had the highest average regular season attendance in 2019, with 67.1 thousand spectators. The Bundesliga followed closely, with an average of 43.45 thousand attendees. The EPL ranked third with 38.17 thousand spectators.
+
+The average regular season attendance of the AFL was 35.12 thousand, while the NPB had 30.93 thousand spectators. The MLB and La Liga had similar attendance figures, with 28.18 thousand and 26.81 thousand spectators respectively. The IPL* had the lowest average regular season attendance, with 25.71 thousand spectators.
+
+Overall, the average regular season attendance of the selected sports leagues worldwide in 2019 was relatively high, with the NFL and Bundesliga having the highest attendance figures. The EPL and AFL had the second and third highest attendance figures, respectively. The MLB, La Liga, IPL*, Serie A, CSL, CFL, Ligue 1, MLS, J-League, NBA, NHL, SPFL, and WNBA had lower attendance figures, with the lowest being the WNBA at 6.54 thousand spectators.

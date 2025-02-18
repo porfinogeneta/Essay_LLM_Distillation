@@ -1,0 +1,9 @@
+Year-to-year growth rates in home broadband adoption 80% 70%
+The chart illustrates the year-to-year growth rates in home broadband adoption from March 2002 to March 2007. The growth rates are expressed as percentages.
+
+The data reveals a fluctuating trend in the adoption of home broadband over the five-year period. The highest growth rate was observed between March 2003 and March 2004, with an impressive 67% increase. This was followed by a significant drop to 20% between March 2004 and March 2005.
+
+Initially, from March 2002 to March 2003, the growth rate was 50%, indicating a strong start in broadband adoption. However, the subsequent years did not maintain this momentum. The growth rate further declined to 40% between March 2005 and March 2006, and then to a mere 12% from March 2006 to March 2007.
+
+Overall, the data indicates an initial surge in home broadband adoption, followed by a gradual decline in growth rates over the years. The most substantial increase occurred between March 2003 and March 2004, after which the growth rates consistently decreased, reflecting a possible saturation in the market or a slowdown in the adoption rate.
+The first essay is more accurate and detailed in describing the plot image provided. It mentions the specific growth rates for each time period, the overall trend, and possible reasons for the changes in growth rates. The second essay only briefly mentions the time period from March 2006 to March 2007 and does not provide a comprehensive analysis of the entire data set. Therefore, the answer is <FIRST>.

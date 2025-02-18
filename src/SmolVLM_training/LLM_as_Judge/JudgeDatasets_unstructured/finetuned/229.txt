@@ -1,0 +1,5 @@
+ The bar chart illustrates the distribution of worldwide Fiat Chrysler Automobiles employees in 2019, by region. The data is presented as a percentage of the total number of employees.
+
+The chart reveals that North America had the highest share of Fiat Chrysler Automobiles employees in 2019, accounting for 49.87% of the total workforce. Europe followed closely, with 31.62% of employees residing there. Latin America accounted for 16.49%, while Asia had a relatively small share of 1.9%. The remaining 0.13% of employees were located in the rest of the world.
+
+Overall, North America had the largest share of Fiat Chrysler Automobiles employees in 2019, followed by Europe. The remaining regions had significantly smaller shares, with Asia having the smallest share at 1.9%. The data highlights the regional distribution of Fiat Chrysler Automobiles employees in 2019, indicating that the majority of the workforce was concentrated in North America and Europe.

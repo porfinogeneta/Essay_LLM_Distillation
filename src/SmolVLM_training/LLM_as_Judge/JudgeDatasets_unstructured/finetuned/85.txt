@@ -1,0 +1,7 @@
+ The bar chart illustrates the top states for U.S. refugee resettlement in fiscal year 2019, with the number of refugees resettled by state measured on a categorical scale from Texas to Michigan.
+
+The data reveals that Texas and Washington were the top two states for refugee resettlement, with 2,500 and 1,900 refugees respectively. New York and California followed closely, with 1,800 and 1,800 refugees respectively. Kentucky, Ohio, North Carolina, Arizona, Georgia, and Michigan rounded out the top ten, with 1,400, 1,400, 1,300, 1,200, 1,200, and 1,100 refugees respectively.
+
+Overall, Texas and Washington were the leading states for refugee resettlement in fiscal year 2019, with Texas significantly outpacing Washington. The remaining states also contributed a notable number of refugees, with Kentucky, Ohio, North Carolina, Arizona, Georgia, and Michigan each resettling around 1,400 refugees.
+
+The data highlights the significant regional disparities in refugee resettlement in the United States, with Texas and Washington leading the way, while other states contributed a more moderate number of refugees. The data underscores the importance of understanding these regional disparities in order to address the challenges and opportunities associated with refugee resettlement in the United States.

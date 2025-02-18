@@ -1,0 +1,9 @@
+ The bar chart illustrates the percentage of gig platform workers who use online job/task platforms for various reasons. The data is presented in a categorical scale from "For fun, do something with their spare time" to "Need to be able to control own schedule," with the latter being the highest percentage at 42%.
+
+The second highest reason, "Help fill in gaps or fluctuations in income," is cited by 37% of gig platform workers. This suggests that many users rely on these platforms to supplement their income during periods of low earnings or irregular work schedules.
+
+The third most common reason is "Need to be able to control own schedule," with 30% of workers citing this as a primary motivation. This indicates that flexibility in work hours is a significant factor for many gig platform users.
+
+The lowest percentage, at 19%, is attributed to "Gain future job experience." This highlights the importance of gaining practical work experience through gig platforms, although it is not as prevalent as other reasons.
+
+Overall, the data reveals that the primary reasons for using gig platforms are for personal enjoyment, financial stability, and flexibility in work schedules. The data also indicates that users are more likely to use these platforms to fill gaps in income or control their own schedules, suggesting that these factors are crucial for many users.

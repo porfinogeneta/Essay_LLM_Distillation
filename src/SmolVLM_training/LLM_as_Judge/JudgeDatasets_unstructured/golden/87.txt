@@ -1,0 +1,10 @@
+Weekend box office revenue of the top movies in Taiwan from September 25 to 27 , 2020 ( in U.S. dollars )
+
+The bar chart illustrates the weekend box office revenue of the top movies in Taiwan from September 25 to 27, 2020, measured in U.S. dollars.
+
+The chart reveals that Mulan dominated the box office, generating a substantial revenue of $66,002, significantly outperforming the other movies. In stark contrast, Antebellum and The New Mutants garnered much lower revenues, with Antebellum earning $4,537 and The New Mutants only $1,164.
+
+The disparity in earnings is evident, with Mulan achieving a revenue more than ten times that of Antebellum and over fifty times that of The New Mutants. This indicates a strong preference or higher demand for Mulan among Taiwanese audiences during the specified weekend.
+
+Overall, Mulan was the clear frontrunner in terms of box office revenue, vastly overshadowing Antebellum and The New Mutants. The significant difference in earnings highlights the varying levels of popularity and audience engagement with these films in Taiwan over the weekend in question.
+<SECOND>

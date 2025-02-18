@@ -1,0 +1,5 @@
+ The bar chart illustrates the net sales per square foot of Family Dollar in the United States from 2008 to 2014. The data is presented in U.S. dollars.
+
+The net sales per square foot of Family Dollar in the United States increased from 152 dollars in 2008 to 180 dollars in 2014. The net sales per square foot of Family Dollar in the United States increased from 158 dollars in 2009 to 181 dollars in 2012. The net sales per square foot of Family Dollar in the United States increased from 174 dollars in 2011 to 189 dollars in 2013.
+
+Overall, the net sales per square foot of Family Dollar in the United States increased from 2008 to 2014, with the highest increase observed in 2014. The net sales per square foot of Family Dollar in the United States increased from 152 dollars in 2008 to 180 dollars in 2014, indicating a significant growth in the company's sales.

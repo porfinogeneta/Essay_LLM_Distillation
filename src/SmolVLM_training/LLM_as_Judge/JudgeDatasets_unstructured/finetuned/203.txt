@@ -1,0 +1,9 @@
+ The bar chart illustrates the share of haunted house visitors in the United States between 2014 and 2016, categorized by age group.
+
+The data reveals that the highest share of haunted house visitors was among individuals aged 18-24, with 25% of respondents falling into this category. This age group also had the second-highest share, with 19.6% of respondents.
+
+In contrast, the age group with the lowest share of visitors was 65 and above, with only 2.3% of respondents falling into this category.
+
+Overall, the data indicates that the age group with the highest share of haunted house visitors is the 18-24 age group, followed by the 25-34 age group. The share of visitors decreases with age, with the lowest share among the 65 and above age group.
+
+This trend suggests that younger generations are more likely to visit haunted houses compared to older generations. The data could be further analyzed to understand the factors influencing this age-related trend, such as cultural preferences, personal interests, and the availability of haunted house experiences.
