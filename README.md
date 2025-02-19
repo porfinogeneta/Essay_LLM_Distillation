@@ -4,7 +4,7 @@ The aim of this project was to determine whether it is possible to extract knowl
 # General idea of extraction
 The project follows a pipeline approach:
 1. Use prompt engineering to "convince" MiniMax to generate Band 9 IELTS Task 1 essays.
-2. Collect the generated essays to create a structured database.
+2. Collect the generated essays to create a database.
 3. Train the SmolVLM model on this artificial dataset.
 4. Evaluate the training using the LLM-as-a-Judge approach.
 
@@ -22,6 +22,8 @@ To generate the essays, I used a Chain-of-Thought style prompt. For each categor
 ![alt text](image-2.png)
 
 Foreign-born population in the United States, 1850-2018
+
+#### Structured Essay Example:
 ```
 1. <Describe a graph:> 
 "The graph illustrates the changes in the foreign-born population in the United States from 1850 to 2018." 
@@ -38,7 +40,7 @@ Paragraph 2:
  "Overall, the foreign-born population in the United States has experienced substantial growth over the past century and a half, with a notable increase in recent decades. The population has more than tripled since 1970, reflecting significant changes in immigration patterns and policies."
 ```
 
-### Same Essay Without the Structure:
+#### Unstructured Essay Example:
 ```
 The graph illustrates the changes in the foreign-born population in the United States from 1850 to 2018. 
 
